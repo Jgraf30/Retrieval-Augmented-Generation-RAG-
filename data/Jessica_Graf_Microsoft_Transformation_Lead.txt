@@ -1,0 +1,47 @@
+Jessica Graf
+Round Mountain, TX • jgraf9@gmail.com • 512-920-9266 • linkedin.com/in/jessicagraf
+
+Microsoft Transformation Lead | Enterprise IT Architect
+Professional Summary
+Transformation leader with 20+ years of experience driving enterprise migrations to Microsoft 365, consolidating intranet/internet platforms, and implementing new Microsoft cloud products. Proven record leading large-scale IT transformations that align business and IT strategies, improve collaboration, and strengthen compliance in healthcare, government, and enterprise organizations. Skilled at building governance frameworks, leading cross-functional teams, and delivering measurable adoption and cost savings.
+Core Skills
+* • Microsoft 365 Strategy & Roadmaps
+* • SharePoint / Intranet & Internet Consolidation
+* • Power Platform (Power Apps, Power Automate, Power BI, Copilot Studio)
+* • Microsoft Copilot Implementation & Adoption
+* • Microsoft Fabric & Data Integration
+* • Cloud Migrations (Exchange, SharePoint, Teams, OneDrive)
+* • Governance, Compliance & Risk (HIPAA, SOC 2, FedRAMP)
+* • Digital Transformation & Change Leadership
+* • Enterprise Architecture & Stakeholder Engagement
+* • Vendor & Budget Management
+Professional Experience
+MERP Systems, Inc. — IT Solutions Architect / Microsoft Transformation Lead | 2022 – Present
+* • Led tenant-to-tenant migration for 5,000+ users with zero data loss, ensuring seamless continuity for public health programs.
+* • Directed consolidation of intranet and internet sites into SharePoint Online, improving usability and cutting infrastructure footprint by 70%.
+* • Designed governance and adoption strategies for Microsoft Fabric, Power Platform, and Copilot, ensuring compliance with GCC High standards.
+* • Automated provisioning and reporting with PowerShell and Power Automate, saving 20+ IT hours weekly.
+* • Partnered with CIOs and business executives to align Microsoft investments with organizational strategy.
+Hanger, Inc. — Senior IT Engineer (M365 & Collaboration Architect) | 2018 – 2022
+* • Oversaw enterprise Microsoft 365 migration for 5,000+ employees, enabling hybrid work and driving 90% adoption of Teams within one year.
+* • Implemented Power BI governance and compliance frameworks, ensuring HIPAA/SOC 2 audit readiness.
+* • Directed Exchange migration to Exchange Online, reducing costs by 25% and improving uptime.
+* • Consolidated legacy SharePoint sites into a modernized intranet, reducing claim processing cycles by 75%.
+* • Served as change leader, coaching IT staff and business units through new M365 product rollouts.
+Carollo Engineers — IT Team Lead / SharePoint & M365 Engineer | 2015 – 2018
+* • Led SharePoint and Microsoft 365 migrations for 1,500+ employees across multiple offices.
+* • Consolidated department intranets into a unified hub, improving collaboration and reducing support tickets by 30%.
+* • Implemented Conditional Access, MFA, and DLP controls to meet compliance requirements.
+* • Built Power Platform workflows that cut project approval cycles by 50%.
+Dell Technologies — IT Architect, Microsoft & Enterprise Platforms | 2012 – 2015
+* • Supported hybrid Microsoft 365 deployments for 10,000+ global users across 20+ offices.
+* • Automated provisioning with PowerShell, reducing onboarding time by 70%.
+* • Partnered with leadership to design global IAM and disaster recovery strategies, ensuring 24x7 continuity.
+* • Migrated global intranet content into modernized SharePoint and Teams environments.
+Education & Certifications
+* • B.A. Anthropology — University of Arizona
+* • Microsoft Certified: Power Platform Solution Architect Expert
+* • Microsoft Certified: Enterprise Administrator Expert (M365)
+* • Microsoft Certified Solutions Expert (MCSE: SharePoint)
+* • Microsoft Certified: Power BI Data Analyst Associate
+* • ITIL Practitioner
