@@ -44,7 +44,7 @@ jobs:
 
       # OPTIONAL: use OpenAI if you have a key set on the repo as SECRET
       - name: Configure OpenAI (optional)
-        if: ${{ secrets.OPENAI_API_KEY != '' }}
+        if: ${{ secrets.OPENAI_API_KEY != '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' }}
         run: |
           echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> $GITHUB_ENV
 
