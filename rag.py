@@ -38,16 +38,33 @@ def _hash_vec(s: str, dim=384) -> np.ndarray:
     v = v / (np.linalg.norm(v) + 1e-9)
     return v
 
+def _embed_fallback(texts: List[str]) -> np.ndarray:
+    return np.stack([_hash_vec(t) for t in texts], axis=0) if texts else np.zeros((0,384), dtype="float32")
+
 def _embed_texts(texts: List[str]) -> np.ndarray:
+    """Try OpenAI; if anything goes wrong, fall back silently."""
+    if not texts:
+        return np.zeros((0,384), dtype="float32")
+
+    use = os.getenv("USE_OPENAI", "auto").lower()
     key = os.getenv("OPENAI_API_KEY", "").strip()
+
+    if use in ("never", "false", "0"):
+        return _embed_fallback(texts)
+
     if OpenAI and key:
-        client = OpenAI(api_key=key)
-        resp = client.embeddings.create(model=EMBED_MODEL, input=texts)
-        vecs = np.array([np.array(e.embedding, dtype="float32") for e in resp.data])
-        norms = np.linalg.norm(vecs, axis=1, keepdims=True) + 1e-9
-        return vecs / norms
-    # fallback
-    return np.stack([_hash_vec(t) for t in texts], axis=0)
+        try:
+            client = OpenAI()  # reads key from env
+            resp = client.embeddings.create(model=EMBED_MODEL, input=texts)
+            vecs = np.array([np.array(e.embedding, dtype="float32") for e in resp.data])
+            norms = np.linalg.norm(vecs, axis=1, keepdims=True) + 1e-9
+            return vecs / norms
+        except Exception as e:
+            print(f"[WARN] OpenAI embeddings failed: {e} → falling back.")
+            return _embed_fallback(texts)
+
+    # No SDK or no key → fallback
+    return _embed_fallback(texts)
 
 @dataclass
 class Store:
@@ -135,15 +152,24 @@ Cite sources as [n] for the provided chunk index. If not in the chunks, say you 
 """
 
 def _llm_answer(question: str, contexts: List[str]) -> str:
+    use = os.getenv("USE_OPENAI", "auto").lower()
     key = os.getenv("OPENAI_API_KEY", "").strip()
+
+    if use in ("never", "false", "0"):
+        return (" ".join(contexts[:2])[:1200] if contexts else "I don't know.")
+
     if OpenAI and key:
-        client = OpenAI(api_key=key)
-        msgs = [
-            {"role":"system","content":SYSTEM_PROMPT},
-            {"role":"user","content": f"Question: {question}\n\nContext:\n" + "\n\n".join(f"[{i+1}] {c}" for i,c in enumerate(contexts))}
-        ]
-        resp = client.chat.completions.create(model=GEN_MODEL, messages=msgs, temperature=0.2)
-        return resp.choices[0].message.content.strip()
+        try:
+            client = OpenAI()
+            msgs = [
+                {"role":"system","content":SYSTEM_PROMPT},
+                {"role":"user","content": f"Question: {question}\n\nContext:\n" + "\n\n".join(f"[{i+1}] {c}" for i,c in enumerate(contexts))}
+            ]
+            resp = client.chat.completions.create(model=GEN_MODEL, messages=msgs, temperature=0.2)
+            return resp.choices[0].message.content.strip()
+        except Exception as e:
+            print(f"[WARN] OpenAI chat failed: {e} → falling back.")
+
     # Fallback: extractive (top chunks)
     return (" ".join(contexts[:2])[:1200] if contexts else "I don't know.")
 
