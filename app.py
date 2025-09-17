@@ -1,23 +1,24 @@
-import os
-from fastapi import FastAPI
-from pydantic import BaseModel
-from rag import Store, build_store, answer
+async function load() {
+  try {
+    const r = await fetch("answers.json", {cache:"no-store"});
+    if (!r.ok) throw new Error("answers.json not found");
+    const data = await r.json();
 
-app = FastAPI(title="RAG API")
-STORE_DIR = os.getenv("STORE_DIR", "store")
-DATA_DIR  = os.getenv("DATA_DIR", "data")
+    document.getElementById("q").textContent = data.question || "(no question)";
+    document.getElementById("ans").textContent = data.result?.answer || "(no answer)";
 
-class AskReq(BaseModel):
-    q: str
-    k: int = 5
+    const meta = document.getElementById("meta");
+    meta.innerHTML = `<small>Top-K: ${data.top_k ?? "?"}</small>`;
 
-@app.post("/ingest")
-def ingest():
-    st = build_store(DATA_DIR, STORE_DIR)
-    return {"status": "ok", "chunks": len(st.meta)}
-
-@app.post("/ask")
-def ask_api(body: AskReq):
-    st = Store.load(STORE_DIR)
-    res = answer(st, body.q, k=body.k)
-    return res
+    const list = document.getElementById("srcs");
+    list.innerHTML = "";
+    (data.result?.sources || []).forEach(s => {
+      const li = document.createElement("li");
+      li.textContent = `[${s.rank}] ${s.source} (score ${Number(s.score).toFixed(3)})`;
+      list.appendChild(li);
+    });
+  } catch (e) {
+    document.body.innerHTML = `<p style="color:#f87171">Failed to load answers.json: ${e.message}</p>`;
+  }
+}
+document.addEventListener("DOMContentLoaded", load);
