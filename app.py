@@ -17,7 +17,7 @@ def ingest():
     return {"status": "ok", "chunks": len(st.meta)}
 
 @app.post("/ask")
-def ask(body: AskReq):
+def ask_api(body: AskReq):
     st = Store.load(STORE_DIR)
     res = answer(st, body.q, k=body.k)
     return res
