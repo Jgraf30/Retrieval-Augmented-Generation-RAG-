@@ -1,14 +1,23 @@
-from fastapi import FastAPI, Query
-from rag import ask, ingest
+import os
+from fastapi import FastAPI
+from pydantic import BaseModel
+from rag import Store, build_store, answer
 
 app = FastAPI(title="RAG API")
+STORE_DIR = os.getenv("STORE_DIR", "store")
+DATA_DIR  = os.getenv("DATA_DIR", "data")
 
-@app.get("/ingest")
-def ingest_api(data: str = "data", store: str = "store"):
-    ingest(data, store)
-    return {"status": "ok", "message": f"Ingested docs from {data}"}
+class AskReq(BaseModel):
+    q: str
+    k: int = 5
 
-@app.get("/ask")
-def ask_api(q: str = Query(..., description="Your question"), store: str = "store"):
-    ask(store, q)
-    return {"status": "ok", "query": q}
+@app.post("/ingest")
+def ingest():
+    st = build_store(DATA_DIR, STORE_DIR)
+    return {"status": "ok", "chunks": len(st.meta)}
+
+@app.post("/ask")
+def ask(body: AskReq):
+    st = Store.load(STORE_DIR)
+    res = answer(st, body.q, k=body.k)
+    return res
