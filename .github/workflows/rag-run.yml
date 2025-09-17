@@ -25,8 +25,7 @@ jobs:
       DATA_DIR: data
       QUESTION: ${{ github.event.inputs.question || 'What does the documentation say?' }}
       TOP_K: ${{ github.event.inputs.top_k || '5' }}
-      # Control OpenAI usage: "auto" (try, fallback on error) or "never" (always fallback)
-      USE_OPENAI: auto
+      USE_OPENAI: auto  # "auto" tries OpenAI then falls back; set "never" to always use fallback
 
     steps:
       - name: Checkout
@@ -86,12 +85,13 @@ jobs:
           name: rag-answers
           path: answers.json
 
-      - name: Publish static dashboard to root (for GitHub Pages)
+      # Publish a simple static dashboard at repo root (for GitHub Pages)
+      - name: Publish static dashboard to root
         run: |
-          cp pages.index.html index.html
-          cp pages.app.js app.js
-          cp pages.style.css style.css
-          cp answers.json answers.json
+          # Copy only the static assets. answers.json is already at root.
+          cp -f pages.index.html index.html
+          cp -f pages.app.js app.js
+          cp -f pages.style.css style.css
           echo "== root listing =="
           ls -la
 
