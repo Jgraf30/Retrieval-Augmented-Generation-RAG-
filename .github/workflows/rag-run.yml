@@ -43,15 +43,22 @@ jobs:
           pip install -r requirements.txt
           pip install pytest
 
+      # Configure OpenAI (optional, will no-op if the secret isn't set)
       - name: Configure OpenAI (optional)
-        if: ${{ secrets.OPENAI_API_KEY != '' }}
+        env:
+          OPENAI_API_KEY_SECRET: ${{ secrets.OPENAI_API_KEY }}
         run: |
-          echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> $GITHUB_ENV
+          if [ -n "${OPENAI_API_KEY_SECRET}" ]; then
+            echo "OPENAI_API_KEY=${OPENAI_API_KEY_SECRET}" >> "$GITHUB_ENV"
+            echo "Using OpenAI for embeddings/LLM."
+          else
+            echo "No OPENAI_API_KEY secret; using deterministic fallback."
+          fi
 
       - name: Ensure data exists
         run: |
           mkdir -p "${DATA_DIR}"
-          if [ -z "$(ls -A ${DATA_DIR} || true)" ]; then
+          if [ -z "$(ls -A "${DATA_DIR}" 2>/dev/null)" ]; then
             echo "Contoso builds secure Microsoft 365 solutions. External sharing is restricted." > "${DATA_DIR}/seed.txt"
           fi
           echo "== data/ =="
@@ -77,7 +84,8 @@ jobs:
           name: rag-answers
           path: answers.json
 
-      - name: Publish static dashboard to root (for GitHub Pages)
+      # Publish a simple static dashboard at repo root (for GitHub Pages)
+      - name: Publish static dashboard to root
         run: |
           cp pages.index.html index.html
           cp pages.app.js app.js
