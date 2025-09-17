@@ -2,8 +2,8 @@ import argparse, json
 from rag import Store, answer
 
 SAMPLE = [
-    {"q": "What is the main topic of the documents?", "must_include": ["",]},
-    {"q": "Name one important detail mentioned.", "must_include": ["",]}
+    {"q": "What does Contoso build?", "must_include": ["Contoso"]},
+    {"q": "Is external sharing mentioned?", "must_include": ["sharing","share"]},
 ]
 
 def run_eval(store_dir: str, suite: str = "sample"):
