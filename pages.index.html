@@ -18,25 +18,5 @@
     </article>
   </main>
   <script src="app.js"></script>
-  <button id="themeToggle" class="theme-toggle">🌙</button>
-  <script>
-  const toggleButton = document.getElementById('themeToggle');
-  const body = document.body;
-
-  // Load saved theme from localStorage
-  if (localStorage.getItem('theme') === 'light') {
-    body.classList.add('light');
-    toggleButton.textContent = '🌙';
-  } else {
-    toggleButton.textContent = '☀️';
-  }
-
-  toggleButton.addEventListener('click', () => {
-    body.classList.toggle('light');
-    const isLight = body.classList.contains('light');
-    localStorage.setItem('theme', isLight ? 'light' : 'dark');
-    toggleButton.textContent = isLight ? '🌙' : '☀️';
-  });
-</script>
 </body>
 </html>
