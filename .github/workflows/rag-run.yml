@@ -25,6 +25,8 @@ jobs:
       DATA_DIR: data
       QUESTION: ${{ github.event.inputs.question || 'What does the documentation say?' }}
       TOP_K: ${{ github.event.inputs.top_k || '5' }}
+      # Control OpenAI usage: "auto" (try, fallback on error) or "never" (always fallback)
+      USE_OPENAI: auto
 
     steps:
       - name: Checkout
@@ -50,7 +52,7 @@ jobs:
         run: |
           if [ -n "${OPENAI_API_KEY_SECRET}" ]; then
             echo "OPENAI_API_KEY=${OPENAI_API_KEY_SECRET}" >> "$GITHUB_ENV"
-            echo "Using OpenAI for embeddings/LLM."
+            echo "Using OpenAI if available (will fall back on error)."
           else
             echo "No OPENAI_API_KEY secret; using deterministic fallback."
           fi
@@ -84,8 +86,7 @@ jobs:
           name: rag-answers
           path: answers.json
 
-      # Publish a simple static dashboard at repo root (for GitHub Pages)
-      - name: Publish static dashboard to root
+      - name: Publish static dashboard to root (for GitHub Pages)
         run: |
           cp pages.index.html index.html
           cp pages.app.js app.js
