@@ -17,8 +17,7 @@ STORE_DIR_DEFAULT = "store"
 DATA_DIR_DEFAULT  = "data"
 
 def _normalize_ws(s: str) -> str:
-    import re as _re
-    return _re.sub(r"\s+", " ", (s or "").strip())
+    return re.sub(r"\s+", " ", (s or "").strip())
 
 def _split_chunks(text: str, chunk_size=900, overlap=150) -> List[str]:
     words = text.split()
@@ -102,7 +101,7 @@ def _load_docs(data_dir: str) -> List[Tuple[str,str]]:
                 docs.append((fp, _read_pdf(fp)))
     return docs
 
-def build_store(data_dir: str, store_dir: str, chunk_size=900, overlap=150) -> Store:
+def build_store(data_dir: str, store_dir: str, chunk_size=900, overlap=150) -> 'Store':
     docs = _load_docs(data_dir)
     metas, texts = [], []
     for src, raw in docs:
@@ -148,7 +147,7 @@ def _llm_answer(question: str, contexts: List[str]) -> str:
     # Fallback: extractive (top chunks)
     return (" ".join(contexts[:2])[:1200] if contexts else "I don't know.")
 
-def answer(store: Store, q: str, k: int = 5) -> Dict:
+def answer(store: 'Store', q: str, k: int = 5) -> Dict:
     hits = store.search(q, k=k)
     contexts = [h[1]["chunk"] for h in hits]
     answer_text = _llm_answer(q, contexts)
