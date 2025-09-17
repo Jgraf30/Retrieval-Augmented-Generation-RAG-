@@ -1,0 +1,94 @@
+name: LLM RAG — Ingest, Ask, Publish
+
+on:
+  workflow_dispatch:
+    inputs:
+      question:
+        description: "Question to ask over the ingested docs"
+        required: true
+        default: "What does the documentation say?"
+      top_k:
+        description: "Top-k passages"
+        required: true
+        default: "5"
+  schedule:
+    - cron: "0 14 * * *"  # 9:00 AM America/Chicago
+
+permissions:
+  contents: write
+
+jobs:
+  run-rag:
+    runs-on: ubuntu-latest
+    env:
+      STORE_DIR: store
+      DATA_DIR: data
+      QUESTION: ${{ github.event.inputs.question || 'What does the documentation say?' }}
+      TOP_K: ${{ github.event.inputs.top_k || '5' }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # OPTIONAL: use OpenAI if you have a key set on the repo as SECRET
+      - name: Configure OpenAI (optional)
+        if: ${{ secrets.OPENAI_API_KEY != '' }}
+        run: |
+          echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> $GITHUB_ENV
+
+      - name: Ensure data exists
+        run: |
+          mkdir -p "${DATA_DIR}"
+          # If no files present, seed a tiny doc so the run is never empty
+          if [ -z "$(ls -A ${DATA_DIR} || true)" ]; then
+            echo "Contoso builds secure Microsoft 365 solutions. External sharing is restricted." > "${DATA_DIR}/seed.txt"
+          fi
+          echo "== data/ =="
+          ls -la "${DATA_DIR}"
+
+      - name: Ingest to store/
+        run: |
+          python rag.py ingest --data "${DATA_DIR}" --store "${STORE_DIR}"
+
+      - name: Ask question and write answers.json
+        run: |
+          python batch.py --store "${STORE_DIR}" --q "${QUESTION}" --k "${TOP_K}" --out answers.json
+          echo "== answers.json =="
+          cat answers.json
+
+      - name: Upload answers artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: rag-answers
+          path: answers.json
+
+      # OPTIONAL: Publish a static dashboard (root: index.html/app.js/style.css/answers.json)
+      - name: Publish static dashboard to root (for GitHub Pages)
+        run: |
+          cp pages.index.html index.html
+          cp pages.app.js app.js
+          cp pages.style.css style.css
+          cp answers.json answers.json
+          echo "== root listing =="
+          ls -la
+
+      - name: Commit & push (root site + answers.json)
+        if: github.ref == 'refs/heads/main'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "RAG: ingest + answer + publish dashboard [skip ci]" || echo "Nothing to commit"
+          git push
