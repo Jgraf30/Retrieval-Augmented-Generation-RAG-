@@ -11,7 +11,7 @@ def main():
     args = ap.parse_args()
 
     # Ensure store is built (idempotent)
-    st = build_store(args.data, args.store)
+    build_store(args.data, args.store)
     res = answer(Store.load(args.store), args.q, k=args.k)
 
     out = {
