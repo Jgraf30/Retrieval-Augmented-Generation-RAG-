@@ -67,6 +67,11 @@ jobs:
           mkdir -p "${DATA_DIR}"
 
           have() { command -v "$1" >/dev/null 2>&1; }
+          
+        - name: Run downloader (fetch 20 docs into data/)
+        run: |
+          chmod +x ./download_data.sh
+          ./download_data.sh || true
 
           # Simple HTML -> TXT scrubber (uses lynx/w3m if present; otherwise sed fallback)
           html_to_txt() {
