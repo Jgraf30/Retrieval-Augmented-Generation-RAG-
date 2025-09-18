@@ -1,64 +1,88 @@
 #!/usr/bin/env bash
-# RAG dataset fetcher (20 docs total)
-# - 12 research PDFs (arXiv)
-# - 8 official guides (saved as .txt)
-# - Each item has primary + fallback URLs
-# - Never hard-fails on 404; logs and continues
+# RAG dataset fetcher (20 docs)
+# - 12 arXiv PDFs + 8 official guides saved as .txt
+# - Multiple fallbacks per item
+# - NEVER fails the job on 404 (or any curl error)
+# - Writes logs: download_ok.log, download_errors.log
+# - Always exits 0
 
-set -uo pipefail
+set +e  # disable 'exit on error' no matter what the runner default is
+set -u
+set -o pipefail
 
 ROOT="$(pwd)"
 DATA_DIR="${ROOT}/data"
-LOG_ERR="${ROOT}/download_errors.log"
 LOG_OK="${ROOT}/download_ok.log"
+LOG_ERR="${ROOT}/download_errors.log"
 
 mkdir -p "${DATA_DIR}"
-: > "${LOG_ERR}"
 : > "${LOG_OK}"
+: > "${LOG_ERR}"
+
+# --- helpers ---------------------------------------------------------------
 
 have() { command -v "$1" >/dev/null 2>&1; }
 
-# Minimal HTML -> TXT scrub (no external tools required)
+# Return 0 but indicate success/failure via status text + logs.
+# We DO NOT use --fail so curl never sets exit code for 404.
+# Instead, capture HTTP status and decide ourselves.
+_fetch_one() {
+  local url="$1" out="$2"
+  echo "   trying: $url"
+  # -S to show errors on stderr, -L follow redirects, -s silent progress
+  http_code=$(curl -sSL -w "%{http_code}" -o "$out" "$url" || echo "000")
+  if [[ "$http_code" =~ ^2|3[0-9]{2}$ ]]; then
+    echo "OK  $out  <=  $url (HTTP $http_code)" >> "${LOG_OK}"
+    return 0
+  else
+    echo "MISS $out  <=  $url (HTTP $http_code)" >> "${LOG_ERR}"
+    rm -f "$out" 2>/dev/null || true
+    return 1
+  fi
+}
+
+# Try multiple URLs; never return non-zero
+try_fetch() {
+  local out="$1"; shift
+  local ok=1
+  for url in "$@"; do
+    if _fetch_one "$url" "$out"; then
+      ok=0
+      break
+    fi
+  done
+  # Always return 0 so the job never fails here
+  return 0
+}
+
+# Minimal HTML→TXT (no external deps)
 html_to_txt() {
-  in="$1"; out="$2"
-  # normalize breaks + paragraphs, then strip tags, then whitespace tidy
+  local in="$1" out="$2"
   sed -E 's/<[[:space:]]*br[[:space:]]*\/?>/\n/Ig; s/<\/p>/\n\n/Ig; s/<[^>]+>//g' "$in" \
     | sed -E 's/[ \t]+/ /g; s/ *\n+/\n/g; s/\n{3,}/\n\n/g' > "$out"
 }
 
-# Try multiple URLs until one works; if all fail, log error and keep going
-try_fetch() {
-  out="$1"; shift
-  for url in "$@"; do
-    echo "   trying: $url"
-    if curl -L --fail --retry 3 --retry-delay 2 -o "$out" "$url"; then
-      echo "OK  $out  <=  $url" >> "${LOG_OK}"
-      return 0
-    fi
-  done
-  echo "MISS $out  (all candidates failed)" >> "${LOG_ERR}"
-  rm -f "$out" 2>/dev/null || true
-  return 1
-}
-
 get_pdf() {
-  out="$1"; shift
+  local out="$1"; shift
   echo "→ PDF: $out"
   try_fetch "$out" "$@"
 }
 
 get_doc_as_txt() {
-  out="$1"; shift
+  local out="$1"; shift
+  local tmp
   tmp="$(mktemp)"
   echo "→ DOC: $out (HTML→TXT)"
-  if try_fetch "$tmp" "$@"; then
+  try_fetch "$tmp" "$@"
+  if [[ -s "$tmp" ]]; then
     html_to_txt "$tmp" "$out" || { echo "WARN: HTML->TXT failed for $out" | tee -a "${LOG_ERR}"; rm -f "$out"; }
-    rm -f "$tmp"
   else
-    # leave as missed
-    :
+    echo "MISS $out  (no HTML fetched)" >> "${LOG_ERR}"
   fi
+  rm -f "$tmp" 2>/dev/null || true
 }
+
+# --- downloads -------------------------------------------------------------
 
 echo "== Downloading research PDFs (12) =="
 
@@ -102,7 +126,7 @@ get_pdf "${DATA_DIR}/replug_shi_2023.pdf" \
   "https://arxiv.org/pdf/2301.12652.pdf" \
   "https://arxiv.org/pdf/2301.12652"
 
-# 9) Self-RAG (Asai et al., 2023/ICLR 2024)
+# 9) Self-RAG (Asai et al., 2023)
 get_pdf "${DATA_DIR}/selfrag_asai_2023.pdf" \
   "https://arxiv.org/pdf/2310.11511.pdf" \
   "https://arxiv.org/pdf/2310.11511"
@@ -117,7 +141,7 @@ get_pdf "${DATA_DIR}/survey_eval_rag_yu_2024.pdf" \
   "https://arxiv.org/pdf/2405.07437.pdf" \
   "https://arxiv.org/pdf/2405.07437"
 
-# 12) Survey: Comprehensive RAG (Gupta et al., 2024) — fallback to abs if pdf path changes
+# 12) Survey: Comprehensive RAG (Gupta et al., 2024) — id may change, include abs fallback
 get_pdf "${DATA_DIR}/survey_comprehensive_rag_gupta_2024.pdf" \
   "https://arxiv.org/pdf/2410.12837.pdf" \
   "https://arxiv.org/pdf/2410.12837" \
@@ -131,7 +155,7 @@ get_doc_as_txt "${DATA_DIR}/langchain_rag_tutorial_python.txt" \
   "https://python.langchain.com/docs/tutorials/rag" \
   "https://web.archive.org/web/*/https://python.langchain.com/docs/tutorials/rag/"
 
-# 14) LangChain – QA chat history (conversational RAG)
+# 14) LangChain – QA chat history
 get_doc_as_txt "${DATA_DIR}/langchain_rag_part2_chat_history.txt" \
   "https://python.langchain.com/docs/tutorials/qa_chat_history/" \
   "https://python.langchain.com/docs/tutorials/qa_chat_history" \
@@ -147,13 +171,13 @@ get_doc_as_txt "${DATA_DIR}/haystack_first_rag_pipeline.txt" \
   "https://haystack.deepset.ai/tutorials/27_first_rag_pipeline" \
   "https://web.archive.org/web/*/https://haystack.deepset.ai/tutorials/27_first_rag_pipeline"
 
-# 17) LlamaIndex – Introduction to RAG (stable + alt)
+# 17) LlamaIndex – Introduction to RAG
 get_doc_as_txt "${DATA_DIR}/llamaindex_intro_rag.txt" \
   "https://docs.llamaindex.ai/en/stable/understanding/rag/" \
   "https://docs.llamaindex.ai/en/latest/understanding/rag/" \
   "https://web.archive.org/web/*/https://docs.llamaindex.ai/en/stable/understanding/rag/"
 
-# 18) LlamaIndex – Course cookbooks overview (stable + alt)
+# 18) LlamaIndex – O’Reilly course cookbooks overview
 get_doc_as_txt "${DATA_DIR}/llamaindex_cookbooks_overview.txt" \
   "https://docs.llamaindex.ai/en/stable/examples/cookbooks/oreilly_course_cookbooks/" \
   "https://docs.llamaindex.ai/en/latest/examples/cookbooks/oreilly_course_cookbooks/" \
@@ -173,15 +197,14 @@ get_doc_as_txt "${DATA_DIR}/openai_cookbook_evaluate_rag_llamaindex.txt" \
   "https://web.archive.org/web/*/https://cookbook.openai.com/examples/evaluation/evaluate_rag_with_llamaindex"
 
 echo
-echo "== Summary =="
-echo "Downloaded OK:"
-wc -l < "${LOG_OK}" 2>/dev/null || echo 0
+echo "== SUMMARY =="
+echo "Downloaded OK (count): $(wc -l < "${LOG_OK}" 2>/dev/null || echo 0)"
 tail -n +1 "${LOG_OK}" 2>/dev/null || true
 echo
-echo "Misses (if any):"
-wc -l < "${LOG_ERR}" 2>/dev/null || echo 0
+echo "Misses (count): $(wc -l < "${LOG_ERR}" 2>/dev/null || echo 0)"
 tail -n +1 "${LOG_ERR}" 2>/dev/null || true
-
 echo
 echo "Files in data/:"
 ls -lh "${DATA_DIR}" || true
+
+exit 0
