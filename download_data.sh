@@ -147,54 +147,7 @@ get_pdf "${DATA_DIR}/survey_comprehensive_rag_gupta_2024.pdf" \
   "https://arxiv.org/pdf/2410.12837" \
   "https://arxiv.org/abs/2410.12837"
 
-echo "== Downloading official guides/tutorials as TXT (8) =="
 
-# 13) LangChain (Python) – RAG Tutorial
-get_doc_as_txt "${DATA_DIR}/langchain_rag_tutorial_python.txt" \
-  "https://python.langchain.com/docs/tutorials/rag/" \
-  "https://python.langchain.com/docs/tutorials/rag" \
-  "https://web.archive.org/web/*/https://python.langchain.com/docs/tutorials/rag/"
-
-# 14) LangChain – QA chat history
-get_doc_as_txt "${DATA_DIR}/langchain_rag_part2_chat_history.txt" \
-  "https://python.langchain.com/docs/tutorials/qa_chat_history/" \
-  "https://python.langchain.com/docs/tutorials/qa_chat_history" \
-  "https://web.archive.org/web/*/https://python.langchain.com/docs/tutorials/qa_chat_history/"
-
-# 15) Haystack – Get Started
-get_doc_as_txt "${DATA_DIR}/haystack_get_started_rag.txt" \
-  "https://docs.haystack.deepset.ai/docs/get_started" \
-  "https://web.archive.org/web/*/https://docs.haystack.deepset.ai/docs/get_started"
-
-# 16) Haystack – First RAG pipeline tutorial
-get_doc_as_txt "${DATA_DIR}/haystack_first_rag_pipeline.txt" \
-  "https://haystack.deepset.ai/tutorials/27_first_rag_pipeline" \
-  "https://web.archive.org/web/*/https://haystack.deepset.ai/tutorials/27_first_rag_pipeline"
-
-# 17) LlamaIndex – Introduction to RAG
-get_doc_as_txt "${DATA_DIR}/llamaindex_intro_rag.txt" \
-  "https://docs.llamaindex.ai/en/stable/understanding/rag/" \
-  "https://docs.llamaindex.ai/en/latest/understanding/rag/" \
-  "https://web.archive.org/web/*/https://docs.llamaindex.ai/en/stable/understanding/rag/"
-
-# 18) LlamaIndex – O’Reilly course cookbooks overview
-get_doc_as_txt "${DATA_DIR}/llamaindex_cookbooks_overview.txt" \
-  "https://docs.llamaindex.ai/en/stable/examples/cookbooks/oreilly_course_cookbooks/" \
-  "https://docs.llamaindex.ai/en/latest/examples/cookbooks/oreilly_course_cookbooks/" \
-  "https://web.archive.org/web/*/https://docs.llamaindex.ai/en/stable/examples/cookbooks/oreilly_course_cookbooks/"
-
-# 19) OpenAI Cookbook – RAG with Elasticsearch (multiple slugs + archive)
-get_doc_as_txt "${DATA_DIR}/openai_cookbook_rag_elasticsearch.txt" \
-  "https://cookbook.openai.com/examples/vector_databases/elasticsearch/elasticsearch-retrieval-augmented-generation" \
-  "https://cookbook.openai.com/examples/retrieval_augmented_generation_with_elasticsearch" \
-  "https://cookbook.openai.com/examples/retrieval_augmented_generation" \
-  "https://web.archive.org/web/*/https://cookbook.openai.com/examples/retrieval_augmented_generation"
-
-# 20) OpenAI Cookbook – Evaluate RAG with LlamaIndex (multiple slugs + archive)
-get_doc_as_txt "${DATA_DIR}/openai_cookbook_evaluate_rag_llamaindex.txt" \
-  "https://cookbook.openai.com/examples/evaluation/evaluate_rag_with_llamaindex" \
-  "https://cookbook.openai.com/examples/evaluate_rag_with_llamaindex" \
-  "https://web.archive.org/web/*/https://cookbook.openai.com/examples/evaluation/evaluate_rag_with_llamaindex"
 
 echo
 echo "== SUMMARY =="
