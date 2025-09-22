@@ -1,0 +1,121 @@
+{
+  "generated_at": "2025-09-22T13:11:23.173324Z",
+  "batches": [
+    {
+      "date": "2025-09-22",
+      "count": 10,
+      "items": [
+        {
+          "title": "Sound-Horizon-Agnostic Inference of the Hubble Constant and Neutrino\n  Mass from BAO, CMB Lensing, and Galaxy Weak Lensing and Clustering",
+          "source": "arxiv",
+          "date": "2025-09-19T17:59:12Z",
+          "page_url": "http://arxiv.org/abs/2509.16202v1",
+          "pdf_url": "http://arxiv.org/pdf/2509.16202v1",
+          "saved_at": "2025-09-22",
+          "files": {
+            "pdf": "data/news/2025-09-22/sound_horizon_agnostic_inference_of_the_hubble_constant_and_neutrino_mass_from_b.pdf"
+          }
+        },
+        {
+          "title": "RPG: A Repository Planning Graph for Unified and Scalable Codebase\n  Generation",
+          "source": "arxiv",
+          "date": "2025-09-19T17:58:14Z",
+          "page_url": "http://arxiv.org/abs/2509.16198v1",
+          "pdf_url": "http://arxiv.org/pdf/2509.16198v1",
+          "saved_at": "2025-09-22",
+          "files": {
+            "pdf": "data/news/2025-09-22/rpg_a_repository_planning_graph_for_unified_and_scalable_codebase_generation.pdf"
+          }
+        },
+        {
+          "title": "Clustering with Set Outliers and Applications in Relational Clustering",
+          "source": "arxiv",
+          "date": "2025-09-19T17:57:03Z",
+          "page_url": "http://arxiv.org/abs/2509.16194v1",
+          "pdf_url": "http://arxiv.org/pdf/2509.16194v1",
+          "saved_at": "2025-09-22",
+          "files": {
+            "pdf": "data/news/2025-09-22/clustering_with_set_outliers_and_applications_in_relational_clustering.pdf"
+          }
+        },
+        {
+          "title": "Uniform 2D Target Generation via Inverse-designed Metasurfaces",
+          "source": "arxiv",
+          "date": "2025-09-19T17:53:39Z",
+          "page_url": "http://arxiv.org/abs/2509.16192v1",
+          "pdf_url": "http://arxiv.org/pdf/2509.16192v1",
+          "saved_at": "2025-09-22",
+          "files": {
+            "pdf": "data/news/2025-09-22/uniform_2d_target_generation_via_inverse_designed_metasurfaces.pdf"
+          }
+        },
+        {
+          "title": "Quantum Generative Adversarial Autoencoders: Learning latent\n  representations for quantum data generation",
+          "source": "arxiv",
+          "date": "2025-09-19T17:45:14Z",
+          "page_url": "http://arxiv.org/abs/2509.16186v1",
+          "pdf_url": "http://arxiv.org/pdf/2509.16186v1",
+          "saved_at": "2025-09-22",
+          "files": {
+            "pdf": "data/news/2025-09-22/quantum_generative_adversarial_autoencoders_learning_latent_representations_for.pdf"
+          }
+        },
+        {
+          "title": "Hardness and Structural Properties of Fuzzy Edge Contraction",
+          "source": "arxiv",
+          "date": "2025-09-19T17:44:29Z",
+          "page_url": "http://arxiv.org/abs/2509.16185v1",
+          "pdf_url": "http://arxiv.org/pdf/2509.16185v1",
+          "saved_at": "2025-09-22",
+          "files": {
+            "pdf": "data/news/2025-09-22/hardness_and_structural_properties_of_fuzzy_edge_contraction.pdf"
+          }
+        },
+        {
+          "title": "UniMRSeg: Unified Modality-Relax Segmentation via Hierarchical\n  Self-Supervised Compensation",
+          "source": "arxiv",
+          "date": "2025-09-19T17:29:25Z",
+          "page_url": "http://arxiv.org/abs/2509.16170v1",
+          "pdf_url": "http://arxiv.org/pdf/2509.16170v1",
+          "saved_at": "2025-09-22",
+          "files": {
+            "pdf": "data/news/2025-09-22/unimrseg_unified_modality_relax_segmentation_via_hierarchical_self_supervised_co.pdf"
+          }
+        },
+        {
+          "title": "Strategic Analysis of Just-In-Time Liquidity Provision in Concentrated\n  Liquidity Market Makers",
+          "source": "arxiv",
+          "date": "2025-09-19T17:03:29Z",
+          "page_url": "http://arxiv.org/abs/2509.16157v1",
+          "pdf_url": "http://arxiv.org/pdf/2509.16157v1",
+          "saved_at": "2025-09-22",
+          "files": {
+            "pdf": "data/news/2025-09-22/strategic_analysis_of_just_in_time_liquidity_provision_in_concentrated_liquidity.pdf"
+          }
+        },
+        {
+          "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through\n  Self-Reflection",
+          "source": "arxiv",
+          "date": "2023-10-17T18:18:32Z",
+          "page_url": "http://arxiv.org/abs/2310.11511v1",
+          "pdf_url": "http://arxiv.org/pdf/2310.11511v1",
+          "saved_at": "2025-09-22",
+          "files": {
+            "pdf": "data/news/2025-09-22/self_rag_learning_to_retrieve_generate_and_critique_through_self_reflection.pdf"
+          }
+        },
+        {
+          "title": "Anveshana: A New Benchmark Dataset for Cross-Lingual Information\n  Retrieval On English Queries and Sanskrit Documents",
+          "source": "arxiv",
+          "date": "2025-05-26T04:23:21Z",
+          "page_url": "http://arxiv.org/abs/2505.19494v1",
+          "pdf_url": "http://arxiv.org/pdf/2505.19494v1",
+          "saved_at": "2025-09-22",
+          "files": {
+            "pdf": "data/news/2025-09-22/anveshana_a_new_benchmark_dataset_for_cross_lingual_information_retrieval_on_eng.pdf"
+          }
+        }
+      ]
+    }
+  ]
+}
