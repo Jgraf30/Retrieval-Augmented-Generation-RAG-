@@ -7,20 +7,31 @@
   <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
-  <header><h1>RAG Answers (Latest Run)</h1></header>
+  <header>
+    <h1>RAG Answers</h1>
+    <div class="toolbar">
+      <label for="questionSelect">Question:</label>
+      <select id="questionSelect"></select>
+      <button id="refresh">Refresh</button>
+      <small id="stamp"></small>
+    </div>
+  </header>
+
   <main>
-    <section id="meta"></section>
     <article class="card">
       <h2 id="q"></h2>
       <div id="ans" class="answer"></div>
       <h3>Sources</h3>
       <ul id="srcs"></ul>
+      <small id="method"></small>
     </article>
+
     <section class="card">
-  <h2>📰 Latest Articles (auto-fetched weekly)</h2>
-  <div id="news"></div>
-</section>
+      <h2>📰 Latest Articles (auto-fetched weekly)</h2>
+      <div id="news"></div>
+    </section>
   </main>
+
   <script src="app.js"></script>
 </body>
 </html>
