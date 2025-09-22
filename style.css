@@ -1,81 +1,15 @@
-:root {
-  --bg-color: #0b1220;
-  --text-color: #e5e7eb;
-  --card-bg: #111827;
-  --card-border: #1f2937;
-  --small-text: #93c5fd;
-  --hover-shadow: rgba(0, 0, 0, 0.3);
-  --hover-shadow-strong: rgba(0, 0, 0, 0.4);
-}
-
-body.light {
-  --bg-color: #f9fafb;
-  --text-color: #1f2937;
-  --card-bg: #ffffff;
-  --card-border: #e5e7eb;
-  --small-text: #2563eb;
-  --hover-shadow: rgba(100, 100, 100, 0.1);
-  --hover-shadow-strong: rgba(100, 100, 100, 0.2);
-}
-
-body {
-  font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Arial, sans-serif;
-  margin: 24px;
-  background: var(--bg-color);
-  color: var(--text-color);
-  transition: background 0.3s ease, color 0.3s ease;
-}
-
-h1, h2, h3 {
-  margin: 0.5em 0;
-  font-weight: 600;
-}
-
-.card {
-  background: var(--card-bg);
-  border: 1px solid var(--card-border);
-  border-radius: 12px;
-  padding: 20px;
-  margin: 16px 0;
-  box-shadow: 0 4px 12px var(--hover-shadow);
-  transition: transform 0.2s ease, box-shadow 0.3s ease, background 0.3s ease;
-}
-
-.card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 6px 18px var(--hover-shadow-strong);
-}
-
-.answer {
-  white-space: pre-wrap;
-  line-height: 1.7;
-}
-
-small {
-  color: var(--small-text);
-  font-size: 0.85rem;
-}
-
-/* Toggle button styling */
-.theme-toggle {
-  position: fixed;
-  top: 20px;
-  right: 20px;
-  background: transparent;
-  border: none;
-  font-size: 1.5rem;
-  cursor: pointer;
-  z-index: 1000;
-  transition: transform 0.2s;
-}
-
-.theme-toggle:hover {
-  transform: rotate(20deg);
-}
-
-/* Responsive */
-@media (max-width: 600px) {
-  .card {
-    padding: 16px;
-  }
-}
+:root { --bg:#0b1220; --card:#111827; --border:#1f2937; --text:#e5e7eb; --muted:#93c5fd; }
+* { box-sizing: border-box; }
+body { margin:24px; font-family: system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Arial; background:var(--bg); color:var(--text); }
+header h1 { margin:.2em 0 6px; }
+.toolbar { display:flex; gap:10px; align-items:center; flex-wrap:wrap; margin-bottom:12px; }
+.toolbar small { color:var(--muted); }
+select, button { background:#0f172a; color:var(--text); border:1px solid var(--border); border-radius:8px; padding:8px; }
+button { cursor:pointer; }
+.card { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:16px; margin:12px 0; }
+.answer { white-space:pre-wrap; line-height:1.6; }
+ul { padding-left: 20px; }
+a { color: var(--muted); text-decoration: none; }
+a:hover { text-decoration: underline; }
+.news-batch { margin-top: 8px; }
+.news-batch h3 { margin: 6px 0; font-size: 1rem; }
