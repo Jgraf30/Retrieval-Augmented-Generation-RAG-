@@ -6,7 +6,6 @@ STORE = os.environ.get("STORE", "store")
 
 def run(cmd):
   p = subprocess.run(cmd, shell=True, capture_output=True, text=True)
-  # merge both streams so we never lose the model’s text if it prints to stderr
   out = (p.stdout or "") + ("\n" + p.stderr if p.stderr else "")
   return p.returncode, out.strip()
 
@@ -24,7 +23,6 @@ def parse_sources(lines):
   return sorted(out, key=lambda x: x["rank"])
 
 def split_answer_and_sources(text):
-  # Split on a line that starts with “Sources” (any case, optional colon)
   body_lines, src_lines, in_sources = [], [], False
   for raw in text.splitlines():
     line = raw.rstrip("\r")
@@ -34,13 +32,11 @@ def split_answer_and_sources(text):
     (src_lines if in_sources else body_lines).append(line)
   body = "\n".join(body_lines).strip()
   if not body:
-    # Fallback: give the whole text so the page never shows empty
     body = text.strip()
   return body, parse_sources(src_lines)
 
 def main():
-  rc, out = run(f"python rag.py ask --store {shlex.quote(STORE)} --question {shlex.quote(QUESTION)}")
-  # Always write a raw capture for debugging
+  rc, out = run(f"python rag.py ask --store {shlex.quote(STORE)} --q {shlex.quote(QUESTION)}")
   pathlib.Path("answer.txt").write_text(out, encoding="utf-8")
 
   answer, sources = split_answer_and_sources(out)
@@ -51,7 +47,6 @@ def main():
   }
   pathlib.Path("answers.json").write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
-  # Hard-fail if empty so CI shows it
   if not answer:
     print("ERROR: Empty answer produced by rag.py ask", file=sys.stderr)
     sys.exit(2)
