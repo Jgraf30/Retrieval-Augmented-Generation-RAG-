@@ -1,0 +1,2 @@
+usage: rag.py ask [-h] [--store STORE] --q Q [--k K]
+rag.py ask: error: the following arguments are required: --q

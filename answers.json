@@ -1,8 +1,8 @@
 {
-  "question": "Latest Answer",
+  "question": "What does the documentation say?",
   "result": {
-    "answer": "",
+    "answer": "usage: rag.py ask [-h] [--store STORE] --q Q [--k K]\nrag.py ask: error: the following arguments are required: --q",
     "sources": []
   },
-  "updated_at": 1758570733
+  "updated_at": 1758570977
 }
