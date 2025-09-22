@@ -1,45 +1,8 @@
 {
-  "question": "What does the documentation say?",
-  "top_k": 5,
+  "question": "Latest Answer",
   "result": {
-    "question": "What does the documentation say?",
-    "answer": "Jessica Graf 512-920-9266 | jgraf9@gmail.com | linkedin.com/in/jessicagraf | TX PROFESSIONAL SUMMARY Transformation leader with 20+ years of experience driving enterprise migrations to Microsoft 365, consolidating intranet/internet platforms, and implementing new Microsoft cloud products. Proven record leading large-scale IT transformations that align business and IT strategies, improve collaboration, and strengthen compliance in healthcare, government, and enterprise organizations. Skilled at building governance frameworks, leading cross-functional teams, and delivering measurable adoption and cost savings. EDUCATION University of Arizona Anthropology B.A. EXPERIENCE IT Solutions Architect / Microsoft Transformation Lead MERP Systems, Inc. December 2021 - Present Led tenant-to-tenant migration for 5,000+ users with zero data loss, ensuring seamless continuity for public health programs. Directed consolidation of intranet and internet sites into SharePoint Online, improving usability and cutting infrastructure footprint by 70%. Designed governance and adoption strategies for Microsoft Fabric, Power Platform, and Copilot, ensuring compliance with GCC High standards. Automated provis",
-    "sources": [
-      {
-        "rank": 1,
-        "score": 0.7761404514312744,
-        "source": "document.pdf",
-        "begin": 0,
-        "end": 3415
-      },
-      {
-        "rank": 2,
-        "score": 0.7744452357292175,
-        "source": "Jessica_Graf_Principal_M365_Integration_Advisor_Resume (1).pdf",
-        "begin": 0,
-        "end": 4319
-      },
-      {
-        "rank": 3,
-        "score": 0.7744452357292175,
-        "source": "Jessica_Graf_Principal_M365_Integration_Advisor_Resume.pdf",
-        "begin": 0,
-        "end": 4319
-      },
-      {
-        "rank": 4,
-        "score": 0.771428644657135,
-        "source": "Jessica_Graf_M365_Arch.pdf",
-        "begin": 0,
-        "end": 3038
-      },
-      {
-        "rank": 5,
-        "score": 0.7629657983779907,
-        "source": "Principal Technology M365 Integration Advisor.pdf",
-        "begin": 5997,
-        "end": 6231
-      }
-    ]
-  }
+    "answer": "",
+    "sources": []
+  },
+  "updated_at": 1758570369
 }
