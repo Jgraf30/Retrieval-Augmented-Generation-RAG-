@@ -1,0 +1,82 @@
+name: RAG Demo
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Ingest docs
+        run: |
+          python rag.py ingest --data "data" --store "store"
+
+      - name: Ask question and capture stdout
+        env:
+          QUESTION: "What does the documentation say?"
+        run: |
+          python rag.py ask --store "store" --question "$QUESTION" > answer.txt || true
+          echo "----- ANSWER PREVIEW -----"
+          head -n 40 answer.txt || true
+
+      - name: Build answers.json at repo root
+        shell: python
+        run: |
+          import json, os, time, pathlib, re
+          root = pathlib.Path(".")
+          ans_path = root/"answer.txt"
+          text = ans_path.read_text(encoding="utf-8") if ans_path.exists() else ""
+          # naive parse: pull source lines like "[1] file.pdf (score 0.776)"
+          sources = []
+          for line in text.splitlines():
+            m = re.match(r"\[(\d+)\]\s+(.*?)(?:\s+\(score\s+([0-9.]+)\))?\s*$", line.strip())
+            if m:
+              rank = int(m.group(1))
+              src = m.group(2)
+              score = float(m.group(3)) if m.group(3) else None
+              sources.append({"rank": rank, "source": src, "score": score})
+          # remove any trailing "Sources" list from answer body
+          body = []
+          for line in text.splitlines():
+            if line.strip().lower().startswith("sources"):
+              break
+            body.append(line)
+          answer_body = "\n".join(body).strip()
+          # if body ended up empty, just use full text
+          if not answer_body and text:
+            answer_body = text.strip()
+          data = {
+            "question": os.environ.get("QUESTION", "Latest Answer"),
+            "result": {
+              "answer": answer_body,
+              "sources": sorted(sources, key=lambda x: x.get("rank", 0))
+            },
+            "updated_at": int(time.time())
+          }
+          (root/"answers.json").write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+
+      - name: Commit answers.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add answers.json
+          git commit -m "Update answers.json from RAG run [ci skip]" || echo "No changes"
+          git push
