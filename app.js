@@ -1,31 +1,41 @@
 async function loadAnswers() {
   try {
-    const r = await fetch("answers.json", {cache:"no-store"});
-    if (!r.ok) return;
+    const r = await fetch("answers.json", { cache: "no-store" });
+    if (!r.ok) throw new Error("answers.json missing");
     const data = await r.json();
-    const qEl = document.getElementById("q"); const aEl = document.getElementById("ans");
+
+    const qEl = document.getElementById("q");
+    const aEl = document.getElementById("ans");
+    const stamp = document.getElementById("stamp");
+
     if (qEl) qEl.textContent = data.question || "(no question)";
     if (aEl) aEl.textContent = data.result?.answer || "(no answer)";
+    if (stamp) stamp.textContent = `Updated ${new Date((data.updated_at||0)*1000).toLocaleString()}`;
+
     const list = document.getElementById("srcs");
     if (list) {
       list.innerHTML = "";
       (data.result?.sources || []).forEach(s => {
         const li = document.createElement("li");
-        li.textContent = `[${s.rank}] ${s.source} (score ${Number(s.score).toFixed(3)})`;
+        const score = (typeof s.score === "number") ? ` (score ${Number(s.score).toFixed(3)})` : "";
+        li.textContent = `[${s.rank}] ${s.source}${score}`;
         list.appendChild(li);
       });
     }
-  } catch {}
+  } catch {
+    const aEl = document.getElementById("ans");
+    if (aEl) aEl.textContent = "No RAG output available yet.";
+  }
 }
 
 async function loadNews() {
   const container = document.getElementById("news");
   if (!container) return;
   try {
-    const r = await fetch("data/news/manifest.json", {cache:"no-store"});
+    const r = await fetch("data/news/manifest.json", { cache: "no-store" });
     if (!r.ok) { container.textContent = "No news manifest yet."; return; }
     const data = await r.json();
-    const batches = (data.batches || []).slice(-3).reverse(); // show last 3 batches
+    const batches = (data.batches || []).slice(-3).reverse();
     if (batches.length === 0) { container.textContent = "No recent articles yet."; return; }
     container.innerHTML = "";
     batches.forEach(b => {
@@ -54,7 +64,7 @@ async function loadNews() {
       sec.appendChild(ul);
       container.appendChild(sec);
     });
-  } catch (e) {
+  } catch {
     container.textContent = "Failed to load news.";
   }
 }
@@ -63,7 +73,6 @@ document.addEventListener("DOMContentLoaded", () => {
   loadAnswers();
   loadNews();
 
-  // sample questions dropdown copy helper (if present)
   const sel = document.getElementById("samples");
   const btn = document.getElementById("copyQ");
   if (sel && btn) {
@@ -75,8 +84,4 @@ document.addEventListener("DOMContentLoaded", () => {
       setTimeout(() => (btn.textContent = "Copy to clipboard"), 1200);
     });
   }
-
-  const stamp = document.getElementById("stamp");
-  if (stamp) stamp.textContent = new Date().toISOString();
 });
-
