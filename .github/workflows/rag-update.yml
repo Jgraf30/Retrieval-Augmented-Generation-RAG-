@@ -1,4 +1,5 @@
 name: RAG Demo
+
 on:
   push:
     branches: ["main"]
@@ -10,6 +11,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -24,29 +26,43 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
+      - name: Build questions.json
+        run: |
+          python scripts/build_questions.py
+
       - name: Ingest documents
         run: |
           python rag.py ingest --data "data" --store "store"
 
-      - name: Ask and build answers.json (robust)
+      - name: Run ask for all questions and build answers_multi.json
         env:
-          QUESTION: "What does the documentation say?"
           STORE: "store"
         run: |
-          python scripts/build_answers_json.py
+          python scripts/build_answers_multi.py
+
+      - name: Build single latest answers.json for default display
+        run: |
+          # Take the first entry from answers_multi.json and write to answers.json
+          python - <<'PYCODE'
+          import json, pathlib
+          multi = json.loads(pathlib.Path("answers_multi.json").read_text(encoding="utf-8"))
+          latest = multi[0] if multi else {"question":"(none)","answer":"(no answer)","sources":[]}
+          pathlib.Path("answers.json").write_text(json.dumps(latest, ensure_ascii=False, indent=2), encoding="utf-8")
+          PYCODE
 
       - name: Show artifacts (debug)
         run: |
-          echo "----- exit code shown above if failed -----"
-          echo "----- answer.txt (first 200 lines) -----"
-          sed -n '1,200p' answer.txt || true
+          echo "----- questions.json -----"
+          cat questions.json || true
+          echo "----- answers_multi.json (first 200 lines) -----"
+          sed -n '1,200p' answers_multi.json || true
           echo "----- answers.json -----"
           cat answers.json || true
 
-      - name: Commit answers.json + answer.txt
+      - name: Commit generated artifacts
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add answers.json answer.txt
-          git commit -m "Update answers.json (robust parse) [ci skip]" || echo "No changes"
+          git add questions.json answers_multi.json answers.json
+          git commit -m "Update Q&A artifacts [ci skip]" || echo "No changes"
           git push
