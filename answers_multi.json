@@ -1,0 +1,217 @@
+[
+  {
+    "question": "What does the documentation say?",
+    "answer": "Anveshana: A New Benchmark Dataset for Cross-Lingual Information Retrieval On English Queries and Sanskrit Documents Manoj Balaji Jagadeeshan, Prince Raj, Pawan Goyal Indian Institute of Technology, Kharagpur {manojbalaji1, prfeynman0 }@gmail.com pawang@cse.iitkgp.ac.in Abstract The study presents a comprehensive benchmark for retrieving Sanskrit documents using En- glish queries, focusing on the chapters of the Srimadbhagavatam. It employs a tripartite ap- proach: Direct Retrieval (DR), Translation-based Retrieval (DT), and Query Translation (QT), utilizing shared embedding spaces and advanced translation methods to enhance retrieval sys- tems in a RAG framework. The study fine-tunes state-of-the-art models for Sanskrit’s lin- guistic nuances, evaluating models such as BM25, REPLUG, mDPR, ColBERT, Contriever, and GPT-2. It adapts summarization techniques for Sanskrit documents to improve QA pro- cessing. Evaluation shows DT methods outperform DR and QT in handling the cross-lingual challenges of ancient texts, improving accessibility and understanding. A dataset of 3,400 English-Sanskrit query-document pairs underpins the study, aiming to preserve Sanskrit scrip- tures and share t",
+    "sources": [
+      {
+        "rank": 1,
+        "score": 0.7897441387176514,
+        "source": "news/2025-09-22/anveshana_a_new_benchmark_dataset_for_cross_lingual_information_retrieval_on_eng.pdf",
+        "begin": 0,
+        "end": 6702
+      },
+      {
+        "rank": 2,
+        "score": 0.7826389074325562,
+        "source": "news/2025-09-22/anveshana_a_new_benchmark_dataset_for_cross_lingual_information_retrieval_on_eng.pdf",
+        "begin": 32436,
+        "end": 38725
+      },
+      {
+        "rank": 3,
+        "score": 0.782611608505249,
+        "source": "news/2025-09-22/self_rag_learning_to_retrieve_generate_and_critique_through_self_reflection.pdf",
+        "begin": 18427,
+        "end": 24366
+      },
+      {
+        "rank": 4,
+        "score": 0.7824422121047974,
+        "source": "news/2025-09-22/strategic_analysis_of_just_in_time_liquidity_provision_in_concentrated_liquidity.pdf",
+        "begin": 17092,
+        "end": 22676
+      },
+      {
+        "rank": 5,
+        "score": 0.7794724106788635,
+        "source": "news/2025-09-22/self_rag_learning_to_retrieve_generate_and_critique_through_self_reflection.pdf",
+        "begin": 12486,
+        "end": 18427
+      }
+    ],
+    "method": "rag-json",
+    "updated_at": 1758646384
+  },
+  {
+    "question": "Summarize the key points.",
+    "answer": "a surrogate model by precomputing and interpolating the electromagnetic response of individual meta-units. Each meta-unit is simulated under LCP input and periodic boundary conditions, a common approximation that assumes geometric parameters vary slowly between adjacent meta- units. While this method redu ces modeling accuracy for high numerical aperture (NA) desi gns[23], where adjacent meta- units exhibit abrupt parameter changes, it drastically lowers the computational cost compared to full-wave simulations of the entire metasurface. We used the COMSOL Multiphysics® to perform the FEM simulation of the initial library[24]. We first densely sample the geometric parameter space by sweeping the meta-unit length L from 100 nm to 300 nm in 5 nm steps and the rotation angle αfrom 0 to π in increments of π/50. This generates a base grid of RCP amplitude (),AL α and phase (),Lψα responses. Since L and α have different units and physical meanings, we then perform interpolation in two stages: first, we unwrap and interpolate phase data along α, then interpolate along L. To ensure smooth and stable interpolation, we use Chebyshev polynomial interpolation[14]. B. Propagation method Fig. 3.",
+    "sources": [
+      {
+        "rank": 1,
+        "score": 0.7880573868751526,
+        "source": "news/2025-09-22/uniform_2d_target_generation_via_inverse_designed_metasurfaces.pdf",
+        "begin": 12689,
+        "end": 18395
+      },
+      {
+        "rank": 2,
+        "score": 0.7797267436981201,
+        "source": "news/2025-09-22/anveshana_a_new_benchmark_dataset_for_cross_lingual_information_retrieval_on_eng.pdf",
+        "begin": 58032,
+        "end": 64695
+      },
+      {
+        "rank": 3,
+        "score": 0.7755086421966553,
+        "source": "news/2025-09-22/quantum_generative_adversarial_autoencoders_learning_latent_representations_for.pdf",
+        "begin": 77756,
+        "end": 85145
+      },
+      {
+        "rank": 4,
+        "score": 0.773526132106781,
+        "source": "news/2025-09-22/rpg_a_repository_planning_graph_for_unified_and_scalable_codebase_generation.pdf",
+        "begin": 108910,
+        "end": 114771
+      },
+      {
+        "rank": 5,
+        "score": 0.7734655141830444,
+        "source": "news/2025-09-22/strategic_analysis_of_just_in_time_liquidity_provision_in_concentrated_liquidity.pdf",
+        "begin": 68664,
+        "end": 75314
+      }
+    ],
+    "method": "rag-json",
+    "updated_at": 1758646385
+  },
+  {
+    "question": "What are the main findings?",
+    "answer": "detailed signals, and finally explores semantically related structures across the graph. Termination calls rise as the search converges. This progression indicates that the RPG reshapes the agent’s behavior into a systematic, relation-aware search process, replacing ad hoc or repetitive probing. 50 input-output pairs, we sample instances of the Open- Instruct (Wang et al., 2023) dataset. In particular, we use their ShareGPT, GPT-4 Alpaca, Alpaca, OpenAssistant, and FLAN subsets subsets. We also sample instances from a couple of knowledge- intensive datasets, Natural Questions (Kwiatkowski et al., 2019), Wizard of Wikipedia (Dinan et al., 2019) and FEVER (Thorne et al., 2018) from the KILT benchmark (Petroni et al., 2021), ASQA (Stel- makh et al., 2022) and multiple QA datasets including ARC-Easy and OpenBookQA (Mihaylov et al., 2018). Table 3 shows the full list of training instances, and in total, we use 145,619 instances. Performance of the Critic C.We evaluate the accuracy of reward predictions by splitting GPT-4 generated feedback into training, development, and test sets. The accuracy of the reward model is as follows. Table 5 shows the model performance of predicting GPT-4 ju",
+    "sources": [
+      {
+        "rank": 1,
+        "score": 0.7888346314430237,
+        "source": "news/2025-09-22/rpg_a_repository_planning_graph_for_unified_and_scalable_codebase_generation.pdf",
+        "begin": 174315,
+        "end": 174614
+      },
+      {
+        "rank": 2,
+        "score": 0.7886912822723389,
+        "source": "news/2025-09-22/self_rag_learning_to_retrieve_generate_and_critique_through_self_reflection.pdf",
+        "begin": 78712,
+        "end": 84799
+      },
+      {
+        "rank": 3,
+        "score": 0.7868398427963257,
+        "source": "news/2025-09-22/unimrseg_unified_modality_relax_segmentation_via_hierarchical_self_supervised_co.pdf",
+        "begin": 52449,
+        "end": 58461
+      },
+      {
+        "rank": 4,
+        "score": 0.7827403545379639,
+        "source": "news/2025-09-22/unimrseg_unified_modality_relax_segmentation_via_hierarchical_self_supervised_co.pdf",
+        "begin": 7118,
+        "end": 14030
+      },
+      {
+        "rank": 5,
+        "score": 0.7827326059341431,
+        "source": "news/2025-09-22/anveshana_a_new_benchmark_dataset_for_cross_lingual_information_retrieval_on_eng.pdf",
+        "begin": 0,
+        "end": 6702
+      }
+    ],
+    "method": "rag-json",
+    "updated_at": 1758646385
+  },
+  {
+    "question": "List the top 5 takeaways.",
+    "answer": "canonical nodes C(𝐵(𝑝𝑖,𝑟)). If we visit a node 𝑢with𝑢.𝑎= 0 then we stop the execution through this branch of the tree. We set 𝑐𝑖=Í 𝑢∈C(𝐵(𝑝𝑖,𝑟))𝑢.𝑐. Let𝑝𝑖∗ be the point such that 𝑐𝑖∗is maximized. We add 𝑝𝑖∗in𝑆and we searchTwith the ball 𝐵(𝑝𝑖∗,3𝑟) (without considering branches of the tree with inactive nodes). Let C(𝐵(𝑝𝑖∗,3𝑟))be the returned set of canonical nodes. For every node 𝑢∈C(𝐵(𝑝 𝑖∗,3𝑟)), we set𝑢.𝑎= 0and then we update all nodes fromC(𝐵(𝑝𝑖∗,3𝑟))to the root ofTbottom up as follows. Let 𝑢be a node and 𝑣,𝑤be its children. Initially, 𝑢is the parent node of the deepest node in C(𝐵(𝑝𝑖∗,3𝑟)). If𝑣.𝑎=𝑤.𝑎= 0then we set𝑢.𝑎= 0. If𝑣.𝑎= 0and𝑤.𝑎= 1then𝑢.𝑐=𝑤.𝑐 . If𝑣.𝑎= 1and𝑤.𝑎= 0then𝑢.𝑐=𝑣.𝑐 . Finally, if𝑣.𝑎=𝑤.𝑎= 1then𝑢.𝑐=𝑣.𝑐+𝑤.𝑐 . We continue the update with the parent node of 𝑢. After𝑘 iterations we check whether 𝑢(1).𝑐>( 1+𝜀)𝛿𝜏 , where𝑢(1)is the root ofT. If yes, then we continue the binary search with larger values of 𝑟. If no, then we add in 𝑇every point 𝑝∈𝑄 such that there is no inactive node from𝑢(1)to the leaf node storing𝑝. In the end we return the last stored𝑆,𝑇. Proof of correctness and runtime. Lemma E.1. 𝜌(𝑆,Q( I)\\𝑇)≤ 3(1+𝜀)2𝜌∗ 𝑘,𝑧(Q(I))and|𝑇|≤( 1+𝜀)2𝛿|Q(I)|with probability at le",
+    "sources": [
+      {
+        "rank": 1,
+        "score": 0.795109748840332,
+        "source": "news/2025-09-22/clustering_with_set_outliers_and_applications_in_relational_clustering.pdf",
+        "begin": 123573,
+        "end": 129331
+      },
+      {
+        "rank": 2,
+        "score": 0.7918215990066528,
+        "source": "news/2025-09-22/sound_horizon_agnostic_inference_of_the_hubble_constant_and_neutrino_mass_from_b.pdf",
+        "begin": 0,
+        "end": 6373
+      },
+      {
+        "rank": 3,
+        "score": 0.7884303331375122,
+        "source": "news/2025-09-22/quantum_generative_adversarial_autoencoders_learning_latent_representations_for.pdf",
+        "begin": 0,
+        "end": 6129
+      },
+      {
+        "rank": 4,
+        "score": 0.7858662605285645,
+        "source": "news/2025-09-22/self_rag_learning_to_retrieve_generate_and_critique_through_self_reflection.pdf",
+        "begin": 61179,
+        "end": 68109
+      },
+      {
+        "rank": 5,
+        "score": 0.7843751907348633,
+        "source": "news/2025-09-22/anveshana_a_new_benchmark_dataset_for_cross_lingual_information_retrieval_on_eng.pdf",
+        "begin": 0,
+        "end": 6702
+      }
+    ],
+    "method": "rag-json",
+    "updated_at": 1758646386
+  },
+  {
+    "question": "What recommendations are provided?",
+    "answer": "have used the analytical expres- sion of fidelity to define the cost function of the QAE, LQAE=EσK∈{σK}\u0002 1− F(σK, ρK)\u0003 . (4) 3 Encoder Decoder Optimization Cost function: Update parameters: Quantum Data Quantum SourceQuantum Latent Space Label: trash FIG. 1: Compression stage using QAE: The input quantum states σKis indexed by some label K∈Λ which uniquely characterizes the state σK. Here, Λ := {K}denotes the set of all valid labels that define {σK}. The encoder applies a parametrized unitary UE(− →θE) to each input state σK, generating an entangled intermediate state. A designated subset of qubits referred to as the trash, is then traced out to yield the compressed latent state ηK. The decoder subsequently applies a second parametrized unitary UD(− →ϕD) to reconstruct the output state ρK. The parameters− →θEand− →ϕDare trained to minimize the reconstruction loss, LQAE. The loss function, LQAE, is minimized using classical optimization techniques to find parameter values of the encoder, U(− →θE), and decoder, UD(− →ϕD), such that the re- constructed state, ρK, closely matches its corresponding input state, σK. The optimal parameters,− →θ∗ Eand− →ϕ∗ D obtained after training, are us",
+    "sources": [
+      {
+        "rank": 1,
+        "score": 0.7951437830924988,
+        "source": "news/2025-09-22/quantum_generative_adversarial_autoencoders_learning_latent_representations_for.pdf",
+        "begin": 11838,
+        "end": 17567
+      },
+      {
+        "rank": 2,
+        "score": 0.7914257049560547,
+        "source": "news/2025-09-22/strategic_analysis_of_just_in_time_liquidity_provision_in_concentrated_liquidity.pdf",
+        "begin": 92828,
+        "end": 95183
+      },
+      {
+        "rank": 3,
+        "score": 0.7889624238014221,
+        "source": "news/2025-09-22/sound_horizon_agnostic_inference_of_the_hubble_constant_and_neutrino_mass_from_b.pdf",
+        "begin": 24808,
+        "end": 30924
+      },
+      {
+        "rank": 4,
+        "score": 0.7872000932693481,
+        "source": "news/2025-09-22/self_rag_learning_to_retrieve_generate_and_critique_through_self_reflection.pdf",
+        "begin": 18427,
+        "end": 24366
+      },
+      {
+        "rank": 5,
+        "score": 0.7862962484359741,
+        "source": "news/2025-09-22/self_rag_learning_to_retrieve_generate_and_critique_through_self_reflection.pdf",
+        "begin": 36297,
+        "end": 41976
+      }
+    ],
+    "method": "rag-json",
+    "updated_at": 1758646387
+  }
+]
