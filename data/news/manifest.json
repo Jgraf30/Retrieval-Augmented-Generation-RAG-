@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-22T13:11:23.173324Z",
+  "generated_at": "2025-09-29T13:11:57.271880Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -113,6 +113,122 @@
           "saved_at": "2025-09-22",
           "files": {
             "pdf": "data/news/2025-09-22/anveshana_a_new_benchmark_dataset_for_cross_lingual_information_retrieval_on_eng.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-09-29",
+      "count": 10,
+      "items": [
+        {
+          "title": "CapRL: Stimulating Dense Image Caption Capabilities via Reinforcement\n  Learning",
+          "source": "arxiv",
+          "date": "2025-09-26T17:59:55Z",
+          "page_url": "http://arxiv.org/abs/2509.22647v1",
+          "pdf_url": "http://arxiv.org/pdf/2509.22647v1",
+          "saved_at": "2025-09-29",
+          "files": {
+            "pdf": "data/news/2025-09-29/caprl_stimulating_dense_image_caption_capabilities_via_reinforcement_learning.pdf"
+          }
+        },
+        {
+          "title": "Learning Human-Perceived Fakeness in AI-Generated Videos via Multimodal\n  LLMs",
+          "source": "arxiv",
+          "date": "2025-09-26T17:59:54Z",
+          "page_url": "http://arxiv.org/abs/2509.22646v1",
+          "pdf_url": "http://arxiv.org/pdf/2509.22646v1",
+          "saved_at": "2025-09-29",
+          "files": {
+            "pdf": "data/news/2025-09-29/learning_human_perceived_fakeness_in_ai_generated_videos_via_multimodal_llms.pdf"
+          }
+        },
+        {
+          "title": "WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level\n  Feedback and Step-Level Reinforcement Learning",
+          "source": "arxiv",
+          "date": "2025-09-26T17:59:51Z",
+          "page_url": "http://arxiv.org/abs/2509.22644v1",
+          "pdf_url": "http://arxiv.org/pdf/2509.22644v1",
+          "saved_at": "2025-09-29",
+          "files": {
+            "pdf": "data/news/2025-09-29/webgen_agent_enhancing_interactive_website_generation_with_multi_level_feedback.pdf"
+          }
+        },
+        {
+          "title": "Hierarchical Representation Matching for CLIP-based Class-Incremental\n  Learning",
+          "source": "arxiv",
+          "date": "2025-09-26T17:59:51Z",
+          "page_url": "http://arxiv.org/abs/2509.22645v1",
+          "pdf_url": "http://arxiv.org/pdf/2509.22645v1",
+          "saved_at": "2025-09-29",
+          "files": {
+            "pdf": "data/news/2025-09-29/hierarchical_representation_matching_for_clip_based_class_incremental_learning.pdf"
+          }
+        },
+        {
+          "title": "VLA-Reasoner: Empowering Vision-Language-Action Models with Reasoning\n  via Online Monte Carlo Tree Search",
+          "source": "arxiv",
+          "date": "2025-09-26T17:59:40Z",
+          "page_url": "http://arxiv.org/abs/2509.22643v1",
+          "pdf_url": "http://arxiv.org/pdf/2509.22643v1",
+          "saved_at": "2025-09-29",
+          "files": {
+            "pdf": "data/news/2025-09-29/vla_reasoner_empowering_vision_language_action_models_with_reasoning_via_online.pdf"
+          }
+        },
+        {
+          "title": "Death of the Novel(ty): Beyond n-Gram Novelty as a Metric for Textual\n  Creativity",
+          "source": "arxiv",
+          "date": "2025-09-26T17:59:05Z",
+          "page_url": "http://arxiv.org/abs/2509.22641v1",
+          "pdf_url": "http://arxiv.org/pdf/2509.22641v1",
+          "saved_at": "2025-09-29",
+          "files": {
+            "pdf": "data/news/2025-09-29/death_of_the_novel_ty_beyond_n_gram_novelty_as_a_metric_for_textual_creativity.pdf"
+          }
+        },
+        {
+          "title": "Scale-Wise VAR is Secretly Discrete Diffusion",
+          "source": "arxiv",
+          "date": "2025-09-26T17:58:04Z",
+          "page_url": "http://arxiv.org/abs/2509.22636v1",
+          "pdf_url": "http://arxiv.org/pdf/2509.22636v1",
+          "saved_at": "2025-09-29",
+          "files": {
+            "pdf": "data/news/2025-09-29/scale_wise_var_is_secretly_discrete_diffusion.pdf"
+          }
+        },
+        {
+          "title": "Training-Free Synthetic Data Generation with Dual IP-Adapter Guidance",
+          "source": "arxiv",
+          "date": "2025-09-26T17:57:32Z",
+          "page_url": "http://arxiv.org/abs/2509.22635v1",
+          "pdf_url": "http://arxiv.org/pdf/2509.22635v1",
+          "saved_at": "2025-09-29",
+          "files": {
+            "pdf": "data/news/2025-09-29/training_free_synthetic_data_generation_with_dual_ip_adapter_guidance.pdf"
+          }
+        },
+        {
+          "title": "LABELING COPILOT: A Deep Research Agent for Automated Data Curation in\n  Computer Vision",
+          "source": "arxiv",
+          "date": "2025-09-26T17:55:26Z",
+          "page_url": "http://arxiv.org/abs/2509.22631v1",
+          "pdf_url": "http://arxiv.org/pdf/2509.22631v1",
+          "saved_at": "2025-09-29",
+          "files": {
+            "pdf": "data/news/2025-09-29/labeling_copilot_a_deep_research_agent_for_automated_data_curation_in_computer_v.pdf"
+          }
+        },
+        {
+          "title": "UML-CoT: Structured Reasoning and Planning with Unified Modeling\n  Language for Robotic Room Cleaning",
+          "source": "arxiv",
+          "date": "2025-09-26T17:51:46Z",
+          "page_url": "http://arxiv.org/abs/2509.22628v1",
+          "pdf_url": "http://arxiv.org/pdf/2509.22628v1",
+          "saved_at": "2025-09-29",
+          "files": {
+            "pdf": "data/news/2025-09-29/uml_cot_structured_reasoning_and_planning_with_unified_modeling_language_for_rob.pdf"
           }
         }
       ]
