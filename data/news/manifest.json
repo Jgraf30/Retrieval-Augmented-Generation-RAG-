@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T13:11:57.271880Z",
+  "generated_at": "2025-10-06T13:10:52.919749Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -229,6 +229,122 @@
           "saved_at": "2025-09-29",
           "files": {
             "pdf": "data/news/2025-09-29/uml_cot_structured_reasoning_and_planning_with_unified_modeling_language_for_rob.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-06",
+      "count": 10,
+      "items": [
+        {
+          "title": "LEAML: Label-Efficient Adaptation to Out-of-Distribution Visual Tasks\n  for Multimodal Large Language Models",
+          "source": "arxiv",
+          "date": "2025-10-03T17:59:56Z",
+          "page_url": "http://arxiv.org/abs/2510.03232v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.03232v1",
+          "saved_at": "2025-10-06",
+          "files": {
+            "pdf": "data/news/2025-10-06/leaml_label_efficient_adaptation_to_out_of_distribution_visual_tasks_for_multimo.pdf"
+          }
+        },
+        {
+          "title": "Test-Time Defense Against Adversarial Attacks via Stochastic Resonance\n  of Latent Ensembles",
+          "source": "arxiv",
+          "date": "2025-10-03T17:57:25Z",
+          "page_url": "http://arxiv.org/abs/2510.03224v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.03224v1",
+          "saved_at": "2025-10-06",
+          "files": {
+            "pdf": "data/news/2025-10-06/test_time_defense_against_adversarial_attacks_via_stochastic_resonance_of_latent.pdf"
+          }
+        },
+        {
+          "title": "Self-Anchor: Large Language Model Reasoning via Step-by-step Attention\n  Alignment",
+          "source": "arxiv",
+          "date": "2025-10-03T17:56:33Z",
+          "page_url": "http://arxiv.org/abs/2510.03223v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.03223v1",
+          "saved_at": "2025-10-06",
+          "files": {
+            "pdf": "data/news/2025-10-06/self_anchor_large_language_model_reasoning_via_step_by_step_attention_alignment.pdf"
+          }
+        },
+        {
+          "title": "Abstain and Validate: A Dual-LLM Policy for Reducing Noise in Agentic\n  Program Repair",
+          "source": "arxiv",
+          "date": "2025-10-03T17:53:28Z",
+          "page_url": "http://arxiv.org/abs/2510.03217v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.03217v1",
+          "saved_at": "2025-10-06",
+          "files": {
+            "pdf": "data/news/2025-10-06/abstain_and_validate_a_dual_llm_policy_for_reducing_noise_in_agentic_program_rep.pdf"
+          }
+        },
+        {
+          "title": "Cache-to-Cache: Direct Semantic Communication Between Large Language\n  Models",
+          "source": "arxiv",
+          "date": "2025-10-03T17:52:32Z",
+          "page_url": "http://arxiv.org/abs/2510.03215v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.03215v1",
+          "saved_at": "2025-10-06",
+          "files": {
+            "pdf": "data/news/2025-10-06/cache_to_cache_direct_semantic_communication_between_large_language_models.pdf"
+          }
+        },
+        {
+          "title": "FocusAgent: Simple Yet Effective Ways of Trimming the Large Context of\n  Web Agents",
+          "source": "arxiv",
+          "date": "2025-10-03T17:41:30Z",
+          "page_url": "http://arxiv.org/abs/2510.03204v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.03204v1",
+          "saved_at": "2025-10-06",
+          "files": {
+            "pdf": "data/news/2025-10-06/focusagent_simple_yet_effective_ways_of_trimming_the_large_context_of_web_agents.pdf"
+          }
+        },
+        {
+          "title": "MonSTeR: a Unified Model for Motion, Scene, Text Retrieval",
+          "source": "arxiv",
+          "date": "2025-10-03T17:37:50Z",
+          "page_url": "http://arxiv.org/abs/2510.03200v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.03200v1",
+          "saved_at": "2025-10-06",
+          "files": {
+            "pdf": "data/news/2025-10-06/monster_a_unified_model_for_motion_scene_text_retrieval.pdf"
+          }
+        },
+        {
+          "title": "Best-of-Majority: Minimax-Optimal Strategy for Pass@$k$ Inference\n  Scaling",
+          "source": "arxiv",
+          "date": "2025-10-03T17:35:45Z",
+          "page_url": "http://arxiv.org/abs/2510.03199v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.03199v1",
+          "saved_at": "2025-10-06",
+          "files": {
+            "pdf": "data/news/2025-10-06/best_of_majority_minimax_optimal_strategy_for_pass_k_inference_scaling.pdf"
+          }
+        },
+        {
+          "title": "Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation\n  on Minecraft",
+          "source": "arxiv",
+          "date": "2025-10-03T17:35:16Z",
+          "page_url": "http://arxiv.org/abs/2510.03198v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.03198v1",
+          "saved_at": "2025-10-06",
+          "files": {
+            "pdf": "data/news/2025-10-06/memory_forcing_spatio_temporal_memory_for_consistent_scene_generation_on_minecra.pdf"
+          }
+        },
+        {
+          "title": "Product-Quantised Image Representation for High-Quality Image Synthesis",
+          "source": "arxiv",
+          "date": "2025-10-03T17:17:38Z",
+          "page_url": "http://arxiv.org/abs/2510.03191v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.03191v1",
+          "saved_at": "2025-10-06",
+          "files": {
+            "pdf": "data/news/2025-10-06/product_quantised_image_representation_for_high_quality_image_synthesis.pdf"
           }
         }
       ]
