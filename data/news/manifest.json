@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-06T13:10:52.919749Z",
+  "generated_at": "2025-10-13T13:11:36.412743Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -345,6 +345,122 @@
           "saved_at": "2025-10-06",
           "files": {
             "pdf": "data/news/2025-10-06/product_quantised_image_representation_for_high_quality_image_synthesis.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-13",
+      "count": 10,
+      "items": [
+        {
+          "title": "StreamingVLM: Real-Time Understanding for Infinite Video Streams",
+          "source": "arxiv",
+          "date": "2025-10-10T17:59:58Z",
+          "page_url": "http://arxiv.org/abs/2510.09608v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.09608v1",
+          "saved_at": "2025-10-13",
+          "files": {
+            "pdf": "data/news/2025-10-13/streamingvlm_real_time_understanding_for_infinite_video_streams.pdf"
+          }
+        },
+        {
+          "title": "VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action\n  Expert Distillation",
+          "source": "arxiv",
+          "date": "2025-10-10T17:59:56Z",
+          "page_url": "http://arxiv.org/abs/2510.09607v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.09607v1",
+          "saved_at": "2025-10-13",
+          "files": {
+            "pdf": "data/news/2025-10-13/vita_vla_efficiently_teaching_vision_language_models_to_act_via_action_expert_di.pdf"
+          }
+        },
+        {
+          "title": "VisPile: A Visual Analytics System for Analyzing Multiple Text Documents\n  With Large Language Models and Knowledge Graphs",
+          "source": "arxiv",
+          "date": "2025-10-10T17:59:08Z",
+          "page_url": "http://arxiv.org/abs/2510.09605v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.09605v1",
+          "saved_at": "2025-10-13",
+          "files": {
+            "pdf": "data/news/2025-10-13/vispile_a_visual_analytics_system_for_analyzing_multiple_text_documents_with_lar.pdf"
+          }
+        },
+        {
+          "title": "Prompting Test-Time Scaling Is A Strong LLM Reasoning Data Augmentation",
+          "source": "arxiv",
+          "date": "2025-10-10T17:57:04Z",
+          "page_url": "http://arxiv.org/abs/2510.09599v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.09599v1",
+          "saved_at": "2025-10-13",
+          "files": {
+            "pdf": "data/news/2025-10-13/prompting_test_time_scaling_is_a_strong_llm_reasoning_data_augmentation.pdf"
+          }
+        },
+        {
+          "title": "BaNEL: Exploration Posteriors for Generative Modeling Using Only\n  Negative Rewards",
+          "source": "arxiv",
+          "date": "2025-10-10T17:55:03Z",
+          "page_url": "http://arxiv.org/abs/2510.09596v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.09596v1",
+          "saved_at": "2025-10-13",
+          "files": {
+            "pdf": "data/news/2025-10-13/banel_exploration_posteriors_for_generative_modeling_using_only_negative_rewards.pdf"
+          }
+        },
+        {
+          "title": "LiveOIBench: Can Large Language Models Outperform Human Contestants in\n  Informatics Olympiads?",
+          "source": "arxiv",
+          "date": "2025-10-10T17:54:24Z",
+          "page_url": "http://arxiv.org/abs/2510.09595v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.09595v1",
+          "saved_at": "2025-10-13",
+          "files": {
+            "pdf": "data/news/2025-10-13/liveoibench_can_large_language_models_outperform_human_contestants_in_informatic.pdf"
+          }
+        },
+        {
+          "title": "STaTS: Structure-Aware Temporal Sequence Summarization via Statistical\n  Window Merging",
+          "source": "arxiv",
+          "date": "2025-10-10T17:51:47Z",
+          "page_url": "http://arxiv.org/abs/2510.09593v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.09593v1",
+          "saved_at": "2025-10-13",
+          "files": {
+            "pdf": "data/news/2025-10-13/stats_structure_aware_temporal_sequence_summarization_via_statistical_window_mer.pdf"
+          }
+        },
+        {
+          "title": "Mind-Paced Speaking: A Dual-Brain Approach to Real-Time Reasoning in\n  Spoken Language Models",
+          "source": "arxiv",
+          "date": "2025-10-10T17:50:59Z",
+          "page_url": "http://arxiv.org/abs/2510.09592v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.09592v1",
+          "saved_at": "2025-10-13",
+          "files": {
+            "pdf": "data/news/2025-10-13/mind_paced_speaking_a_dual_brain_approach_to_real_time_reasoning_in_spoken_langu.pdf"
+          }
+        },
+        {
+          "title": "Dyna-Mind: Learning to Simulate from Experience for Better AI Agents",
+          "source": "arxiv",
+          "date": "2025-10-10T17:30:18Z",
+          "page_url": "http://arxiv.org/abs/2510.09577v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.09577v1",
+          "saved_at": "2025-10-13",
+          "files": {
+            "pdf": "data/news/2025-10-13/dyna_mind_learning_to_simulate_from_experience_for_better_ai_agents.pdf"
+          }
+        },
+        {
+          "title": "TC-LoRA: Temporally Modulated Conditional LoRA for Adaptive Diffusion\n  Control",
+          "source": "arxiv",
+          "date": "2025-10-10T17:13:02Z",
+          "page_url": "http://arxiv.org/abs/2510.09561v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.09561v1",
+          "saved_at": "2025-10-13",
+          "files": {
+            "pdf": "data/news/2025-10-13/tc_lora_temporally_modulated_conditional_lora_for_adaptive_diffusion_control.pdf"
           }
         }
       ]
