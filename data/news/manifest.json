@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-13T13:11:36.412743Z",
+  "generated_at": "2025-10-20T13:11:53.383624Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -461,6 +461,122 @@
           "saved_at": "2025-10-13",
           "files": {
             "pdf": "data/news/2025-10-13/tc_lora_temporally_modulated_conditional_lora_for_adaptive_diffusion_control.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-20",
+      "count": 10,
+      "items": [
+        {
+          "title": "BiomedXPro: Prompt Optimization for Explainable Diagnosis with\n  Biomedical Vision Language Models",
+          "source": "arxiv",
+          "date": "2025-10-17T17:58:31Z",
+          "page_url": "http://arxiv.org/abs/2510.15866v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.15866v1",
+          "saved_at": "2025-10-20",
+          "files": {
+            "pdf": "data/news/2025-10-20/biomedxpro_prompt_optimization_for_explainable_diagnosis_with_biomedical_vision.pdf"
+          }
+        },
+        {
+          "title": "Sound Clouds: Exploring ambient intelligence in public spaces to elicit\n  deep human experience of awe, wonder, and beauty",
+          "source": "arxiv",
+          "date": "2025-10-17T17:56:58Z",
+          "page_url": "http://arxiv.org/abs/2510.15865v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.15865v1",
+          "saved_at": "2025-10-20",
+          "files": {
+            "pdf": "data/news/2025-10-20/sound_clouds_exploring_ambient_intelligence_in_public_spaces_to_elicit_deep_huma.pdf"
+          }
+        },
+        {
+          "title": "A Unifying Convexification Framework for Chance-Constrained Programs via\n  Bilinear Extended Formulations over a Simplex",
+          "source": "arxiv",
+          "date": "2025-10-17T17:52:22Z",
+          "page_url": "http://arxiv.org/abs/2510.15861v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.15861v1",
+          "saved_at": "2025-10-20",
+          "files": {
+            "pdf": "data/news/2025-10-20/a_unifying_convexification_framework_for_chance_constrained_programs_via_bilinea.pdf"
+          }
+        },
+        {
+          "title": "BLIP3o-NEXT: Next Frontier of Native Image Generation",
+          "source": "arxiv",
+          "date": "2025-10-17T17:50:58Z",
+          "page_url": "http://arxiv.org/abs/2510.15857v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.15857v1",
+          "saved_at": "2025-10-20",
+          "files": {
+            "pdf": "data/news/2025-10-20/blip3o_next_next_frontier_of_native_image_generation.pdf"
+          }
+        },
+        {
+          "title": "Boundary-Informed Method of Lines for Physics Informed Neural Networks",
+          "source": "arxiv",
+          "date": "2025-10-17T17:45:55Z",
+          "page_url": "http://arxiv.org/abs/2510.15852v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.15852v1",
+          "saved_at": "2025-10-20",
+          "files": {
+            "pdf": "data/news/2025-10-20/boundary_informed_method_of_lines_for_physics_informed_neural_networks.pdf"
+          }
+        },
+        {
+          "title": "3DPR: Single Image 3D Portrait Relight using Generative Priors",
+          "source": "arxiv",
+          "date": "2025-10-17T17:37:42Z",
+          "page_url": "http://arxiv.org/abs/2510.15846v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.15846v1",
+          "saved_at": "2025-10-20",
+          "files": {
+            "pdf": "data/news/2025-10-20/3dpr_single_image_3d_portrait_relight_using_generative_priors.pdf"
+          }
+        },
+        {
+          "title": "Enhanced Sentiment Interpretation via a Lexicon-Fuzzy-Transformer\n  Framework",
+          "source": "arxiv",
+          "date": "2025-10-17T17:36:05Z",
+          "page_url": "http://arxiv.org/abs/2510.15843v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.15843v1",
+          "saved_at": "2025-10-20",
+          "files": {
+            "pdf": "data/news/2025-10-20/enhanced_sentiment_interpretation_via_a_lexicon_fuzzy_transformer_framework.pdf"
+          }
+        },
+        {
+          "title": "Neuro-Symbolic Spatial Reasoning in Segmentation",
+          "source": "arxiv",
+          "date": "2025-10-17T17:35:34Z",
+          "page_url": "http://arxiv.org/abs/2510.15841v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.15841v1",
+          "saved_at": "2025-10-20",
+          "files": {
+            "pdf": "data/news/2025-10-20/neuro_symbolic_spatial_reasoning_in_segmentation.pdf"
+          }
+        },
+        {
+          "title": "Multiscale Modeling of Abnormal Grain Growth: Role of Solute Segregation\n  and Grain Boundary Character",
+          "source": "arxiv",
+          "date": "2025-10-17T17:34:43Z",
+          "page_url": "http://arxiv.org/abs/2510.15840v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.15840v1",
+          "saved_at": "2025-10-20",
+          "files": {
+            "pdf": "data/news/2025-10-20/multiscale_modeling_of_abnormal_grain_growth_role_of_solute_segregation_and_grai.pdf"
+          }
+        },
+        {
+          "title": "VISTA: A Test-Time Self-Improving Video Generation Agent",
+          "source": "arxiv",
+          "date": "2025-10-17T17:12:08Z",
+          "page_url": "http://arxiv.org/abs/2510.15831v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.15831v1",
+          "saved_at": "2025-10-20",
+          "files": {
+            "pdf": "data/news/2025-10-20/vista_a_test_time_self_improving_video_generation_agent.pdf"
           }
         }
       ]
