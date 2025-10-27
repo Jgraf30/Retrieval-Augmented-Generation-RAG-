@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-20T13:11:53.383624Z",
+  "generated_at": "2025-10-27T13:13:06.181085Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -577,6 +577,122 @@
           "saved_at": "2025-10-20",
           "files": {
             "pdf": "data/news/2025-10-20/vista_a_test_time_self_improving_video_generation_agent.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-27",
+      "count": 10,
+      "items": [
+        {
+          "title": "Equivariance by Contrast: Identifiable Equivariant Embeddings from\n  Unlabeled Finite Group Actions",
+          "source": "arxiv",
+          "date": "2025-10-24T17:59:46Z",
+          "page_url": "http://arxiv.org/abs/2510.21706v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.21706v1",
+          "saved_at": "2025-10-27",
+          "files": {
+            "pdf": "data/news/2025-10-27/equivariance_by_contrast_identifiable_equivariant_embeddings_from_unlabeled_fini.pdf"
+          }
+        },
+        {
+          "title": "BachVid: Training-Free Video Generation with Consistent Background and\n  Character",
+          "source": "arxiv",
+          "date": "2025-10-24T17:56:37Z",
+          "page_url": "http://arxiv.org/abs/2510.21696v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.21696v1",
+          "saved_at": "2025-10-27",
+          "files": {
+            "pdf": "data/news/2025-10-27/bachvid_training_free_video_generation_with_consistent_background_and_character.pdf"
+          }
+        },
+        {
+          "title": "On Uncertainty Calibration for Equivariant Functions",
+          "source": "arxiv",
+          "date": "2025-10-24T17:50:41Z",
+          "page_url": "http://arxiv.org/abs/2510.21691v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.21691v1",
+          "saved_at": "2025-10-27",
+          "files": {
+            "pdf": "data/news/2025-10-27/on_uncertainty_calibration_for_equivariant_functions.pdf"
+          }
+        },
+        {
+          "title": "On Thin Ice: Towards Explainable Conservation Monitoring via Attribution\n  and Perturbations",
+          "source": "arxiv",
+          "date": "2025-10-24T17:46:24Z",
+          "page_url": "http://arxiv.org/abs/2510.21689v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.21689v1",
+          "saved_at": "2025-10-27",
+          "files": {
+            "pdf": "data/news/2025-10-27/on_thin_ice_towards_explainable_conservation_monitoring_via_attribution_and_pert.pdf"
+          }
+        },
+        {
+          "title": "Toward provably private analytics and insights into GenAI use",
+          "source": "arxiv",
+          "date": "2025-10-24T17:40:12Z",
+          "page_url": "http://arxiv.org/abs/2510.21684v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.21684v1",
+          "saved_at": "2025-10-27",
+          "files": {
+            "pdf": "data/news/2025-10-27/toward_provably_private_analytics_and_insights_into_genai_use.pdf"
+          }
+        },
+        {
+          "title": "WorldGrow: Generating Infinite 3D World",
+          "source": "arxiv",
+          "date": "2025-10-24T17:39:52Z",
+          "page_url": "http://arxiv.org/abs/2510.21682v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.21682v1",
+          "saved_at": "2025-10-27",
+          "files": {
+            "pdf": "data/news/2025-10-27/worldgrow_generating_infinite_3d_world.pdf"
+          }
+        },
+        {
+          "title": "Energy storage in a continuous-variable quantum battery with nonlinear\n  coupling",
+          "source": "arxiv",
+          "date": "2025-10-24T17:28:49Z",
+          "page_url": "http://arxiv.org/abs/2510.21672v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.21672v1",
+          "saved_at": "2025-10-27",
+          "files": {
+            "pdf": "data/news/2025-10-27/energy_storage_in_a_continuous_variable_quantum_battery_with_nonlinear_coupling.pdf"
+          }
+        },
+        {
+          "title": "CMOMgen: Complex Multi-Ontology Alignment via Pattern-Guided In-Context\n  Learning",
+          "source": "arxiv",
+          "date": "2025-10-24T17:12:22Z",
+          "page_url": "http://arxiv.org/abs/2510.21656v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.21656v1",
+          "saved_at": "2025-10-27",
+          "files": {
+            "pdf": "data/news/2025-10-27/cmomgen_complex_multi_ontology_alignment_via_pattern_guided_in_context_learning.pdf"
+          }
+        },
+        {
+          "title": "DeepAgent: A General Reasoning Agent with Scalable Toolsets",
+          "source": "arxiv",
+          "date": "2025-10-24T16:24:01Z",
+          "page_url": "http://arxiv.org/abs/2510.21618v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.21618v1",
+          "saved_at": "2025-10-27",
+          "files": {
+            "pdf": "data/news/2025-10-27/deepagent_a_general_reasoning_agent_with_scalable_toolsets.pdf"
+          }
+        },
+        {
+          "title": "Modest-Align: Data-Efficient Alignment for Vision-Language Models",
+          "source": "arxiv",
+          "date": "2025-10-24T16:11:10Z",
+          "page_url": "http://arxiv.org/abs/2510.21606v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.21606v1",
+          "saved_at": "2025-10-27",
+          "files": {
+            "pdf": "data/news/2025-10-27/modest_align_data_efficient_alignment_for_vision_language_models.pdf"
           }
         }
       ]
