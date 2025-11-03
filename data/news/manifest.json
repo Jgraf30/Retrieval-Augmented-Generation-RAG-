@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-27T13:13:06.181085Z",
+  "generated_at": "2025-11-03T13:11:50.361007Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -693,6 +693,122 @@
           "saved_at": "2025-10-27",
           "files": {
             "pdf": "data/news/2025-10-27/modest_align_data_efficient_alignment_for_vision_language_models.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-03",
+      "count": 10,
+      "items": [
+        {
+          "title": "Continuous Autoregressive Language Models",
+          "source": "arxiv",
+          "date": "2025-10-31T17:58:11Z",
+          "page_url": "http://arxiv.org/abs/2510.27688v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.27688v1",
+          "saved_at": "2025-11-03",
+          "files": {
+            "pdf": "data/news/2025-11-03/continuous_autoregressive_language_models.pdf"
+          }
+        },
+        {
+          "title": "Personalized AI Scaffolds Synergistic Multi-Turn Collaboration in\n  Creative Work",
+          "source": "arxiv",
+          "date": "2025-10-31T17:49:50Z",
+          "page_url": "http://arxiv.org/abs/2510.27681v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.27681v1",
+          "saved_at": "2025-11-03",
+          "files": {
+            "pdf": "data/news/2025-11-03/personalized_ai_scaffolds_synergistic_multi_turn_collaboration_in_creative_work.pdf"
+          }
+        },
+        {
+          "title": "Renormalisation Group approach to General Relativity",
+          "source": "arxiv",
+          "date": "2025-10-31T17:42:42Z",
+          "page_url": "http://arxiv.org/abs/2510.27676v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.27676v1",
+          "saved_at": "2025-11-03",
+          "files": {
+            "pdf": "data/news/2025-11-03/renormalisation_group_approach_to_general_relativity.pdf"
+          }
+        },
+        {
+          "title": "MolChord: Structure-Sequence Alignment for Protein-Guided Drug Design",
+          "source": "arxiv",
+          "date": "2025-10-31T17:35:53Z",
+          "page_url": "http://arxiv.org/abs/2510.27671v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.27671v1",
+          "saved_at": "2025-11-03",
+          "files": {
+            "pdf": "data/news/2025-11-03/molchord_structure_sequence_alignment_for_protein_guided_drug_design.pdf"
+          }
+        },
+        {
+          "title": "Technical Report for Dissipativity Learning in Reproducing Kernel\n  Hilbert Space",
+          "source": "arxiv",
+          "date": "2025-10-31T17:34:27Z",
+          "page_url": "http://arxiv.org/abs/2510.27669v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.27669v1",
+          "saved_at": "2025-11-03",
+          "files": {
+            "pdf": "data/news/2025-11-03/technical_report_for_dissipativity_learning_in_reproducing_kernel_hilbert_space.pdf"
+          }
+        },
+        {
+          "title": "Deep learning denoising unlocks quantitative insights in operando\n  materials microscopy",
+          "source": "arxiv",
+          "date": "2025-10-31T17:34:05Z",
+          "page_url": "http://arxiv.org/abs/2510.27667v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.27667v1",
+          "saved_at": "2025-11-03",
+          "files": {
+            "pdf": "data/news/2025-11-03/deep_learning_denoising_unlocks_quantitative_insights_in_operando_materials_micr.pdf"
+          }
+        },
+        {
+          "title": "A Primal-dual Forward-backward Splitting Method for Cross-diffusion\n  Gradient Flows with General Mobility Matrices",
+          "source": "arxiv",
+          "date": "2025-10-31T17:31:15Z",
+          "page_url": "http://arxiv.org/abs/2510.27660v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.27660v1",
+          "saved_at": "2025-11-03",
+          "files": {
+            "pdf": "data/news/2025-11-03/a_primal_dual_forward_backward_splitting_method_for_cross_diffusion_gradient_flo.pdf"
+          }
+        },
+        {
+          "title": "VessShape: Few-shot 2D blood vessel segmentation by leveraging shape\n  priors from synthetic images",
+          "source": "arxiv",
+          "date": "2025-10-31T17:19:33Z",
+          "page_url": "http://arxiv.org/abs/2510.27646v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.27646v1",
+          "saved_at": "2025-11-03",
+          "files": {
+            "pdf": "data/news/2025-11-03/vessshape_few_shot_2d_blood_vessel_segmentation_by_leveraging_shape_priors_from.pdf"
+          }
+        },
+        {
+          "title": "SpecAttn: Speculating Sparse Attention",
+          "source": "arxiv",
+          "date": "2025-10-31T17:12:34Z",
+          "page_url": "http://arxiv.org/abs/2510.27641v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.27641v1",
+          "saved_at": "2025-11-03",
+          "files": {
+            "pdf": "data/news/2025-11-03/specattn_speculating_sparse_attention.pdf"
+          }
+        },
+        {
+          "title": "SN 2024cld: unveiling the complex mass-loss histories of evolved\n  supergiant progenitors to core collapse supernovae",
+          "source": "arxiv",
+          "date": "2025-10-31T17:01:31Z",
+          "page_url": "http://arxiv.org/abs/2510.27631v1",
+          "pdf_url": "http://arxiv.org/pdf/2510.27631v1",
+          "saved_at": "2025-11-03",
+          "files": {
+            "pdf": "data/news/2025-11-03/sn_2024cld_unveiling_the_complex_mass_loss_histories_of_evolved_supergiant_proge.pdf"
           }
         }
       ]
