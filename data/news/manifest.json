@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-03T13:11:50.361007Z",
+  "generated_at": "2025-11-10T13:12:40.891317Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -809,6 +809,122 @@
           "saved_at": "2025-11-03",
           "files": {
             "pdf": "data/news/2025-11-03/sn_2024cld_unveiling_the_complex_mass_loss_histories_of_evolved_supergiant_proge.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-10",
+      "count": 10,
+      "items": [
+        {
+          "title": "Quantum Tensor Representation via Circuit Partitioning and Reintegration",
+          "source": "arxiv",
+          "date": "2025-11-07T18:59:58Z",
+          "page_url": "http://arxiv.org/abs/2511.05492v1",
+          "pdf_url": "http://arxiv.org/pdf/2511.05492v1",
+          "saved_at": "2025-11-10",
+          "files": {
+            "pdf": "data/news/2025-11-10/quantum_tensor_representation_via_circuit_partitioning_and_reintegration.pdf"
+          }
+        },
+        {
+          "title": "Realization of Thread Level Parallelism on Quantum Devices",
+          "source": "arxiv",
+          "date": "2025-11-07T17:12:41Z",
+          "page_url": "http://arxiv.org/abs/2511.05436v1",
+          "pdf_url": "http://arxiv.org/pdf/2511.05436v1",
+          "saved_at": "2025-11-10",
+          "files": {
+            "pdf": "data/news/2025-11-10/realization_of_thread_level_parallelism_on_quantum_devices.pdf"
+          }
+        },
+        {
+          "title": "Reconstructing Riemannian Metrics From Random Geometric Graphs",
+          "source": "arxiv",
+          "date": "2025-11-07T17:10:02Z",
+          "page_url": "http://arxiv.org/abs/2511.05434v1",
+          "pdf_url": "http://arxiv.org/pdf/2511.05434v1",
+          "saved_at": "2025-11-10",
+          "files": {
+            "pdf": "data/news/2025-11-10/reconstructing_riemannian_metrics_from_random_geometric_graphs.pdf"
+          }
+        },
+        {
+          "title": "Shared Latent Representation for Joint Text-to-Audio-Visual Synthesis",
+          "source": "arxiv",
+          "date": "2025-11-07T17:07:56Z",
+          "page_url": "http://arxiv.org/abs/2511.05432v1",
+          "pdf_url": "http://arxiv.org/pdf/2511.05432v1",
+          "saved_at": "2025-11-10",
+          "files": {
+            "pdf": "data/news/2025-11-10/shared_latent_representation_for_joint_text_to_audio_visual_synthesis.pdf"
+          }
+        },
+        {
+          "title": "Scanning the IPv6 Internet Using Subnet-Router Anycast Probing",
+          "source": "arxiv",
+          "date": "2025-11-07T16:56:37Z",
+          "page_url": "http://arxiv.org/abs/2511.05423v1",
+          "pdf_url": "http://arxiv.org/pdf/2511.05423v1",
+          "saved_at": "2025-11-10",
+          "files": {
+            "pdf": "data/news/2025-11-10/scanning_the_ipv6_internet_using_subnet_router_anycast_probing.pdf"
+          }
+        },
+        {
+          "title": "APP: Accelerated Path Patching with Task-Specific Pruning",
+          "source": "arxiv",
+          "date": "2025-11-07T17:20:32Z",
+          "page_url": "http://arxiv.org/abs/2511.05442v1",
+          "pdf_url": "http://arxiv.org/pdf/2511.05442v1",
+          "saved_at": "2025-11-10",
+          "files": {
+            "pdf": "data/news/2025-11-10/app_accelerated_path_patching_with_task_specific_pruning.pdf"
+          }
+        },
+        {
+          "title": "Large Language Models for Explainable Threat Intelligence",
+          "source": "arxiv",
+          "date": "2025-11-07T16:32:41Z",
+          "page_url": "http://arxiv.org/abs/2511.05406v1",
+          "pdf_url": "http://arxiv.org/pdf/2511.05406v1",
+          "saved_at": "2025-11-10",
+          "files": {
+            "pdf": "data/news/2025-11-10/large_language_models_for_explainable_threat_intelligence.pdf"
+          }
+        },
+        {
+          "title": "Multi-modal Loop Closure Detection with Foundation Models in Severely\n  Unstructured Environments",
+          "source": "arxiv",
+          "date": "2025-11-07T16:30:35Z",
+          "page_url": "http://arxiv.org/abs/2511.05404v1",
+          "pdf_url": "http://arxiv.org/pdf/2511.05404v1",
+          "saved_at": "2025-11-10",
+          "files": {
+            "pdf": "data/news/2025-11-10/multi_modal_loop_closure_detection_with_foundation_models_in_severely_unstructur.pdf"
+          }
+        },
+        {
+          "title": "TeaRAG: A Token-Efficient Agentic Retrieval-Augmented Generation\n  Framework",
+          "source": "arxiv",
+          "date": "2025-11-07T16:08:34Z",
+          "page_url": "http://arxiv.org/abs/2511.05385v1",
+          "pdf_url": "http://arxiv.org/pdf/2511.05385v1",
+          "saved_at": "2025-11-10",
+          "files": {
+            "pdf": "data/news/2025-11-10/tearag_a_token_efficient_agentic_retrieval_augmented_generation_framework.pdf"
+          }
+        },
+        {
+          "title": "LIR: The First Workshop on Late Interaction and Multi Vector Retrieval @\n  ECIR 2026",
+          "source": "arxiv",
+          "date": "2025-11-01T08:21:33Z",
+          "page_url": "http://arxiv.org/abs/2511.00444v1",
+          "pdf_url": "http://arxiv.org/pdf/2511.00444v1",
+          "saved_at": "2025-11-10",
+          "files": {
+            "pdf": "data/news/2025-11-10/lir_the_first_workshop_on_late_interaction_and_multi_vector_retrieval_ecir_2026.pdf"
           }
         }
       ]
