@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-10T13:12:40.891317Z",
+  "generated_at": "2025-11-17T13:13:03.842903Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -925,6 +925,122 @@
           "saved_at": "2025-11-10",
           "files": {
             "pdf": "data/news/2025-11-10/lir_the_first_workshop_on_late_interaction_and_multi_vector_retrieval_ecir_2026.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-17",
+      "count": 10,
+      "items": [
+        {
+          "title": "Implicit inference of the reionization history with higher-order statistics of the 21-cm signal",
+          "source": "arxiv",
+          "date": "2025-11-14T18:58:13Z",
+          "page_url": "https://arxiv.org/abs/2511.11568v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.11568v1",
+          "saved_at": "2025-11-17",
+          "files": {
+            "pdf": "data/news/2025-11-17/implicit_inference_of_the_reionization_history_with_higher_order_statistics_of_t.pdf"
+          }
+        },
+        {
+          "title": "LARM: A Large Articulated-Object Reconstruction Model",
+          "source": "arxiv",
+          "date": "2025-11-14T18:55:27Z",
+          "page_url": "https://arxiv.org/abs/2511.11563v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.11563v1",
+          "saved_at": "2025-11-17",
+          "files": {
+            "pdf": "data/news/2025-11-17/larm_a_large_articulated_object_reconstruction_model.pdf"
+          }
+        },
+        {
+          "title": "Human-AI collaborative autonomous synthesis with pulsed laser deposition for remote epitaxy",
+          "source": "arxiv",
+          "date": "2025-11-14T18:48:52Z",
+          "page_url": "https://arxiv.org/abs/2511.11558v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.11558v1",
+          "saved_at": "2025-11-17",
+          "files": {
+            "pdf": "data/news/2025-11-17/human_ai_collaborative_autonomous_synthesis_with_pulsed_laser_deposition_for_rem.pdf"
+          }
+        },
+        {
+          "title": "DocLens : A Tool-Augmented Multi-Agent Framework for Long Visual Document Understanding",
+          "source": "arxiv",
+          "date": "2025-11-14T18:42:18Z",
+          "page_url": "https://arxiv.org/abs/2511.11552v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.11552v1",
+          "saved_at": "2025-11-17",
+          "files": {
+            "pdf": "data/news/2025-11-17/doclens_a_tool_augmented_multi_agent_framework_for_long_visual_document_understa.pdf"
+          }
+        },
+        {
+          "title": "HetDAPAC: Leveraging Attribute Heterogeneity in Distributed Attribute-Based Private Access Control",
+          "source": "arxiv",
+          "date": "2025-11-14T18:40:17Z",
+          "page_url": "https://arxiv.org/abs/2511.11549v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.11549v1",
+          "saved_at": "2025-11-17",
+          "files": {
+            "pdf": "data/news/2025-11-17/hetdapac_leveraging_attribute_heterogeneity_in_distributed_attribute_based_priva.pdf"
+          }
+        },
+        {
+          "title": "Generalizing Fair Clustering to Multiple Groups: Algorithms and Applications",
+          "source": "arxiv",
+          "date": "2025-11-14T18:19:18Z",
+          "page_url": "https://arxiv.org/abs/2511.11539v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.11539v1",
+          "saved_at": "2025-11-17",
+          "files": {
+            "pdf": "data/news/2025-11-17/generalizing_fair_clustering_to_multiple_groups_algorithms_and_applications.pdf"
+          }
+        },
+        {
+          "title": "Terrain Costmap Generation via Scaled Preference Conditioning",
+          "source": "arxiv",
+          "date": "2025-11-14T18:04:20Z",
+          "page_url": "https://arxiv.org/abs/2511.11529v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.11529v1",
+          "saved_at": "2025-11-17",
+          "files": {
+            "pdf": "data/news/2025-11-17/terrain_costmap_generation_via_scaled_preference_conditioning.pdf"
+          }
+        },
+        {
+          "title": "Scalable Policy Evaluation with Video World Models",
+          "source": "arxiv",
+          "date": "2025-11-14T17:46:17Z",
+          "page_url": "https://arxiv.org/abs/2511.11520v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.11520v1",
+          "saved_at": "2025-11-17",
+          "files": {
+            "pdf": "data/news/2025-11-17/scalable_policy_evaluation_with_video_world_models.pdf"
+          }
+        },
+        {
+          "title": "W2S-AlignTree: Weak-to-Strong Inference-Time Alignment for Large Language Models via Monte Carlo Tree Search",
+          "source": "arxiv",
+          "date": "2025-11-14T17:42:02Z",
+          "page_url": "https://arxiv.org/abs/2511.11518v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.11518v1",
+          "saved_at": "2025-11-17",
+          "files": {
+            "pdf": "data/news/2025-11-17/w2s_aligntree_weak_to_strong_inference_time_alignment_for_large_language_models.pdf"
+          }
+        },
+        {
+          "title": "Scalable Coverage Trajectory Synthesis on GPUs as Statistical Inference",
+          "source": "arxiv",
+          "date": "2025-11-14T17:37:54Z",
+          "page_url": "https://arxiv.org/abs/2511.11514v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.11514v1",
+          "saved_at": "2025-11-17",
+          "files": {
+            "pdf": "data/news/2025-11-17/scalable_coverage_trajectory_synthesis_on_gpus_as_statistical_inference.pdf"
           }
         }
       ]
