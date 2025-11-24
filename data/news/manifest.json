@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-17T13:13:03.842903Z",
+  "generated_at": "2025-11-24T13:13:20.897385Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -1041,6 +1041,122 @@
           "saved_at": "2025-11-17",
           "files": {
             "pdf": "data/news/2025-11-17/scalable_coverage_trajectory_synthesis_on_gpus_as_statistical_inference.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-24",
+      "count": 10,
+      "items": [
+        {
+          "title": "RynnVLA-002: A Unified Vision-Language-Action and World Model",
+          "source": "arxiv",
+          "date": "2025-11-21T18:59:32Z",
+          "page_url": "https://arxiv.org/abs/2511.17502v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.17502v1",
+          "saved_at": "2025-11-24",
+          "files": {
+            "pdf": "data/news/2025-11-24/rynnvla_002_a_unified_vision_language_action_and_world_model.pdf"
+          }
+        },
+        {
+          "title": "Native 3D Editing with Full Attention",
+          "source": "arxiv",
+          "date": "2025-11-21T18:59:26Z",
+          "page_url": "https://arxiv.org/abs/2511.17501v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.17501v1",
+          "saved_at": "2025-11-24",
+          "files": {
+            "pdf": "data/news/2025-11-24/native_3d_editing_with_full_attention.pdf"
+          }
+        },
+        {
+          "title": "EvDiff: High Quality Video with an Event Camera",
+          "source": "arxiv",
+          "date": "2025-11-21T18:49:18Z",
+          "page_url": "https://arxiv.org/abs/2511.17492v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.17492v1",
+          "saved_at": "2025-11-24",
+          "files": {
+            "pdf": "data/news/2025-11-24/evdiff_high_quality_video_with_an_event_camera.pdf"
+          }
+        },
+        {
+          "title": "The Atlas Model and SDEs with Boundary Interaction",
+          "source": "arxiv",
+          "date": "2025-11-21T18:42:19Z",
+          "page_url": "https://arxiv.org/abs/2511.17486v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.17486v1",
+          "saved_at": "2025-11-24",
+          "files": {
+            "pdf": "data/news/2025-11-24/the_atlas_model_and_sdes_with_boundary_interaction.pdf"
+          }
+        },
+        {
+          "title": "Radar2Shape: 3D Shape Reconstruction from High-Frequency Radar using Multiresolution Signed Distance Functions",
+          "source": "arxiv",
+          "date": "2025-11-21T18:40:03Z",
+          "page_url": "https://arxiv.org/abs/2511.17484v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.17484v1",
+          "saved_at": "2025-11-24",
+          "files": {
+            "pdf": "data/news/2025-11-24/radar2shape_3d_shape_reconstruction_from_high_frequency_radar_using_multiresolut.pdf"
+          }
+        },
+        {
+          "title": "Residual Stress Anisotropy In Thin-Film Lithium Niobate For Stress-Managed MEMS",
+          "source": "arxiv",
+          "date": "2025-11-21T18:23:53Z",
+          "page_url": "https://arxiv.org/abs/2511.17474v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.17474v1",
+          "saved_at": "2025-11-24",
+          "files": {
+            "pdf": "data/news/2025-11-24/residual_stress_anisotropy_in_thin_film_lithium_niobate_for_stress_managed_mems.pdf"
+          }
+        },
+        {
+          "title": "PersonaAgent with GraphRAG: Community-Aware Knowledge Graphs for Personalized LLM",
+          "source": "arxiv",
+          "date": "2025-11-21T18:15:47Z",
+          "page_url": "https://arxiv.org/abs/2511.17467v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.17467v1",
+          "saved_at": "2025-11-24",
+          "files": {
+            "pdf": "data/news/2025-11-24/personaagent_with_graphrag_community_aware_knowledge_graphs_for_personalized_llm.pdf"
+          }
+        },
+        {
+          "title": "A Patient-Centric Blockchain Framework for Secure Electronic Health Record Management: Decoupling Data Storage from Access Control",
+          "source": "arxiv",
+          "date": "2025-11-21T18:09:25Z",
+          "page_url": "https://arxiv.org/abs/2511.17464v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.17464v1",
+          "saved_at": "2025-11-24",
+          "files": {
+            "pdf": "data/news/2025-11-24/a_patient_centric_blockchain_framework_for_secure_electronic_health_record_manag.pdf"
+          }
+        },
+        {
+          "title": "SRA-CP: Spontaneous Risk-Aware Selective Cooperative Perception",
+          "source": "arxiv",
+          "date": "2025-11-21T18:03:48Z",
+          "page_url": "https://arxiv.org/abs/2511.17461v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.17461v1",
+          "saved_at": "2025-11-24",
+          "files": {
+            "pdf": "data/news/2025-11-24/sra_cp_spontaneous_risk_aware_selective_cooperative_perception.pdf"
+          }
+        },
+        {
+          "title": "Improving Multimodal Distillation for 3D Semantic Segmentation under Domain Shift",
+          "source": "arxiv",
+          "date": "2025-11-21T17:57:43Z",
+          "page_url": "https://arxiv.org/abs/2511.17455v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.17455v1",
+          "saved_at": "2025-11-24",
+          "files": {
+            "pdf": "data/news/2025-11-24/improving_multimodal_distillation_for_3d_semantic_segmentation_under_domain_shif.pdf"
           }
         }
       ]
