@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-24T13:13:20.897385Z",
+  "generated_at": "2025-12-01T13:15:04.264397Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -1157,6 +1157,122 @@
           "saved_at": "2025-11-24",
           "files": {
             "pdf": "data/news/2025-11-24/improving_multimodal_distillation_for_3d_semantic_segmentation_under_domain_shif.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-12-01",
+      "count": 10,
+      "items": [
+        {
+          "title": "Video-R2: Reinforcing Consistent and Grounded Reasoning in Multimodal Language Models",
+          "source": "arxiv",
+          "date": "2025-11-28T18:59:58Z",
+          "page_url": "https://arxiv.org/abs/2511.23478v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.23478v1",
+          "saved_at": "2025-12-01",
+          "files": {
+            "pdf": "data/news/2025-12-01/video_r2_reinforcing_consistent_and_grounded_reasoning_in_multimodal_language_mo.pdf"
+          }
+        },
+        {
+          "title": "Visual Generation Tuning",
+          "source": "arxiv",
+          "date": "2025-11-28T18:57:13Z",
+          "page_url": "https://arxiv.org/abs/2511.23469v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.23469v1",
+          "saved_at": "2025-12-01",
+          "files": {
+            "pdf": "data/news/2025-12-01/visual_generation_tuning.pdf"
+          }
+        },
+        {
+          "title": "Arbitrary control of the temporal waveform of photons during spontaneous emission",
+          "source": "arxiv",
+          "date": "2025-11-28T18:54:08Z",
+          "page_url": "https://arxiv.org/abs/2511.23462v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.23462v1",
+          "saved_at": "2025-12-01",
+          "files": {
+            "pdf": "data/news/2025-12-01/arbitrary_control_of_the_temporal_waveform_of_photons_during_spontaneous_emissio.pdf"
+          }
+        },
+        {
+          "title": "ASTRO: Adaptive Stitching via Dynamics-Guided Trajectory Rollouts",
+          "source": "arxiv",
+          "date": "2025-11-28T18:35:37Z",
+          "page_url": "https://arxiv.org/abs/2511.23442v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.23442v1",
+          "saved_at": "2025-12-01",
+          "files": {
+            "pdf": "data/news/2025-12-01/astro_adaptive_stitching_via_dynamics_guided_trajectory_rollouts.pdf"
+          }
+        },
+        {
+          "title": "Accelerated Execution of Bayesian Neural Networks using a Single Probabilistic Forward Pass and Code Generation",
+          "source": "arxiv",
+          "date": "2025-11-28T18:35:20Z",
+          "page_url": "https://arxiv.org/abs/2511.23440v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.23440v1",
+          "saved_at": "2025-12-01",
+          "files": {
+            "pdf": "data/news/2025-12-01/accelerated_execution_of_bayesian_neural_networks_using_a_single_probabilistic_f.pdf"
+          }
+        },
+        {
+          "title": "DisMo: Disentangled Motion Representations for Open-World Motion Transfer",
+          "source": "arxiv",
+          "date": "2025-11-28T18:25:54Z",
+          "page_url": "https://arxiv.org/abs/2511.23428v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.23428v1",
+          "saved_at": "2025-12-01",
+          "files": {
+            "pdf": "data/news/2025-12-01/dismo_disentangled_motion_representations_for_open_world_motion_transfer.pdf"
+          }
+        },
+        {
+          "title": "NNGPT: Rethinking AutoML with Large Language Models",
+          "source": "arxiv",
+          "date": "2025-11-25T14:10:44Z",
+          "page_url": "https://arxiv.org/abs/2511.20333v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.20333v1",
+          "saved_at": "2025-12-01",
+          "files": {
+            "pdf": "data/news/2025-12-01/nngpt_rethinking_automl_with_large_language_models.pdf"
+          }
+        },
+        {
+          "title": "Tell Me: An LLM-powered Mental Well-being Assistant with RAG, Synthetic Dialogue Generation, and Agentic Planning",
+          "source": "arxiv",
+          "date": "2025-11-18T12:43:04Z",
+          "page_url": "https://arxiv.org/abs/2511.14445v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.14445v1",
+          "saved_at": "2025-12-01",
+          "files": {
+            "pdf": "data/news/2025-12-01/tell_me_an_llm_powered_mental_well_being_assistant_with_rag_synthetic_dialogue_g.pdf"
+          }
+        },
+        {
+          "title": "Knowing Ourselves Through Others: Reflecting with AI in Digital Human Debates",
+          "source": "arxiv",
+          "date": "2025-11-17T06:48:13Z",
+          "page_url": "https://arxiv.org/abs/2511.13046v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.13046v1",
+          "saved_at": "2025-12-01",
+          "files": {
+            "pdf": "data/news/2025-12-01/knowing_ourselves_through_others_reflecting_with_ai_in_digital_human_debates.pdf"
+          }
+        },
+        {
+          "title": "Look As You Think: Unifying Reasoning and Visual Evidence Attribution for Verifiable Document RAG via Reinforcement Learning",
+          "source": "arxiv",
+          "date": "2025-11-15T02:50:23Z",
+          "page_url": "https://arxiv.org/abs/2511.12003v1",
+          "pdf_url": "https://arxiv.org/pdf/2511.12003v1",
+          "saved_at": "2025-12-01",
+          "files": {
+            "pdf": "data/news/2025-12-01/look_as_you_think_unifying_reasoning_and_visual_evidence_attribution_for_verifia.pdf"
           }
         }
       ]
