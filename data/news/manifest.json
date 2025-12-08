@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-01T13:15:04.264397Z",
+  "generated_at": "2025-12-08T13:15:41.657875Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -1273,6 +1273,122 @@
           "saved_at": "2025-12-01",
           "files": {
             "pdf": "data/news/2025-12-01/look_as_you_think_unifying_reasoning_and_visual_evidence_attribution_for_verifia.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-12-08",
+      "count": 10,
+      "items": [
+        {
+          "title": "Enhancing Retrieval-Augmented Generation with Entity Linking for Educational Platforms",
+          "source": "arxiv",
+          "date": "2025-12-05T18:59:18Z",
+          "page_url": "https://arxiv.org/abs/2512.05967v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.05967v1",
+          "saved_at": "2025-12-08",
+          "files": {
+            "pdf": "data/news/2025-12-08/enhancing_retrieval_augmented_generation_with_entity_linking_for_educational_pla.pdf"
+          }
+        },
+        {
+          "title": "M4-RAG: A Massive-Scale Multilingual Multi-Cultural Multimodal RAG",
+          "source": "arxiv",
+          "date": "2025-12-05T18:55:58Z",
+          "page_url": "https://arxiv.org/abs/2512.05959v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.05959v1",
+          "saved_at": "2025-12-08",
+          "files": {
+            "pdf": "data/news/2025-12-08/m4_rag_a_massive_scale_multilingual_multi_cultural_multimodal_rag.pdf"
+          }
+        },
+        {
+          "title": "MaxShapley: Towards Incentive-compatible Generative Search with Fair Context Attribution",
+          "source": "arxiv",
+          "date": "2025-12-05T18:54:21Z",
+          "page_url": "https://arxiv.org/abs/2512.05958v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.05958v1",
+          "saved_at": "2025-12-08",
+          "files": {
+            "pdf": "data/news/2025-12-08/maxshapley_towards_incentive_compatible_generative_search_with_fair_context_attr.pdf"
+          }
+        },
+        {
+          "title": "SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models",
+          "source": "arxiv",
+          "date": "2025-12-05T18:51:03Z",
+          "page_url": "https://arxiv.org/abs/2512.05955v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.05955v1",
+          "saved_at": "2025-12-08",
+          "files": {
+            "pdf": "data/news/2025-12-08/simpact_simulation_enabled_action_planning_using_vision_language_models.pdf"
+          }
+        },
+        {
+          "title": "PRiSM: An Agentic Multimodal Benchmark for Scientific Reasoning via Python-Grounded Evaluation",
+          "source": "arxiv",
+          "date": "2025-12-05T18:14:55Z",
+          "page_url": "https://arxiv.org/abs/2512.05930v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.05930v1",
+          "saved_at": "2025-12-08",
+          "files": {
+            "pdf": "data/news/2025-12-08/prism_an_agentic_multimodal_benchmark_for_scientific_reasoning_via_python_ground.pdf"
+          }
+        },
+        {
+          "title": "A Comparative Study on Synthetic Facial Data Generation Techniques for Face Recognition",
+          "source": "arxiv",
+          "date": "2025-12-05T18:11:29Z",
+          "page_url": "https://arxiv.org/abs/2512.05928v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.05928v1",
+          "saved_at": "2025-12-08",
+          "files": {
+            "pdf": "data/news/2025-12-08/a_comparative_study_on_synthetic_facial_data_generation_techniques_for_face_reco.pdf"
+          }
+        },
+        {
+          "title": "World Models That Know When They Don't Know: Controllable Video Generation with Calibrated Uncertainty",
+          "source": "arxiv",
+          "date": "2025-12-05T18:06:18Z",
+          "page_url": "https://arxiv.org/abs/2512.05927v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.05927v1",
+          "saved_at": "2025-12-08",
+          "files": {
+            "pdf": "data/news/2025-12-08/world_models_that_know_when_they_don_t_know_controllable_video_generation_with_c.pdf"
+          }
+        },
+        {
+          "title": "Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures",
+          "source": "arxiv",
+          "date": "2025-12-05T17:42:09Z",
+          "page_url": "https://arxiv.org/abs/2512.05908v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.05908v1",
+          "saved_at": "2025-12-08",
+          "files": {
+            "pdf": "data/news/2025-12-08/natural_language_summarization_enables_multi_repository_bug_localization_by_llms.pdf"
+          }
+        },
+        {
+          "title": "From Text to Returns: Using Large Language Models for Mutual Fund Portfolio Optimization and Risk-Adjusted Allocation",
+          "source": "arxiv",
+          "date": "2025-12-05T17:41:34Z",
+          "page_url": "https://arxiv.org/abs/2512.05907v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.05907v1",
+          "saved_at": "2025-12-08",
+          "files": {
+            "pdf": "data/news/2025-12-08/from_text_to_returns_using_large_language_models_for_mutual_fund_portfolio_optim.pdf"
+          }
+        },
+        {
+          "title": "Factuality and Transparency Are All RAG Needs! Self-Explaining Contrastive Evidence Re-ranking",
+          "source": "arxiv",
+          "date": "2025-12-04T17:24:35Z",
+          "page_url": "https://arxiv.org/abs/2512.05012v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.05012v1",
+          "saved_at": "2025-12-08",
+          "files": {
+            "pdf": "data/news/2025-12-08/factuality_and_transparency_are_all_rag_needs_self_explaining_contrastive_eviden.pdf"
           }
         }
       ]
