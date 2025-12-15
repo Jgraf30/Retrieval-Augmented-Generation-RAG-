@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-08T13:15:41.657875Z",
+  "generated_at": "2025-12-15T13:16:27.500543Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -1389,6 +1389,122 @@
           "saved_at": "2025-12-08",
           "files": {
             "pdf": "data/news/2025-12-08/factuality_and_transparency_are_all_rag_needs_self_explaining_contrastive_eviden.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-12-15",
+      "count": 10,
+      "items": [
+        {
+          "title": "V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties",
+          "source": "arxiv",
+          "date": "2025-12-12T18:59:54Z",
+          "page_url": "https://arxiv.org/abs/2512.11799v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.11799v1",
+          "saved_at": "2025-12-15",
+          "files": {
+            "pdf": "data/news/2025-12-15/v_rgbx_video_editing_with_accurate_controls_over_intrinsic_properties.pdf"
+          }
+        },
+        {
+          "title": "AnchorDream: Repurposing Video Diffusion for Embodiment-Aware Robot Data Synthesis",
+          "source": "arxiv",
+          "date": "2025-12-12T18:59:45Z",
+          "page_url": "https://arxiv.org/abs/2512.11797v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.11797v1",
+          "saved_at": "2025-12-15",
+          "files": {
+            "pdf": "data/news/2025-12-15/anchordream_repurposing_video_diffusion_for_embodiment_aware_robot_data_synthesi.pdf"
+          }
+        },
+        {
+          "title": "Structure From Tracking: Distilling Structure-Preserving Motion for Video Generation",
+          "source": "arxiv",
+          "date": "2025-12-12T18:56:35Z",
+          "page_url": "https://arxiv.org/abs/2512.11792v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.11792v1",
+          "saved_at": "2025-12-15",
+          "files": {
+            "pdf": "data/news/2025-12-15/structure_from_tracking_distilling_structure_preserving_motion_for_video_generat.pdf"
+          }
+        },
+        {
+          "title": "Universal entrywise eigenvector fluctuations in delocalized spiked matrix models and asymptotics of rounded spectral algorithms",
+          "source": "arxiv",
+          "date": "2025-12-12T18:55:13Z",
+          "page_url": "https://arxiv.org/abs/2512.11785v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.11785v1",
+          "saved_at": "2025-12-15",
+          "files": {
+            "pdf": "data/news/2025-12-15/universal_entrywise_eigenvector_fluctuations_in_delocalized_spiked_matrix_models.pdf"
+          }
+        },
+        {
+          "title": "A Doubled Adjacency Spectral Embedding Approach to Graph Clustering",
+          "source": "arxiv",
+          "date": "2025-12-12T18:43:30Z",
+          "page_url": "https://arxiv.org/abs/2512.11777v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.11777v1",
+          "saved_at": "2025-12-15",
+          "files": {
+            "pdf": "data/news/2025-12-15/a_doubled_adjacency_spectral_embedding_approach_to_graph_clustering.pdf"
+          }
+        },
+        {
+          "title": "Covariate-assisted graph matching",
+          "source": "arxiv",
+          "date": "2025-12-12T18:12:56Z",
+          "page_url": "https://arxiv.org/abs/2512.11761v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.11761v1",
+          "saved_at": "2025-12-15",
+          "files": {
+            "pdf": "data/news/2025-12-15/covariate_assisted_graph_matching.pdf"
+          }
+        },
+        {
+          "title": "LUCID: Learning-Enabled Uncertainty-Aware Certification of Stochastic Dynamical Systems",
+          "source": "arxiv",
+          "date": "2025-12-12T17:46:50Z",
+          "page_url": "https://arxiv.org/abs/2512.11750v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.11750v1",
+          "saved_at": "2025-12-15",
+          "files": {
+            "pdf": "data/news/2025-12-15/lucid_learning_enabled_uncertainty_aware_certification_of_stochastic_dynamical_s.pdf"
+          }
+        },
+        {
+          "title": "SVG-T2I: Scaling Up Text-to-Image Latent Diffusion Model Without Variational Autoencoder",
+          "source": "arxiv",
+          "date": "2025-12-12T17:45:03Z",
+          "page_url": "https://arxiv.org/abs/2512.11749v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.11749v1",
+          "saved_at": "2025-12-15",
+          "files": {
+            "pdf": "data/news/2025-12-15/svg_t2i_scaling_up_text_to_image_latent_diffusion_model_without_variational_auto.pdf"
+          }
+        },
+        {
+          "title": "Replace, Don't Expand: Mitigating Context Dilution in Multi-Hop RAG via Fixed-Budget Evidence Assembly",
+          "source": "arxiv",
+          "date": "2025-12-11T16:31:29Z",
+          "page_url": "https://arxiv.org/abs/2512.10787v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.10787v1",
+          "saved_at": "2025-12-15",
+          "files": {
+            "pdf": "data/news/2025-12-15/replace_don_t_expand_mitigating_context_dilution_in_multi_hop_rag_via_fixed_budg.pdf"
+          }
+        },
+        {
+          "title": "Autonomous Issue Resolver: Towards Zero-Touch Code Maintenance",
+          "source": "arxiv",
+          "date": "2025-12-09T11:11:37Z",
+          "page_url": "https://arxiv.org/abs/2512.08492v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.08492v1",
+          "saved_at": "2025-12-15",
+          "files": {
+            "pdf": "data/news/2025-12-15/autonomous_issue_resolver_towards_zero_touch_code_maintenance.pdf"
           }
         }
       ]
