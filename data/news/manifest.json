@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-15T13:16:27.500543Z",
+  "generated_at": "2025-12-22T13:13:51.614432Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -1505,6 +1505,122 @@
           "saved_at": "2025-12-15",
           "files": {
             "pdf": "data/news/2025-12-15/autonomous_issue_resolver_towards_zero_touch_code_maintenance.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-12-22",
+      "count": 10,
+      "items": [
+        {
+          "title": "Both Semantics and Reconstruction Matter: Making Representation Encoders Ready for Text-to-Image Generation and Editing",
+          "source": "arxiv",
+          "date": "2025-12-19T18:59:57Z",
+          "page_url": "https://arxiv.org/abs/2512.17909v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.17909v1",
+          "saved_at": "2025-12-22",
+          "files": {
+            "pdf": "data/news/2025-12-22/both_semantics_and_reconstruction_matter_making_representation_encoders_ready_fo.pdf"
+          }
+        },
+        {
+          "title": "Re-Depth Anything: Test-Time Depth Refinement via Self-Supervised Re-lighting",
+          "source": "arxiv",
+          "date": "2025-12-19T18:59:56Z",
+          "page_url": "https://arxiv.org/abs/2512.17908v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.17908v1",
+          "saved_at": "2025-12-22",
+          "files": {
+            "pdf": "data/news/2025-12-22/re_depth_anything_test_time_depth_refinement_via_self_supervised_re_lighting.pdf"
+          }
+        },
+        {
+          "title": "Tuna-Like Swimmers Experience a Fluid-Mediated Stable Side-by-Side Formation",
+          "source": "arxiv",
+          "date": "2025-12-19T18:45:16Z",
+          "page_url": "https://arxiv.org/abs/2512.17888v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.17888v1",
+          "saved_at": "2025-12-22",
+          "files": {
+            "pdf": "data/news/2025-12-22/tuna_like_swimmers_experience_a_fluid_mediated_stable_side_by_side_formation.pdf"
+          }
+        },
+        {
+          "title": "Weighted Stochastic Differential Equation to Implement Wasserstein-Fisher-Rao Gradient Flow",
+          "source": "arxiv",
+          "date": "2025-12-19T18:31:27Z",
+          "page_url": "https://arxiv.org/abs/2512.17878v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.17878v1",
+          "saved_at": "2025-12-22",
+          "files": {
+            "pdf": "data/news/2025-12-22/weighted_stochastic_differential_equation_to_implement_wasserstein_fisher_rao_gr.pdf"
+          }
+        },
+        {
+          "title": "InSPECT: Invariant Spectral Features Preservation of Diffusion Models",
+          "source": "arxiv",
+          "date": "2025-12-19T18:24:02Z",
+          "page_url": "https://arxiv.org/abs/2512.17873v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.17873v1",
+          "saved_at": "2025-12-22",
+          "files": {
+            "pdf": "data/news/2025-12-22/inspect_invariant_spectral_features_preservation_of_diffusion_models.pdf"
+          }
+        },
+        {
+          "title": "Experimentally Mapping the Phase Diagrams of Photoexcited Small Polarons",
+          "source": "arxiv",
+          "date": "2025-12-19T18:19:46Z",
+          "page_url": "https://arxiv.org/abs/2512.17869v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.17869v1",
+          "saved_at": "2025-12-22",
+          "files": {
+            "pdf": "data/news/2025-12-22/experimentally_mapping_the_phase_diagrams_of_photoexcited_small_polarons.pdf"
+          }
+        },
+        {
+          "title": "AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning",
+          "source": "arxiv",
+          "date": "2025-12-19T17:55:48Z",
+          "page_url": "https://arxiv.org/abs/2512.17853v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.17853v1",
+          "saved_at": "2025-12-22",
+          "files": {
+            "pdf": "data/news/2025-12-22/anytask_an_automated_task_and_data_generation_framework_for_advancing_sim_to_rea.pdf"
+          }
+        },
+        {
+          "title": "InfSplign: Inference-Time Spatial Alignment of Text-to-Image Diffusion Models",
+          "source": "arxiv",
+          "date": "2025-12-19T17:52:43Z",
+          "page_url": "https://arxiv.org/abs/2512.17851v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.17851v1",
+          "saved_at": "2025-12-22",
+          "files": {
+            "pdf": "data/news/2025-12-22/infsplign_inference_time_spatial_alignment_of_text_to_image_diffusion_models.pdf"
+          }
+        },
+        {
+          "title": "MemoryGraft: Persistent Compromise of LLM Agents via Poisoned Experience Retrieval",
+          "source": "arxiv",
+          "date": "2025-12-18T08:34:40Z",
+          "page_url": "https://arxiv.org/abs/2512.16962v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.16962v1",
+          "saved_at": "2025-12-22",
+          "files": {
+            "pdf": "data/news/2025-12-22/memorygraft_persistent_compromise_of_llm_agents_via_poisoned_experience_retrieva.pdf"
+          }
+        },
+        {
+          "title": "PortAgent: LLM-driven Vehicle Dispatching Agent for Port Terminals",
+          "source": "arxiv",
+          "date": "2025-12-16T14:04:50Z",
+          "page_url": "https://arxiv.org/abs/2512.14417v1",
+          "pdf_url": "https://arxiv.org/pdf/2512.14417v1",
+          "saved_at": "2025-12-22",
+          "files": {
+            "pdf": "data/news/2025-12-22/portagent_llm_driven_vehicle_dispatching_agent_for_port_terminals.pdf"
           }
         }
       ]
