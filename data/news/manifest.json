@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T13:15:43.799208Z",
+  "generated_at": "2026-01-05T13:17:42.929565Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -1737,6 +1737,122 @@
           "saved_at": "2025-12-29",
           "files": {
             "pdf": "data/news/2025-12-29/neuro_guard_neuro_symbolic_generalization_and_unbiased_adaptive_routing_for_diag.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-01-05",
+      "count": 10,
+      "items": [
+        {
+          "title": "Fusion-SSAT: Unleashing the Potential of Self-supervised Auxiliary Task by Feature Fusion for Generalized Deepfake Detection",
+          "source": "arxiv",
+          "date": "2026-01-02T18:47:36Z",
+          "page_url": "https://arxiv.org/abs/2601.00789v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.00789v1",
+          "saved_at": "2026-01-05",
+          "files": {
+            "pdf": "data/news/2026-01-05/fusion_ssat_unleashing_the_potential_of_self_supervised_auxiliary_task_by_featur.pdf"
+          }
+        },
+        {
+          "title": "Adapting Natural Language Processing Models Across Jurisdictions: A pilot Study in Canadian Cancer Registries",
+          "source": "arxiv",
+          "date": "2026-01-02T18:46:19Z",
+          "page_url": "https://arxiv.org/abs/2601.00787v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.00787v1",
+          "saved_at": "2026-01-05",
+          "files": {
+            "pdf": "data/news/2026-01-05/adapting_natural_language_processing_models_across_jurisdictions_a_pilot_study_i.pdf"
+          }
+        },
+        {
+          "title": "FedHypeVAE: Federated Learning with Hypernetwork Generated Conditional VAEs for Differentially Private Embedding Sharing",
+          "source": "arxiv",
+          "date": "2026-01-02T18:40:41Z",
+          "page_url": "https://arxiv.org/abs/2601.00785v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.00785v1",
+          "saved_at": "2026-01-05",
+          "files": {
+            "pdf": "data/news/2026-01-05/fedhypevae_federated_learning_with_hypernetwork_generated_conditional_vaes_for_d.pdf"
+          }
+        },
+        {
+          "title": "Improving Router Security using BERT",
+          "source": "arxiv",
+          "date": "2026-01-02T18:34:27Z",
+          "page_url": "https://arxiv.org/abs/2601.00783v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.00783v1",
+          "saved_at": "2026-01-05",
+          "files": {
+            "pdf": "data/news/2026-01-05/improving_router_security_using_bert.pdf"
+          }
+        },
+        {
+          "title": "Exponentially Accelerated Sampling of Pauli Strings for Nonstabilizerness",
+          "source": "arxiv",
+          "date": "2026-01-02T17:37:04Z",
+          "page_url": "https://arxiv.org/abs/2601.00761v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.00761v1",
+          "saved_at": "2026-01-05",
+          "files": {
+            "pdf": "data/news/2026-01-05/exponentially_accelerated_sampling_of_pauli_strings_for_nonstabilizerness.pdf"
+          }
+        },
+        {
+          "title": "Materials Informatics: Emergence To Autonomous Discovery In The Age Of AI",
+          "source": "arxiv",
+          "date": "2026-01-02T16:53:19Z",
+          "page_url": "https://arxiv.org/abs/2601.00742v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.00742v1",
+          "saved_at": "2026-01-05",
+          "files": {
+            "pdf": "data/news/2026-01-05/materials_informatics_emergence_to_autonomous_discovery_in_the_age_of_ai.pdf"
+          }
+        },
+        {
+          "title": "Continuous time asymptotic representations for adaptive experiments",
+          "source": "arxiv",
+          "date": "2026-01-02T16:40:42Z",
+          "page_url": "https://arxiv.org/abs/2601.00739v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.00739v1",
+          "saved_at": "2026-01-05",
+          "files": {
+            "pdf": "data/news/2026-01-05/continuous_time_asymptotic_representations_for_adaptive_experiments.pdf"
+          }
+        },
+        {
+          "title": "Exploring the Performance of Large Language Models on Subjective Span Identification Tasks",
+          "source": "arxiv",
+          "date": "2026-01-02T16:30:14Z",
+          "page_url": "https://arxiv.org/abs/2601.00736v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.00736v1",
+          "saved_at": "2026-01-05",
+          "files": {
+            "pdf": "data/news/2026-01-05/exploring_the_performance_of_large_language_models_on_subjective_span_identifica.pdf"
+          }
+        },
+        {
+          "title": "Stability of vehicular admission control schemes in urban traffic networks under modelling uncertainty",
+          "source": "arxiv",
+          "date": "2026-01-02T16:27:03Z",
+          "page_url": "https://arxiv.org/abs/2601.00732v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.00732v1",
+          "saved_at": "2026-01-05",
+          "files": {
+            "pdf": "data/news/2026-01-05/stability_of_vehicular_admission_control_schemes_in_urban_traffic_networks_under.pdf"
+          }
+        },
+        {
+          "title": "Avoiding Intersections of Dragon Curves",
+          "source": "arxiv",
+          "date": "2026-01-02T15:54:35Z",
+          "page_url": "https://arxiv.org/abs/2601.00727v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.00727v1",
+          "saved_at": "2026-01-05",
+          "files": {
+            "pdf": "data/news/2026-01-05/avoiding_intersections_of_dragon_curves.pdf"
           }
         }
       ]
