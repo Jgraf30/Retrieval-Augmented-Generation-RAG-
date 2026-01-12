@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-05T13:17:42.929565Z",
+  "generated_at": "2026-01-12T13:16:58.943106Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -1853,6 +1853,122 @@
           "saved_at": "2026-01-05",
           "files": {
             "pdf": "data/news/2026-01-05/avoiding_intersections_of_dragon_curves.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-01-12",
+      "count": 10,
+      "items": [
+        {
+          "title": "AdaFuse: Adaptive Ensemble Decoding with Test-Time Scaling for LLMs",
+          "source": "arxiv",
+          "date": "2026-01-09T18:58:22Z",
+          "page_url": "https://arxiv.org/abs/2601.06022v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.06022v1",
+          "saved_at": "2026-01-12",
+          "files": {
+            "pdf": "data/news/2026-01-12/adafuse_adaptive_ensemble_decoding_with_test_time_scaling_for_llms.pdf"
+          }
+        },
+        {
+          "title": "Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards",
+          "source": "arxiv",
+          "date": "2026-01-09T18:57:53Z",
+          "page_url": "https://arxiv.org/abs/2601.06021v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.06021v1",
+          "saved_at": "2026-01-12",
+          "files": {
+            "pdf": "data/news/2026-01-12/chaining_the_evidence_robust_reinforcement_learning_for_deep_search_agents_with.pdf"
+          }
+        },
+        {
+          "title": "Probing Cosmic Expansion and Early Universe with Einstein Telescope",
+          "source": "arxiv",
+          "date": "2026-01-09T18:52:42Z",
+          "page_url": "https://arxiv.org/abs/2601.06017v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.06017v1",
+          "saved_at": "2026-01-12",
+          "files": {
+            "pdf": "data/news/2026-01-12/probing_cosmic_expansion_and_early_universe_with_einstein_telescope.pdf"
+          }
+        },
+        {
+          "title": "Simulations of collision and sloshing in the galaxy group NGC 5098/5096",
+          "source": "arxiv",
+          "date": "2026-01-09T18:48:56Z",
+          "page_url": "https://arxiv.org/abs/2601.06011v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.06011v1",
+          "saved_at": "2026-01-12",
+          "files": {
+            "pdf": "data/news/2026-01-12/simulations_of_collision_and_sloshing_in_the_galaxy_group_ngc_5098_5096.pdf"
+          }
+        },
+        {
+          "title": "Adaptive Conditional Contrast-Agnostic Deformable Image Registration with Uncertainty Estimation",
+          "source": "arxiv",
+          "date": "2026-01-09T18:00:49Z",
+          "page_url": "https://arxiv.org/abs/2601.05981v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.05981v1",
+          "saved_at": "2026-01-12",
+          "files": {
+            "pdf": "data/news/2026-01-12/adaptive_conditional_contrast_agnostic_deformable_image_registration_with_uncert.pdf"
+          }
+        },
+        {
+          "title": "DeePM: Regime-Robust Deep Learning for Systematic Macro Portfolio Management",
+          "source": "arxiv",
+          "date": "2026-01-09T17:47:32Z",
+          "page_url": "https://arxiv.org/abs/2601.05975v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.05975v1",
+          "saved_at": "2026-01-12",
+          "files": {
+            "pdf": "data/news/2026-01-12/deepm_regime_robust_deep_learning_for_systematic_macro_portfolio_management.pdf"
+          }
+        },
+        {
+          "title": "A Framework for Optimizing Human-Machine Interaction in Classification Systems",
+          "source": "arxiv",
+          "date": "2026-01-09T17:46:34Z",
+          "page_url": "https://arxiv.org/abs/2601.05974v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.05974v1",
+          "saved_at": "2026-01-12",
+          "files": {
+            "pdf": "data/news/2026-01-12/a_framework_for_optimizing_human_machine_interaction_in_classification_systems.pdf"
+          }
+        },
+        {
+          "title": "The Linear Point Standard Ruler with DESI DR1 and DR2 Data",
+          "source": "arxiv",
+          "date": "2026-01-09T17:39:54Z",
+          "page_url": "https://arxiv.org/abs/2601.05967v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.05967v1",
+          "saved_at": "2026-01-12",
+          "files": {
+            "pdf": "data/news/2026-01-12/the_linear_point_standard_ruler_with_desi_dr1_and_dr2_data.pdf"
+          }
+        },
+        {
+          "title": "OptiSet: Unified Optimizing Set Selection and Ranking for Retrieval-Augmented Generation",
+          "source": "arxiv",
+          "date": "2026-01-08T15:35:01Z",
+          "page_url": "https://arxiv.org/abs/2601.05027v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.05027v1",
+          "saved_at": "2026-01-12",
+          "files": {
+            "pdf": "data/news/2026-01-12/optiset_unified_optimizing_set_selection_and_ranking_for_retrieval_augmented_gen.pdf"
+          }
+        },
+        {
+          "title": "Adversarial Yet Cooperative: Multi-Perspective Reasoning in Retrieved-Augmented Language Models",
+          "source": "arxiv",
+          "date": "2026-01-09T03:12:04Z",
+          "page_url": "https://arxiv.org/abs/2601.04651v2",
+          "pdf_url": "https://arxiv.org/pdf/2601.04651v2",
+          "saved_at": "2026-01-12",
+          "files": {
+            "pdf": "data/news/2026-01-12/adversarial_yet_cooperative_multi_perspective_reasoning_in_retrieved_augmented_l.pdf"
           }
         }
       ]
