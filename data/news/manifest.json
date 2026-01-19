@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-12T13:16:58.943106Z",
+  "generated_at": "2026-01-19T13:18:19.021702Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -1969,6 +1969,122 @@
           "saved_at": "2026-01-12",
           "files": {
             "pdf": "data/news/2026-01-12/adversarial_yet_cooperative_multi_perspective_reasoning_in_retrieved_augmented_l.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-01-19",
+      "count": 10,
+      "items": [
+        {
+          "title": "UniX: Unifying Autoregression and Diffusion for Chest X-Ray Understanding and Generation",
+          "source": "arxiv",
+          "date": "2026-01-16T18:59:58Z",
+          "page_url": "https://arxiv.org/abs/2601.11522v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.11522v1",
+          "saved_at": "2026-01-19",
+          "files": {
+            "pdf": "data/news/2026-01-19/unix_unifying_autoregression_and_diffusion_for_chest_x_ray_understanding_and_gen.pdf"
+          }
+        },
+        {
+          "title": "ShapeR: Robust Conditional 3D Shape Generation from Casual Captures",
+          "source": "arxiv",
+          "date": "2026-01-16T18:51:24Z",
+          "page_url": "https://arxiv.org/abs/2601.11514v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.11514v1",
+          "saved_at": "2026-01-19",
+          "files": {
+            "pdf": "data/news/2026-01-19/shaper_robust_conditional_3d_shape_generation_from_casual_captures.pdf"
+          }
+        },
+        {
+          "title": "Temporal Complexity and Self-Organization in an Exponential Dense Associative Memory Model",
+          "source": "arxiv",
+          "date": "2026-01-16T18:01:14Z",
+          "page_url": "https://arxiv.org/abs/2601.11478v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.11478v1",
+          "saved_at": "2026-01-19",
+          "files": {
+            "pdf": "data/news/2026-01-19/temporal_complexity_and_self_organization_in_an_exponential_dense_associative_me.pdf"
+          }
+        },
+        {
+          "title": "Fundamental Properties of Novae in M31",
+          "source": "arxiv",
+          "date": "2026-01-16T18:00:13Z",
+          "page_url": "https://arxiv.org/abs/2601.11476v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.11476v1",
+          "saved_at": "2026-01-19",
+          "files": {
+            "pdf": "data/news/2026-01-19/fundamental_properties_of_novae_in_m31.pdf"
+          }
+        },
+        {
+          "title": "Dvoretzky covering problem for general measures",
+          "source": "arxiv",
+          "date": "2026-01-16T17:56:11Z",
+          "page_url": "https://arxiv.org/abs/2601.11470v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.11470v1",
+          "saved_at": "2026-01-19",
+          "files": {
+            "pdf": "data/news/2026-01-19/dvoretzky_covering_problem_for_general_measures.pdf"
+          }
+        },
+        {
+          "title": "Exploring LLM Features in Predictive Process Monitoring for Small-Scale Event-Logs",
+          "source": "arxiv",
+          "date": "2026-01-16T17:54:55Z",
+          "page_url": "https://arxiv.org/abs/2601.11468v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.11468v1",
+          "saved_at": "2026-01-19",
+          "files": {
+            "pdf": "data/news/2026-01-19/exploring_llm_features_in_predictive_process_monitoring_for_small_scale_event_lo.pdf"
+          }
+        },
+        {
+          "title": "Reasoning in Trees: Improving Retrieval-Augmented Generation for Multi-Hop Question Answering",
+          "source": "arxiv",
+          "date": "2026-01-16T13:02:25Z",
+          "page_url": "https://arxiv.org/abs/2601.11255v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.11255v1",
+          "saved_at": "2026-01-19",
+          "files": {
+            "pdf": "data/news/2026-01-19/reasoning_in_trees_improving_retrieval_augmented_generation_for_multi_hop_questi.pdf"
+          }
+        },
+        {
+          "title": "RoutIR: Fast Serving of Retrieval Pipelines for Retrieval-Augmented Generation",
+          "source": "arxiv",
+          "date": "2026-01-15T18:04:43Z",
+          "page_url": "https://arxiv.org/abs/2601.10644v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.10644v1",
+          "saved_at": "2026-01-19",
+          "files": {
+            "pdf": "data/news/2026-01-19/routir_fast_serving_of_retrieval_pipelines_for_retrieval_augmented_generation.pdf"
+          }
+        },
+        {
+          "title": "Private LLM Inference on Consumer Blackwell GPUs: A Practical Guide for Cost-Effective Local Deployment in SMEs",
+          "source": "arxiv",
+          "date": "2026-01-14T14:49:07Z",
+          "page_url": "https://arxiv.org/abs/2601.09527v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.09527v1",
+          "saved_at": "2026-01-19",
+          "files": {
+            "pdf": "data/news/2026-01-19/private_llm_inference_on_consumer_blackwell_gpus_a_practical_guide_for_cost_effe.pdf"
+          }
+        },
+        {
+          "title": "Query Suggestion for Retrieval-Augmented Generation via Dynamic In-Context Learning",
+          "source": "arxiv",
+          "date": "2026-01-13T00:56:38Z",
+          "page_url": "https://arxiv.org/abs/2601.08105v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.08105v1",
+          "saved_at": "2026-01-19",
+          "files": {
+            "pdf": "data/news/2026-01-19/query_suggestion_for_retrieval_augmented_generation_via_dynamic_in_context_learn.pdf"
           }
         }
       ]
