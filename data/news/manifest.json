@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-19T13:18:19.021702Z",
+  "generated_at": "2026-01-26T13:18:26.396292Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -2085,6 +2085,122 @@
           "saved_at": "2026-01-19",
           "files": {
             "pdf": "data/news/2026-01-19/query_suggestion_for_retrieval_augmented_generation_via_dynamic_in_context_learn.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-01-26",
+      "count": 10,
+      "items": [
+        {
+          "title": "AnyView: Synthesizing Any Novel View in Dynamic Scenes",
+          "source": "arxiv",
+          "date": "2026-01-23T18:59:58Z",
+          "page_url": "https://arxiv.org/abs/2601.16982v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.16982v1",
+          "saved_at": "2026-01-26",
+          "files": {
+            "pdf": "data/news/2026-01-26/anyview_synthesizing_any_novel_view_in_dynamic_scenes.pdf"
+          }
+        },
+        {
+          "title": "SyncLight: Controllable and Consistent Multi-View Relighting",
+          "source": "arxiv",
+          "date": "2026-01-23T18:59:57Z",
+          "page_url": "https://arxiv.org/abs/2601.16981v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.16981v1",
+          "saved_at": "2026-01-26",
+          "files": {
+            "pdf": "data/news/2026-01-26/synclight_controllable_and_consistent_multi_view_relighting.pdf"
+          }
+        },
+        {
+          "title": "Latent Diffusion for Internet of Things Attack Data Generation in Intrusion Detection",
+          "source": "arxiv",
+          "date": "2026-01-23T18:55:07Z",
+          "page_url": "https://arxiv.org/abs/2601.16976v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.16976v1",
+          "saved_at": "2026-01-26",
+          "files": {
+            "pdf": "data/news/2026-01-26/latent_diffusion_for_internet_of_things_attack_data_generation_in_intrusion_dete.pdf"
+          }
+        },
+        {
+          "title": "VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents",
+          "source": "arxiv",
+          "date": "2026-01-23T18:43:34Z",
+          "page_url": "https://arxiv.org/abs/2601.16973v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.16973v1",
+          "saved_at": "2026-01-26",
+          "files": {
+            "pdf": "data/news/2026-01-26/visgym_diverse_customizable_scalable_environments_for_multimodal_agents.pdf"
+          }
+        },
+        {
+          "title": "Auto-Regressive Masked Diffusion Models",
+          "source": "arxiv",
+          "date": "2026-01-23T18:42:30Z",
+          "page_url": "https://arxiv.org/abs/2601.16971v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.16971v1",
+          "saved_at": "2026-01-26",
+          "files": {
+            "pdf": "data/news/2026-01-26/auto_regressive_masked_diffusion_models.pdf"
+          }
+        },
+        {
+          "title": "AgentDrive: An Open Benchmark Dataset for Agentic AI Reasoning with LLM-Generated Scenarios in Autonomous Systems",
+          "source": "arxiv",
+          "date": "2026-01-23T18:33:41Z",
+          "page_url": "https://arxiv.org/abs/2601.16964v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.16964v1",
+          "saved_at": "2026-01-26",
+          "files": {
+            "pdf": "data/news/2026-01-26/agentdrive_an_open_benchmark_dataset_for_agentic_ai_reasoning_with_llm_generated.pdf"
+          }
+        },
+        {
+          "title": "Engineering discrete local dynamics in globally driven dual-species atom arrays",
+          "source": "arxiv",
+          "date": "2026-01-23T18:29:04Z",
+          "page_url": "https://arxiv.org/abs/2601.16961v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.16961v1",
+          "saved_at": "2026-01-26",
+          "files": {
+            "pdf": "data/news/2026-01-26/engineering_discrete_local_dynamics_in_globally_driven_dual_species_atom_arrays.pdf"
+          }
+        },
+        {
+          "title": "3D Molecule Generation from Rigid Motifs via SE(3) Flows",
+          "source": "arxiv",
+          "date": "2026-01-23T18:24:57Z",
+          "page_url": "https://arxiv.org/abs/2601.16955v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.16955v1",
+          "saved_at": "2026-01-26",
+          "files": {
+            "pdf": "data/news/2026-01-26/3d_molecule_generation_from_rigid_motifs_via_se_3_flows.pdf"
+          }
+        },
+        {
+          "title": "Domain-invariant Mixed-domain Semi-supervised Medical Image Segmentation with Clustered Maximum Mean Discrepancy Alignment",
+          "source": "arxiv",
+          "date": "2026-01-23T18:23:03Z",
+          "page_url": "https://arxiv.org/abs/2601.16954v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.16954v1",
+          "saved_at": "2026-01-26",
+          "files": {
+            "pdf": "data/news/2026-01-26/domain_invariant_mixed_domain_semi_supervised_medical_image_segmentation_with_cl.pdf"
+          }
+        },
+        {
+          "title": "Reliability by design: quantifying and eliminating fabrication risk in LLMs. From generative to consultative AI: a comparative analysis in the legal domain and lessons for high-stakes knowledge bases",
+          "source": "arxiv",
+          "date": "2026-01-21T21:26:42Z",
+          "page_url": "https://arxiv.org/abs/2601.15476v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.15476v1",
+          "saved_at": "2026-01-26",
+          "files": {
+            "pdf": "data/news/2026-01-26/reliability_by_design_quantifying_and_eliminating_fabrication_risk_in_llms_from.pdf"
           }
         }
       ]
