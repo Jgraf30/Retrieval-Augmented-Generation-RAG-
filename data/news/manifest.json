@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T13:18:26.396292Z",
+  "generated_at": "2026-02-02T13:26:37.620918Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -2201,6 +2201,122 @@
           "saved_at": "2026-01-26",
           "files": {
             "pdf": "data/news/2026-01-26/reliability_by_design_quantifying_and_eliminating_fabrication_risk_in_llms_from.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-02-02",
+      "count": 10,
+      "items": [
+        {
+          "title": "VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation",
+          "source": "arxiv",
+          "date": "2026-01-30T18:59:57Z",
+          "page_url": "https://arxiv.org/abs/2601.23286v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.23286v1",
+          "saved_at": "2026-02-02",
+          "files": {
+            "pdf": "data/news/2026-02-02/videogpa_distilling_geometry_priors_for_3d_consistent_video_generation.pdf"
+          }
+        },
+        {
+          "title": "Robust multiparameter estimation using quantum scrambling",
+          "source": "arxiv",
+          "date": "2026-01-30T18:58:01Z",
+          "page_url": "https://arxiv.org/abs/2601.23283v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.23283v1",
+          "saved_at": "2026-02-02",
+          "files": {
+            "pdf": "data/news/2026-02-02/robust_multiparameter_estimation_using_quantum_scrambling.pdf"
+          }
+        },
+        {
+          "title": "User Prompting Strategies and Prompt Enhancement Methods for Open-Set Object Detection in XR Environments",
+          "source": "arxiv",
+          "date": "2026-01-30T18:55:38Z",
+          "page_url": "https://arxiv.org/abs/2601.23281v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.23281v1",
+          "saved_at": "2026-02-02",
+          "files": {
+            "pdf": "data/news/2026-02-02/user_prompting_strategies_and_prompt_enhancement_methods_for_open_set_object_det.pdf"
+          }
+        },
+        {
+          "title": "Decoupled Diffusion Sampling for Inverse Problems on Function Spaces",
+          "source": "arxiv",
+          "date": "2026-01-30T18:54:49Z",
+          "page_url": "https://arxiv.org/abs/2601.23280v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.23280v1",
+          "saved_at": "2026-02-02",
+          "files": {
+            "pdf": "data/news/2026-02-02/decoupled_diffusion_sampling_for_inverse_problems_on_function_spaces.pdf"
+          }
+        },
+        {
+          "title": "Leveraging configuration interaction singles for qualitative descriptions of ground and excited states: state-averaging, linear-response, and spin-projection",
+          "source": "arxiv",
+          "date": "2026-01-30T18:36:44Z",
+          "page_url": "https://arxiv.org/abs/2601.23270v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.23270v1",
+          "saved_at": "2026-02-02",
+          "files": {
+            "pdf": "data/news/2026-02-02/leveraging_configuration_interaction_singles_for_qualitative_descriptions_of_gro.pdf"
+          }
+        },
+        {
+          "title": "Rank Reduction AutoEncoders for Mechanical Design: Advancing Novel and Efficient Data-Driven Topology Optimization",
+          "source": "arxiv",
+          "date": "2026-01-30T18:36:27Z",
+          "page_url": "https://arxiv.org/abs/2601.23269v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.23269v1",
+          "saved_at": "2026-02-02",
+          "files": {
+            "pdf": "data/news/2026-02-02/rank_reduction_autoencoders_for_mechanical_design_advancing_novel_and_efficient.pdf"
+          }
+        },
+        {
+          "title": "GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion",
+          "source": "arxiv",
+          "date": "2026-01-30T18:22:15Z",
+          "page_url": "https://arxiv.org/abs/2601.23254v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.23254v1",
+          "saved_at": "2026-02-02",
+          "files": {
+            "pdf": "data/news/2026-02-02/greprag_an_empirical_study_and_optimization_of_grep_like_retrieval_for_code_comp.pdf"
+          }
+        },
+        {
+          "title": "Training-Free Test-Time Adaptation with Brownian Distance Covariance in Vision-Language Models",
+          "source": "arxiv",
+          "date": "2026-01-30T18:21:45Z",
+          "page_url": "https://arxiv.org/abs/2601.23253v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.23253v1",
+          "saved_at": "2026-02-02",
+          "files": {
+            "pdf": "data/news/2026-02-02/training_free_test_time_adaptation_with_brownian_distance_covariance_in_vision_l.pdf"
+          }
+        },
+        {
+          "title": "Structured Over Scale: Learning Spatial Reasoning from Educational Video",
+          "source": "arxiv",
+          "date": "2026-01-30T18:20:23Z",
+          "page_url": "https://arxiv.org/abs/2601.23251v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.23251v1",
+          "saved_at": "2026-02-02",
+          "files": {
+            "pdf": "data/news/2026-02-02/structured_over_scale_learning_spatial_reasoning_from_educational_video.pdf"
+          }
+        },
+        {
+          "title": "Too many or too massive? Investigating the high-$z$ demography of active SMBHs from JWST",
+          "source": "arxiv",
+          "date": "2026-01-30T18:19:15Z",
+          "page_url": "https://arxiv.org/abs/2601.23250v1",
+          "pdf_url": "https://arxiv.org/pdf/2601.23250v1",
+          "saved_at": "2026-02-02",
+          "files": {
+            "pdf": "data/news/2026-02-02/too_many_or_too_massive_investigating_the_high_z_demography_of_active_smbhs_from.pdf"
           }
         }
       ]
