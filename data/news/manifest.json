@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-02T13:26:37.620918Z",
+  "generated_at": "2026-02-09T13:30:33.230782Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -2317,6 +2317,122 @@
           "saved_at": "2026-02-02",
           "files": {
             "pdf": "data/news/2026-02-02/too_many_or_too_massive_investigating_the_high_z_demography_of_active_smbhs_from.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-02-09",
+      "count": 10,
+      "items": [
+        {
+          "title": "MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images",
+          "source": "arxiv",
+          "date": "2026-02-06T18:59:59Z",
+          "page_url": "https://arxiv.org/abs/2602.06965v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.06965v1",
+          "saved_at": "2026-02-09",
+          "files": {
+            "pdf": "data/news/2026-02-09/medmo_grounding_and_understanding_multimodal_large_language_model_for_medical_im.pdf"
+          }
+        },
+        {
+          "title": "Learning a Generative Meta-Model of LLM Activations",
+          "source": "arxiv",
+          "date": "2026-02-06T18:59:56Z",
+          "page_url": "https://arxiv.org/abs/2602.06964v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.06964v1",
+          "saved_at": "2026-02-09",
+          "files": {
+            "pdf": "data/news/2026-02-09/learning_a_generative_meta_model_of_llm_activations.pdf"
+          }
+        },
+        {
+          "title": "CineScene: Implicit 3D as Effective Scene Representation for Cinematic Video Generation",
+          "source": "arxiv",
+          "date": "2026-02-06T18:59:24Z",
+          "page_url": "https://arxiv.org/abs/2602.06959v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.06959v1",
+          "saved_at": "2026-02-09",
+          "files": {
+            "pdf": "data/news/2026-02-09/cinescene_implicit_3d_as_effective_scene_representation_for_cinematic_video_gene.pdf"
+          }
+        },
+        {
+          "title": "DAWN: Dependency-Aware Fast Inference for Diffusion LLMs",
+          "source": "arxiv",
+          "date": "2026-02-06T18:51:29Z",
+          "page_url": "https://arxiv.org/abs/2602.06953v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.06953v1",
+          "saved_at": "2026-02-09",
+          "files": {
+            "pdf": "data/news/2026-02-09/dawn_dependency_aware_fast_inference_for_diffusion_llms.pdf"
+          }
+        },
+        {
+          "title": "DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos",
+          "source": "arxiv",
+          "date": "2026-02-06T18:49:43Z",
+          "page_url": "https://arxiv.org/abs/2602.06949v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.06949v1",
+          "saved_at": "2026-02-09",
+          "files": {
+            "pdf": "data/news/2026-02-09/dreamdojo_a_generalist_robot_world_model_from_large_scale_human_videos.pdf"
+          }
+        },
+        {
+          "title": "PANC: Prior-Aware Normalized Cut for Object Segmentation",
+          "source": "arxiv",
+          "date": "2026-02-06T18:07:20Z",
+          "page_url": "https://arxiv.org/abs/2602.06912v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.06912v1",
+          "saved_at": "2026-02-09",
+          "files": {
+            "pdf": "data/news/2026-02-09/panc_prior_aware_normalized_cut_for_object_segmentation.pdf"
+          }
+        },
+        {
+          "title": "Shiva-DiT: Residual-Based Differentiable Top-$k$ Selection for Efficient Diffusion Transformers",
+          "source": "arxiv",
+          "date": "2026-02-05T12:42:22Z",
+          "page_url": "https://arxiv.org/abs/2602.05605v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.05605v1",
+          "saved_at": "2026-02-09",
+          "files": {
+            "pdf": "data/news/2026-02-09/shiva_dit_residual_based_differentiable_top_k_selection_for_efficient_diffusion.pdf"
+          }
+        },
+        {
+          "title": "Atomic Information Flow: A Network Flow Model for Tool Attributions in RAG Systems",
+          "source": "arxiv",
+          "date": "2026-02-04T01:51:57Z",
+          "page_url": "https://arxiv.org/abs/2602.04912v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.04912v1",
+          "saved_at": "2026-02-09",
+          "files": {
+            "pdf": "data/news/2026-02-09/atomic_information_flow_a_network_flow_model_for_tool_attributions_in_rag_system.pdf"
+          }
+        },
+        {
+          "title": "Failure-Aware Enhancements for Large Language Model (LLM) Code Generation: An Empirical Study on Decision Framework",
+          "source": "arxiv",
+          "date": "2026-02-02T23:08:03Z",
+          "page_url": "https://arxiv.org/abs/2602.02896v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.02896v1",
+          "saved_at": "2026-02-09",
+          "files": {
+            "pdf": "data/news/2026-02-09/failure_aware_enhancements_for_large_language_model_llm_code_generation_an_empir.pdf"
+          }
+        },
+        {
+          "title": "Token-Guard: Towards Token-Level Hallucination Control via Self-Checking Decoding",
+          "source": "arxiv",
+          "date": "2026-01-30T02:59:30Z",
+          "page_url": "https://arxiv.org/abs/2601.21969v2",
+          "pdf_url": "https://arxiv.org/pdf/2601.21969v2",
+          "saved_at": "2026-02-09",
+          "files": {
+            "pdf": "data/news/2026-02-09/token_guard_towards_token_level_hallucination_control_via_self_checking_decoding.pdf"
           }
         }
       ]
