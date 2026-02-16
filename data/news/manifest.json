@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-09T13:30:33.230782Z",
+  "generated_at": "2026-02-16T13:28:48.740869Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -2433,6 +2433,122 @@
           "saved_at": "2026-02-09",
           "files": {
             "pdf": "data/news/2026-02-09/token_guard_towards_token_level_hallucination_control_via_self_checking_decoding.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-02-16",
+      "count": 10,
+      "items": [
+        {
+          "title": "$\\texttt{GPUmonty}$: A GPU-accelerated relativistic Monte Carlo radiative transfer code",
+          "source": "arxiv",
+          "date": "2026-02-13T18:59:59Z",
+          "page_url": "https://arxiv.org/abs/2602.13198v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.13198v1",
+          "saved_at": "2026-02-16",
+          "files": {
+            "pdf": "data/news/2026-02-16/texttt_gpumonty_a_gpu_accelerated_relativistic_monte_carlo_radiative_transfer_co.pdf"
+          }
+        },
+        {
+          "title": "Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos",
+          "source": "arxiv",
+          "date": "2026-02-13T18:59:10Z",
+          "page_url": "https://arxiv.org/abs/2602.13197v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.13197v1",
+          "saved_at": "2026-02-16",
+          "files": {
+            "pdf": "data/news/2026-02-16/imitating_what_works_simulation_filtered_modular_policy_learning_from_human_vide.pdf"
+          }
+        },
+        {
+          "title": "CoPE-VideoLM: Codec Primitives For Efficient Video Language Models",
+          "source": "arxiv",
+          "date": "2026-02-13T18:57:31Z",
+          "page_url": "https://arxiv.org/abs/2602.13191v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.13191v1",
+          "saved_at": "2026-02-16",
+          "files": {
+            "pdf": "data/news/2026-02-16/cope_videolm_codec_primitives_for_efficient_video_language_models.pdf"
+          }
+        },
+        {
+          "title": "Fix Before Search: Benchmarking Agentic Query Visual Pre-processing in Multimodal Retrieval-augmented Generation",
+          "source": "arxiv",
+          "date": "2026-02-13T18:39:48Z",
+          "page_url": "https://arxiv.org/abs/2602.13179v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.13179v1",
+          "saved_at": "2026-02-16",
+          "files": {
+            "pdf": "data/news/2026-02-16/fix_before_search_benchmarking_agentic_query_visual_pre_processing_in_multimodal.pdf"
+          }
+        },
+        {
+          "title": "Realistic Face Reconstruction from Facial Embeddings via Diffusion Models",
+          "source": "arxiv",
+          "date": "2026-02-13T18:28:24Z",
+          "page_url": "https://arxiv.org/abs/2602.13168v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.13168v1",
+          "saved_at": "2026-02-16",
+          "files": {
+            "pdf": "data/news/2026-02-16/realistic_face_reconstruction_from_facial_embeddings_via_diffusion_models.pdf"
+          }
+        },
+        {
+          "title": "Bloom Filter Look-Up Tables for Private and Secure Distributed Databases in Web3 (Revised Version)",
+          "source": "arxiv",
+          "date": "2026-02-13T18:25:53Z",
+          "page_url": "https://arxiv.org/abs/2602.13167v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.13167v1",
+          "saved_at": "2026-02-16",
+          "files": {
+            "pdf": "data/news/2026-02-16/bloom_filter_look_up_tables_for_private_and_secure_distributed_databases_in_web3.pdf"
+          }
+        },
+        {
+          "title": "Optimal Take-off under Fuzzy Clearances",
+          "source": "arxiv",
+          "date": "2026-02-13T18:25:24Z",
+          "page_url": "https://arxiv.org/abs/2602.13166v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.13166v1",
+          "saved_at": "2026-02-16",
+          "files": {
+            "pdf": "data/news/2026-02-16/optimal_take_off_under_fuzzy_clearances.pdf"
+          }
+        },
+        {
+          "title": "Asynchronous Verified Semantic Caching for Tiered LLM Architectures",
+          "source": "arxiv",
+          "date": "2026-02-13T18:25:00Z",
+          "page_url": "https://arxiv.org/abs/2602.13165v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.13165v1",
+          "saved_at": "2026-02-16",
+          "files": {
+            "pdf": "data/news/2026-02-16/asynchronous_verified_semantic_caching_for_tiered_llm_architectures.pdf"
+          }
+        },
+        {
+          "title": "In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach",
+          "source": "arxiv",
+          "date": "2026-02-13T18:09:30Z",
+          "page_url": "https://arxiv.org/abs/2602.13156v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.13156v1",
+          "saved_at": "2026-02-16",
+          "files": {
+            "pdf": "data/news/2026-02-16/in_context_autonomous_network_incident_response_an_end_to_end_large_language_mod.pdf"
+          }
+        },
+        {
+          "title": "PhyNiKCE: A Neurosymbolic Agentic Framework for Autonomous Computational Fluid Dynamics",
+          "source": "arxiv",
+          "date": "2026-02-12T07:37:56Z",
+          "page_url": "https://arxiv.org/abs/2602.11666v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.11666v1",
+          "saved_at": "2026-02-16",
+          "files": {
+            "pdf": "data/news/2026-02-16/phynikce_a_neurosymbolic_agentic_framework_for_autonomous_computational_fluid_dy.pdf"
           }
         }
       ]
