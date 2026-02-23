@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T13:28:48.740869Z",
+  "generated_at": "2026-02-23T13:33:14.721084Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -2549,6 +2549,122 @@
           "saved_at": "2026-02-16",
           "files": {
             "pdf": "data/news/2026-02-16/phynikce_a_neurosymbolic_agentic_framework_for_autonomous_computational_fluid_dy.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-02-23",
+      "count": 10,
+      "items": [
+        {
+          "title": "Going Down Memory Lane: Scaling Tokens for Video Stream Understanding with Dynamic KV-Cache Memory",
+          "source": "arxiv",
+          "date": "2026-02-20T18:59:50Z",
+          "page_url": "https://arxiv.org/abs/2602.18434v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.18434v1",
+          "saved_at": "2026-02-23",
+          "files": {
+            "pdf": "data/news/2026-02-23/going_down_memory_lane_scaling_tokens_for_video_stream_understanding_with_dynami.pdf"
+          }
+        },
+        {
+          "title": "VIRAASAT: Traversing Novel Paths for Indian Cultural Reasoning",
+          "source": "arxiv",
+          "date": "2026-02-20T18:53:07Z",
+          "page_url": "https://arxiv.org/abs/2602.18429v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.18429v1",
+          "saved_at": "2026-02-23",
+          "files": {
+            "pdf": "data/news/2026-02-23/viraasat_traversing_novel_paths_for_indian_cultural_reasoning.pdf"
+          }
+        },
+        {
+          "title": "RVR: Retrieve-Verify-Retrieve for Comprehensive Question Answering",
+          "source": "arxiv",
+          "date": "2026-02-20T18:48:05Z",
+          "page_url": "https://arxiv.org/abs/2602.18425v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.18425v1",
+          "saved_at": "2026-02-23",
+          "files": {
+            "pdf": "data/news/2026-02-23/rvr_retrieve_verify_retrieve_for_comprehensive_question_answering.pdf"
+          }
+        },
+        {
+          "title": "Reconfigurable Geometric Phase Matching by Multilayered Nonlinear Thin-Film Crystals",
+          "source": "arxiv",
+          "date": "2026-02-20T18:37:31Z",
+          "page_url": "https://arxiv.org/abs/2602.18418v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.18418v1",
+          "saved_at": "2026-02-23",
+          "files": {
+            "pdf": "data/news/2026-02-23/reconfigurable_geometric_phase_matching_by_multilayered_nonlinear_thin_film_crys.pdf"
+          }
+        },
+        {
+          "title": "Unifying approach to uniform expressivity of graph neural networks",
+          "source": "arxiv",
+          "date": "2026-02-20T18:18:48Z",
+          "page_url": "https://arxiv.org/abs/2602.18409v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.18409v1",
+          "saved_at": "2026-02-23",
+          "files": {
+            "pdf": "data/news/2026-02-23/unifying_approach_to_uniform_expressivity_of_graph_neural_networks.pdf"
+          }
+        },
+        {
+          "title": "A Generalized Information Bottleneck Method: A Decision-Theoretic Perspective",
+          "source": "arxiv",
+          "date": "2026-02-20T18:13:10Z",
+          "page_url": "https://arxiv.org/abs/2602.18405v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.18405v1",
+          "saved_at": "2026-02-23",
+          "files": {
+            "pdf": "data/news/2026-02-23/a_generalized_information_bottleneck_method_a_decision_theoretic_perspective.pdf"
+          }
+        },
+        {
+          "title": "Leakage and Second-Order Dynamics Improve Hippocampal RNN Replay",
+          "source": "arxiv",
+          "date": "2026-02-20T18:07:09Z",
+          "page_url": "https://arxiv.org/abs/2602.18401v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.18401v1",
+          "saved_at": "2026-02-23",
+          "files": {
+            "pdf": "data/news/2026-02-23/leakage_and_second_order_dynamics_improve_hippocampal_rnn_replay.pdf"
+          }
+        },
+        {
+          "title": "Self-Aware Object Detection via Degradation Manifolds",
+          "source": "arxiv",
+          "date": "2026-02-20T17:58:46Z",
+          "page_url": "https://arxiv.org/abs/2602.18394v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.18394v1",
+          "saved_at": "2026-02-23",
+          "files": {
+            "pdf": "data/news/2026-02-23/self_aware_object_detection_via_degradation_manifolds.pdf"
+          }
+        },
+        {
+          "title": "Design-based inference for generalized causal effects in randomized experiments",
+          "source": "arxiv",
+          "date": "2026-02-20T17:45:01Z",
+          "page_url": "https://arxiv.org/abs/2602.18383v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.18383v1",
+          "saved_at": "2026-02-23",
+          "files": {
+            "pdf": "data/news/2026-02-23/design_based_inference_for_generalized_causal_effects_in_randomized_experiments.pdf"
+          }
+        },
+        {
+          "title": "Retrieval Collapses When AI Pollutes the Web",
+          "source": "arxiv",
+          "date": "2026-02-18T02:01:02Z",
+          "page_url": "https://arxiv.org/abs/2602.16136v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.16136v1",
+          "saved_at": "2026-02-23",
+          "files": {
+            "pdf": "data/news/2026-02-23/retrieval_collapses_when_ai_pollutes_the_web.pdf"
           }
         }
       ]
