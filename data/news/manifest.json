@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-23T13:33:14.721084Z",
+  "generated_at": "2026-03-02T13:25:59.884074Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -2665,6 +2665,122 @@
           "saved_at": "2026-02-23",
           "files": {
             "pdf": "data/news/2026-02-23/retrieval_collapses_when_ai_pollutes_the_web.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "count": 10,
+      "items": [
+        {
+          "title": "Mode Seeking meets Mean Seeking for Fast Long Video Generation",
+          "source": "arxiv",
+          "date": "2026-02-27T18:59:02Z",
+          "page_url": "https://arxiv.org/abs/2602.24289v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.24289v1",
+          "saved_at": "2026-03-02",
+          "files": {
+            "pdf": "data/news/2026-03-02/mode_seeking_meets_mean_seeking_for_fast_long_video_generation.pdf"
+          }
+        },
+        {
+          "title": "Resources for Automated Evaluation of Assistive RAG Systems that Help Readers with News Trustworthiness Assessment",
+          "source": "arxiv",
+          "date": "2026-02-27T18:49:31Z",
+          "page_url": "https://arxiv.org/abs/2602.24277v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.24277v1",
+          "saved_at": "2026-03-02",
+          "files": {
+            "pdf": "data/news/2026-03-02/resources_for_automated_evaluation_of_assistive_rag_systems_that_help_readers_wi.pdf"
+          }
+        },
+        {
+          "title": "Beyond the Click: A Framework for Inferring Cognitive Traces in Search",
+          "source": "arxiv",
+          "date": "2026-02-27T18:32:59Z",
+          "page_url": "https://arxiv.org/abs/2602.24265v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.24265v1",
+          "saved_at": "2026-03-02",
+          "files": {
+            "pdf": "data/news/2026-03-02/beyond_the_click_a_framework_for_inferring_cognitive_traces_in_search.pdf"
+          }
+        },
+        {
+          "title": "Active Bipartite Ranking with Smooth Posterior Distributions",
+          "source": "arxiv",
+          "date": "2026-02-27T18:32:08Z",
+          "page_url": "https://arxiv.org/abs/2602.24263v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.24263v1",
+          "saved_at": "2026-03-02",
+          "files": {
+            "pdf": "data/news/2026-03-02/active_bipartite_ranking_with_smooth_posterior_distributions.pdf"
+          }
+        },
+        {
+          "title": "FaultXformer: A Transformer-Encoder Based Fault Classification and Location Identification model in PMU-Integrated Active Electrical Distribution System",
+          "source": "arxiv",
+          "date": "2026-02-27T18:28:12Z",
+          "page_url": "https://arxiv.org/abs/2602.24254v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.24254v1",
+          "saved_at": "2026-03-02",
+          "files": {
+            "pdf": "data/news/2026-03-02/faultxformer_a_transformer_encoder_based_fault_classification_and_location_ident.pdf"
+          }
+        },
+        {
+          "title": "Data-Driven Linearization based Arc Fault Prediction in Medium Voltage Electrical Distribution System",
+          "source": "arxiv",
+          "date": "2026-02-27T18:19:56Z",
+          "page_url": "https://arxiv.org/abs/2602.24247v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.24247v1",
+          "saved_at": "2026-03-02",
+          "files": {
+            "pdf": "data/news/2026-03-02/data_driven_linearization_based_arc_fault_prediction_in_medium_voltage_electrica.pdf"
+          }
+        },
+        {
+          "title": "Finite Block Length Rate-Distortion Theory for the Bernoulli Source with Hamming Distortion: A Tutorial",
+          "source": "arxiv",
+          "date": "2026-02-27T18:15:09Z",
+          "page_url": "https://arxiv.org/abs/2602.24243v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.24243v1",
+          "saved_at": "2026-03-02",
+          "files": {
+            "pdf": "data/news/2026-03-02/finite_block_length_rate_distortion_theory_for_the_bernoulli_source_with_hamming.pdf"
+          }
+        },
+        {
+          "title": "UXSim: Towards a Hybrid User Search Simulation",
+          "source": "arxiv",
+          "date": "2026-02-27T18:14:34Z",
+          "page_url": "https://arxiv.org/abs/2602.24241v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.24241v1",
+          "saved_at": "2026-03-02",
+          "files": {
+            "pdf": "data/news/2026-03-02/uxsim_towards_a_hybrid_user_search_simulation.pdf"
+          }
+        },
+        {
+          "title": "Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution",
+          "source": "arxiv",
+          "date": "2026-02-27T18:13:31Z",
+          "page_url": "https://arxiv.org/abs/2602.24240v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.24240v1",
+          "saved_at": "2026-03-02",
+          "files": {
+            "pdf": "data/news/2026-03-02/joint_geometric_and_trajectory_consistency_learning_for_one_step_real_world_supe.pdf"
+          }
+        },
+        {
+          "title": "Time Series Foundation Models as Strong Baselines in Transportation Forecasting: A Large-Scale Benchmark Analysis",
+          "source": "arxiv",
+          "date": "2026-02-27T18:10:54Z",
+          "page_url": "https://arxiv.org/abs/2602.24238v1",
+          "pdf_url": "https://arxiv.org/pdf/2602.24238v1",
+          "saved_at": "2026-03-02",
+          "files": {
+            "pdf": "data/news/2026-03-02/time_series_foundation_models_as_strong_baselines_in_transportation_forecasting.pdf"
           }
         }
       ]
