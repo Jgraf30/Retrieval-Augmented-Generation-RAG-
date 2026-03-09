@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T13:25:59.884074Z",
+  "generated_at": "2026-03-09T13:28:50.268125Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -2781,6 +2781,122 @@
           "saved_at": "2026-03-02",
           "files": {
             "pdf": "data/news/2026-03-02/time_series_foundation_models_as_strong_baselines_in_transportation_forecasting.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "count": 10,
+      "items": [
+        {
+          "title": "SCOPE: Scene-Contextualized Incremental Few-Shot 3D Segmentation",
+          "source": "arxiv",
+          "date": "2026-03-06T18:59:36Z",
+          "page_url": "https://arxiv.org/abs/2603.06572v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.06572v1",
+          "saved_at": "2026-03-09",
+          "files": {
+            "pdf": "data/news/2026-03-09/scope_scene_contextualized_incremental_few_shot_3d_segmentation.pdf"
+          }
+        },
+        {
+          "title": "EgoReasoner: Learning Egocentric 4D Reasoning via Task-Adaptive Structured Thinking",
+          "source": "arxiv",
+          "date": "2026-03-06T18:49:04Z",
+          "page_url": "https://arxiv.org/abs/2603.06561v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.06561v1",
+          "saved_at": "2026-03-09",
+          "files": {
+            "pdf": "data/news/2026-03-09/egoreasoner_learning_egocentric_4d_reasoning_via_task_adaptive_structured_thinki.pdf"
+          }
+        },
+        {
+          "title": "Sampling-based Continuous Optimization for Messenger RNA Design",
+          "source": "arxiv",
+          "date": "2026-03-06T18:47:57Z",
+          "page_url": "https://arxiv.org/abs/2603.06559v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.06559v1",
+          "saved_at": "2026-03-09",
+          "files": {
+            "pdf": "data/news/2026-03-09/sampling_based_continuous_optimization_for_messenger_rna_design.pdf"
+          }
+        },
+        {
+          "title": "Hierarchical Industrial Demand Forecasting with Temporal and Uncertainty Explanations",
+          "source": "arxiv",
+          "date": "2026-03-06T18:44:37Z",
+          "page_url": "https://arxiv.org/abs/2603.06555v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.06555v1",
+          "saved_at": "2026-03-09",
+          "files": {
+            "pdf": "data/news/2026-03-09/hierarchical_industrial_demand_forecasting_with_temporal_and_uncertainty_explana.pdf"
+          }
+        },
+        {
+          "title": "SurgFormer: Scalable Learning of Organ Deformation with Resection Support and Real-Time Inference",
+          "source": "arxiv",
+          "date": "2026-03-06T18:29:47Z",
+          "page_url": "https://arxiv.org/abs/2603.06543v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.06543v1",
+          "saved_at": "2026-03-09",
+          "files": {
+            "pdf": "data/news/2026-03-09/surgformer_scalable_learning_of_organ_deformation_with_resection_support_and_rea.pdf"
+          }
+        },
+        {
+          "title": "Proteus: A Practical Framework for Privacy-Preserving Device Logs",
+          "source": "arxiv",
+          "date": "2026-03-06T18:28:10Z",
+          "page_url": "https://arxiv.org/abs/2603.06540v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.06540v1",
+          "saved_at": "2026-03-09",
+          "files": {
+            "pdf": "data/news/2026-03-09/proteus_a_practical_framework_for_privacy_preserving_device_logs.pdf"
+          }
+        },
+        {
+          "title": "Deterministic Electrical Switching in Altermagnets via Surface Antisymmetry Groups",
+          "source": "arxiv",
+          "date": "2026-03-06T18:24:47Z",
+          "page_url": "https://arxiv.org/abs/2603.06537v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.06537v1",
+          "saved_at": "2026-03-09",
+          "files": {
+            "pdf": "data/news/2026-03-09/deterministic_electrical_switching_in_altermagnets_via_surface_antisymmetry_grou.pdf"
+          }
+        },
+        {
+          "title": "NEGATE: Constrained Semantic Guidance for Linguistic Negation in Text-to-Video Diffusion",
+          "source": "arxiv",
+          "date": "2026-03-06T18:21:49Z",
+          "page_url": "https://arxiv.org/abs/2603.06533v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.06533v1",
+          "saved_at": "2026-03-09",
+          "files": {
+            "pdf": "data/news/2026-03-09/negate_constrained_semantic_guidance_for_linguistic_negation_in_text_to_video_di.pdf"
+          }
+        },
+        {
+          "title": "Remote Entanglement in Lattice Surgery: To Distill, or Not to Distill",
+          "source": "arxiv",
+          "date": "2026-03-06T17:53:27Z",
+          "page_url": "https://arxiv.org/abs/2603.06513v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.06513v1",
+          "saved_at": "2026-03-09",
+          "files": {
+            "pdf": "data/news/2026-03-09/remote_entanglement_in_lattice_surgery_to_distill_or_not_to_distill.pdf"
+          }
+        },
+        {
+          "title": "Retrieval-Augmented Generation with Covariate Time Series",
+          "source": "arxiv",
+          "date": "2026-03-05T08:45:24Z",
+          "page_url": "https://arxiv.org/abs/2603.04951v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.04951v1",
+          "saved_at": "2026-03-09",
+          "files": {
+            "pdf": "data/news/2026-03-09/retrieval_augmented_generation_with_covariate_time_series.pdf"
           }
         }
       ]
