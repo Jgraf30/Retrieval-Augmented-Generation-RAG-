@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T13:28:50.268125Z",
+  "generated_at": "2026-03-16T13:30:55.624052Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -2897,6 +2897,122 @@
           "saved_at": "2026-03-09",
           "files": {
             "pdf": "data/news/2026-03-09/retrieval_augmented_generation_with_covariate_time_series.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-03-16",
+      "count": 10,
+      "items": [
+        {
+          "title": "Visual-ERM: Reward Modeling for Visual Equivalence",
+          "source": "arxiv",
+          "date": "2026-03-13T17:58:14Z",
+          "page_url": "https://arxiv.org/abs/2603.13224v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.13224v1",
+          "saved_at": "2026-03-16",
+          "files": {
+            "pdf": "data/news/2026-03-16/visual_erm_reward_modeling_for_visual_equivalence.pdf"
+          }
+        },
+        {
+          "title": "$\u03c0$, K, and p production in high-multiplicity pp collisions at $\\sqrt{s} = 13$ TeV",
+          "source": "arxiv",
+          "date": "2026-03-13T17:39:58Z",
+          "page_url": "https://arxiv.org/abs/2603.13203v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.13203v1",
+          "saved_at": "2026-03-16",
+          "files": {
+            "pdf": "data/news/2026-03-16/k_and_p_production_in_high_multiplicity_pp_collisions_at_sqrt_s_13_tev.pdf"
+          }
+        },
+        {
+          "title": "CANOE: Classically Assisted Non-Orthogonal Eigensolver",
+          "source": "arxiv",
+          "date": "2026-03-13T17:21:14Z",
+          "page_url": "https://arxiv.org/abs/2603.13188v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.13188v1",
+          "saved_at": "2026-03-16",
+          "files": {
+            "pdf": "data/news/2026-03-16/canoe_classically_assisted_non_orthogonal_eigensolver.pdf"
+          }
+        },
+        {
+          "title": "Towards Spatio-Temporal World Scene Graph Generation from Monocular Videos",
+          "source": "arxiv",
+          "date": "2026-03-13T17:18:03Z",
+          "page_url": "https://arxiv.org/abs/2603.13185v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.13185v1",
+          "saved_at": "2026-03-16",
+          "files": {
+            "pdf": "data/news/2026-03-16/towards_spatio_temporal_world_scene_graph_generation_from_monocular_videos.pdf"
+          }
+        },
+        {
+          "title": "Towers of quantum many-body scars under stochastic resetting",
+          "source": "arxiv",
+          "date": "2026-03-13T16:59:32Z",
+          "page_url": "https://arxiv.org/abs/2603.13165v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.13165v1",
+          "saved_at": "2026-03-16",
+          "files": {
+            "pdf": "data/news/2026-03-16/towers_of_quantum_many_body_scars_under_stochastic_resetting.pdf"
+          }
+        },
+        {
+          "title": "Clustering without geometry in sparse networks with independent edges",
+          "source": "arxiv",
+          "date": "2026-03-13T16:51:16Z",
+          "page_url": "https://arxiv.org/abs/2603.13159v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.13159v1",
+          "saved_at": "2026-03-16",
+          "files": {
+            "pdf": "data/news/2026-03-16/clustering_without_geometry_in_sparse_networks_with_independent_edges.pdf"
+          }
+        },
+        {
+          "title": "Legal-DC: Benchmarking Retrieval-Augmented Generation for Legal Documents",
+          "source": "arxiv",
+          "date": "2026-03-12T10:27:40Z",
+          "page_url": "https://arxiv.org/abs/2603.11772v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.11772v1",
+          "saved_at": "2026-03-16",
+          "files": {
+            "pdf": "data/news/2026-03-16/legal_dc_benchmarking_retrieval_augmented_generation_for_legal_documents.pdf"
+          }
+        },
+        {
+          "title": "His2Trans: A Skeleton First Framework for Self Evolving C to Rust Translation with Historical Retrieval",
+          "source": "arxiv",
+          "date": "2026-03-03T05:42:08Z",
+          "page_url": "https://arxiv.org/abs/2603.02617v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.02617v1",
+          "saved_at": "2026-03-16",
+          "files": {
+            "pdf": "data/news/2026-03-16/his2trans_a_skeleton_first_framework_for_self_evolving_c_to_rust_translation_wit.pdf"
+          }
+        },
+        {
+          "title": "AMemGym: Interactive Memory Benchmarking for Assistants in Long-Horizon Conversations",
+          "source": "arxiv",
+          "date": "2026-03-02T15:15:11Z",
+          "page_url": "https://arxiv.org/abs/2603.01966v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.01966v1",
+          "saved_at": "2026-03-16",
+          "files": {
+            "pdf": "data/news/2026-03-16/amemgym_interactive_memory_benchmarking_for_assistants_in_long_horizon_conversat.pdf"
+          }
+        },
+        {
+          "title": "Tiny-Critic RAG: Empowering Agentic Fallback with Parameter-Efficient Small Language Models",
+          "source": "arxiv",
+          "date": "2026-03-01T00:16:31Z",
+          "page_url": "https://arxiv.org/abs/2603.00846v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.00846v1",
+          "saved_at": "2026-03-16",
+          "files": {
+            "pdf": "data/news/2026-03-16/tiny_critic_rag_empowering_agentic_fallback_with_parameter_efficient_small_langu.pdf"
           }
         }
       ]
