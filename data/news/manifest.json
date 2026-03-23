@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T13:30:55.624052Z",
+  "generated_at": "2026-03-23T13:30:56.184772Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -3013,6 +3013,122 @@
           "saved_at": "2026-03-16",
           "files": {
             "pdf": "data/news/2026-03-16/tiny_critic_rag_empowering_agentic_fallback_with_parameter_efficient_small_langu.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-03-23",
+      "count": 10,
+      "items": [
+        {
+          "title": "Deterministic Mode Proposals: An Efficient Alternative to Generative Sampling for Ambiguous Segmentation",
+          "source": "arxiv",
+          "date": "2026-03-20T17:59:26Z",
+          "page_url": "https://arxiv.org/abs/2603.20191v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.20191v1",
+          "saved_at": "2026-03-23",
+          "files": {
+            "pdf": "data/news/2026-03-23/deterministic_mode_proposals_an_efficient_alternative_to_generative_sampling_for.pdf"
+          }
+        },
+        {
+          "title": "CoVR-R:Reason-Aware Composed Video Retrieval",
+          "source": "arxiv",
+          "date": "2026-03-20T17:59:25Z",
+          "page_url": "https://arxiv.org/abs/2603.20190v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.20190v1",
+          "saved_at": "2026-03-23",
+          "files": {
+            "pdf": "data/news/2026-03-23/covr_r_reason_aware_composed_video_retrieval.pdf"
+          }
+        },
+        {
+          "title": "Wildfire Spread Scenarios: Increasing Sample Diversity of Segmentation Diffusion Models with Training-Free Methods",
+          "source": "arxiv",
+          "date": "2026-03-20T17:59:15Z",
+          "page_url": "https://arxiv.org/abs/2603.20188v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.20188v1",
+          "saved_at": "2026-03-23",
+          "files": {
+            "pdf": "data/news/2026-03-23/wildfire_spread_scenarios_increasing_sample_diversity_of_segmentation_diffusion.pdf"
+          }
+        },
+        {
+          "title": "MuSteerNet: Human Reaction Generation from Videos via Observation-Reaction Mutual Steering",
+          "source": "arxiv",
+          "date": "2026-03-20T17:59:06Z",
+          "page_url": "https://arxiv.org/abs/2603.20187v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.20187v1",
+          "saved_at": "2026-03-23",
+          "files": {
+            "pdf": "data/news/2026-03-23/musteernet_human_reaction_generation_from_videos_via_observation_reaction_mutual.pdf"
+          }
+        },
+        {
+          "title": "EgoForge: Goal-Directed Egocentric World Simulator",
+          "source": "arxiv",
+          "date": "2026-03-20T17:46:55Z",
+          "page_url": "https://arxiv.org/abs/2603.20169v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.20169v1",
+          "saved_at": "2026-03-23",
+          "files": {
+            "pdf": "data/news/2026-03-23/egoforge_goal_directed_egocentric_world_simulator.pdf"
+          }
+        },
+        {
+          "title": "Quantum inference on a classically trained quantum extreme learning machine",
+          "source": "arxiv",
+          "date": "2026-03-20T17:44:40Z",
+          "page_url": "https://arxiv.org/abs/2603.20167v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.20167v1",
+          "saved_at": "2026-03-23",
+          "files": {
+            "pdf": "data/news/2026-03-23/quantum_inference_on_a_classically_trained_quantum_extreme_learning_machine.pdf"
+          }
+        },
+        {
+          "title": "Implementing the L4S Architecture in the ns-3 Simulator",
+          "source": "arxiv",
+          "date": "2026-03-20T17:44:19Z",
+          "page_url": "https://arxiv.org/abs/2603.20166v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.20166v1",
+          "saved_at": "2026-03-23",
+          "files": {
+            "pdf": "data/news/2026-03-23/implementing_the_l4s_architecture_in_the_ns_3_simulator.pdf"
+          }
+        },
+        {
+          "title": "Audio Avatar Fingerprinting: An Approach for Authorized Use of Voice Cloning in the Era of Synthetic Audio",
+          "source": "arxiv",
+          "date": "2026-03-20T17:42:24Z",
+          "page_url": "https://arxiv.org/abs/2603.20165v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.20165v1",
+          "saved_at": "2026-03-23",
+          "files": {
+            "pdf": "data/news/2026-03-23/audio_avatar_fingerprinting_an_approach_for_authorized_use_of_voice_cloning_in_t.pdf"
+          }
+        },
+        {
+          "title": "The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning",
+          "source": "arxiv",
+          "date": "2026-03-20T17:40:21Z",
+          "page_url": "https://arxiv.org/abs/2603.20164v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.20164v1",
+          "saved_at": "2026-03-23",
+          "files": {
+            "pdf": "data/news/2026-03-23/the_robot_s_inner_critic_self_refinement_of_social_behaviors_through_vlm_based_r.pdf"
+          }
+        },
+        {
+          "title": "Semantic Token Clustering for Efficient Uncertainty Quantification in Large Language Models",
+          "source": "arxiv",
+          "date": "2026-03-20T17:37:33Z",
+          "page_url": "https://arxiv.org/abs/2603.20161v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.20161v1",
+          "saved_at": "2026-03-23",
+          "files": {
+            "pdf": "data/news/2026-03-23/semantic_token_clustering_for_efficient_uncertainty_quantification_in_large_lang.pdf"
           }
         }
       ]
