@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T13:30:56.184772Z",
+  "generated_at": "2026-03-30T13:35:41.461849Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -3129,6 +3129,122 @@
           "saved_at": "2026-03-23",
           "files": {
             "pdf": "data/news/2026-03-23/semantic_token_clustering_for_efficient_uncertainty_quantification_in_large_lang.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-03-30",
+      "count": 10,
+      "items": [
+        {
+          "title": "DRiffusion: Draft-and-Refine Process Parallelizes Diffusion Models with Ease",
+          "source": "arxiv",
+          "date": "2026-03-26T19:58:42Z",
+          "page_url": "https://arxiv.org/abs/2603.25872v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.25872v1",
+          "saved_at": "2026-03-30",
+          "files": {
+            "pdf": "data/news/2026-03-30/driffusion_draft_and_refine_process_parallelizes_diffusion_models_with_ease.pdf"
+          }
+        },
+        {
+          "title": "Bilingual Text-to-Motion Generation: A New Benchmark and Baselines",
+          "source": "arxiv",
+          "date": "2026-03-26T08:48:27Z",
+          "page_url": "https://arxiv.org/abs/2603.25178v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.25178v1",
+          "saved_at": "2026-03-30",
+          "files": {
+            "pdf": "data/news/2026-03-30/bilingual_text_to_motion_generation_a_new_benchmark_and_baselines.pdf"
+          }
+        },
+        {
+          "title": "DCARL: A Divide-and-Conquer Framework for Autoregressive Long-Trajectory Video Generation",
+          "source": "arxiv",
+          "date": "2026-03-25T22:07:09Z",
+          "page_url": "https://arxiv.org/abs/2603.24835v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.24835v1",
+          "saved_at": "2026-03-30",
+          "files": {
+            "pdf": "data/news/2026-03-30/dcarl_a_divide_and_conquer_framework_for_autoregressive_long_trajectory_video_ge.pdf"
+          }
+        },
+        {
+          "title": "3D-LLDM: Label-Guided 3D Latent Diffusion Model for Improving High-Resolution Synthetic MR Imaging in Hepatic Structure Segmentation",
+          "source": "arxiv",
+          "date": "2026-03-25T02:03:10Z",
+          "page_url": "https://arxiv.org/abs/2603.23845v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.23845v1",
+          "saved_at": "2026-03-30",
+          "files": {
+            "pdf": "data/news/2026-03-30/3d_lldm_label_guided_3d_latent_diffusion_model_for_improving_high_resolution_syn.pdf"
+          }
+        },
+        {
+          "title": "Compressing Dynamic Fully Indexable Dictionaries in Word-RAM",
+          "source": "arxiv",
+          "date": "2026-03-24T12:17:11Z",
+          "page_url": "https://arxiv.org/abs/2603.23119v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.23119v1",
+          "saved_at": "2026-03-30",
+          "files": {
+            "pdf": "data/news/2026-03-30/compressing_dynamic_fully_indexable_dictionaries_in_word_ram.pdf"
+          }
+        },
+        {
+          "title": "SpecXMaster Technical Report",
+          "source": "arxiv",
+          "date": "2026-03-26T11:20:14Z",
+          "page_url": "https://arxiv.org/abs/2603.23101v2",
+          "pdf_url": "https://arxiv.org/pdf/2603.23101v2",
+          "saved_at": "2026-03-30",
+          "files": {
+            "pdf": "data/news/2026-03-30/specxmaster_technical_report.pdf"
+          }
+        },
+        {
+          "title": "Policy-based Tuning of Autoregressive Image Models with Instance- and Distribution-Level Rewards",
+          "source": "arxiv",
+          "date": "2026-03-24T11:28:36Z",
+          "page_url": "https://arxiv.org/abs/2603.23086v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.23086v1",
+          "saved_at": "2026-03-30",
+          "files": {
+            "pdf": "data/news/2026-03-30/policy_based_tuning_of_autoregressive_image_models_with_instance_and_distributio.pdf"
+          }
+        },
+        {
+          "title": "HUydra: Full-Range Lung CT Synthesis via Multiple HU Interval Generative Modelling",
+          "source": "arxiv",
+          "date": "2026-03-24T10:27:31Z",
+          "page_url": "https://arxiv.org/abs/2603.23041v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.23041v1",
+          "saved_at": "2026-03-30",
+          "files": {
+            "pdf": "data/news/2026-03-30/huydra_full_range_lung_ct_synthesis_via_multiple_hu_interval_generative_modellin.pdf"
+          }
+        },
+        {
+          "title": "End-to-End Training for Unified Tokenization and Latent Denoising",
+          "source": "arxiv",
+          "date": "2026-03-23T17:59:49Z",
+          "page_url": "https://arxiv.org/abs/2603.22283v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.22283v1",
+          "saved_at": "2026-03-30",
+          "files": {
+            "pdf": "data/news/2026-03-30/end_to_end_training_for_unified_tokenization_and_latent_denoising.pdf"
+          }
+        },
+        {
+          "title": "Drop-In Perceptual Optimization for 3D Gaussian Splatting",
+          "source": "arxiv",
+          "date": "2026-03-23T17:42:49Z",
+          "page_url": "https://arxiv.org/abs/2603.23297v1",
+          "pdf_url": "https://arxiv.org/pdf/2603.23297v1",
+          "saved_at": "2026-03-30",
+          "files": {
+            "pdf": "data/news/2026-03-30/drop_in_perceptual_optimization_for_3d_gaussian_splatting.pdf"
           }
         }
       ]
