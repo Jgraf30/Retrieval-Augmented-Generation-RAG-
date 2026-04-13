@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T13:30:53.536555Z",
+  "generated_at": "2026-04-13T13:32:32.357216Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -3361,6 +3361,122 @@
           "saved_at": "2026-04-06",
           "files": {
             "pdf": "data/news/2026-04-06/experience_as_a_compass_multi_agent_rag_with_evolving_orchestration_and_agent_pr.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-04-13",
+      "count": 10,
+      "items": [
+        {
+          "title": "Tango: Taming Visual Signals for Efficient Video Large Language Models",
+          "source": "arxiv",
+          "date": "2026-04-10T17:59:56Z",
+          "page_url": "https://arxiv.org/abs/2604.09547v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.09547v1",
+          "saved_at": "2026-04-13",
+          "files": {
+            "pdf": "data/news/2026-04-13/tango_taming_visual_signals_for_efficient_video_large_language_models.pdf"
+          }
+        },
+        {
+          "title": "ANTIC: Adaptive Neural Temporal In-situ Compressor",
+          "source": "arxiv",
+          "date": "2026-04-10T17:58:16Z",
+          "page_url": "https://arxiv.org/abs/2604.09543v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.09543v1",
+          "saved_at": "2026-04-13",
+          "files": {
+            "pdf": "data/news/2026-04-13/antic_adaptive_neural_temporal_in_situ_compressor.pdf"
+          }
+        },
+        {
+          "title": "Trans-RAG: Query-Centric Vector Transformation for Secure Cross-Organizational Retrieval",
+          "source": "arxiv",
+          "date": "2026-04-10T17:58:06Z",
+          "page_url": "https://arxiv.org/abs/2604.09541v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.09541v1",
+          "saved_at": "2026-04-13",
+          "files": {
+            "pdf": "data/news/2026-04-13/trans_rag_query_centric_vector_transformation_for_secure_cross_organizational_re.pdf"
+          }
+        },
+        {
+          "title": "EgoTL: Egocentric Think-Aloud Chains for Long-Horizon Tasks",
+          "source": "arxiv",
+          "date": "2026-04-10T17:53:55Z",
+          "page_url": "https://arxiv.org/abs/2604.09535v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.09535v1",
+          "saved_at": "2026-04-13",
+          "files": {
+            "pdf": "data/news/2026-04-13/egotl_egocentric_think_aloud_chains_for_long_horizon_tasks.pdf"
+          }
+        },
+        {
+          "title": "VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning",
+          "source": "arxiv",
+          "date": "2026-04-10T17:47:19Z",
+          "page_url": "https://arxiv.org/abs/2604.09529v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.09529v1",
+          "saved_at": "2026-04-13",
+          "files": {
+            "pdf": "data/news/2026-04-13/vl_calibration_decoupled_confidence_calibration_for_large_vision_language_models.pdf"
+          }
+        },
+        {
+          "title": "When LLMs Lag Behind: Knowledge Conflicts from Evolving APIs in Code Generation",
+          "source": "arxiv",
+          "date": "2026-04-10T17:37:26Z",
+          "page_url": "https://arxiv.org/abs/2604.09515v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.09515v1",
+          "saved_at": "2026-04-13",
+          "files": {
+            "pdf": "data/news/2026-04-13/when_llms_lag_behind_knowledge_conflicts_from_evolving_apis_in_code_generation.pdf"
+          }
+        },
+        {
+          "title": "VISOR: Agentic Visual Retrieval-Augmented Generation via Iterative Search and Over-horizon Reasoning",
+          "source": "arxiv",
+          "date": "2026-04-10T17:25:34Z",
+          "page_url": "https://arxiv.org/abs/2604.09508v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.09508v1",
+          "saved_at": "2026-04-13",
+          "files": {
+            "pdf": "data/news/2026-04-13/visor_agentic_visual_retrieval_augmented_generation_via_iterative_search_and_ove.pdf"
+          }
+        },
+        {
+          "title": "Policy-Aware Edge LLM-RAG Framework for Internet of Battlefield Things Mission Orchestration",
+          "source": "arxiv",
+          "date": "2026-04-10T17:01:37Z",
+          "page_url": "https://arxiv.org/abs/2604.09493v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.09493v1",
+          "saved_at": "2026-04-13",
+          "files": {
+            "pdf": "data/news/2026-04-13/policy_aware_edge_llm_rag_framework_for_internet_of_battlefield_things_mission_o.pdf"
+          }
+        },
+        {
+          "title": "Fundus-R1: Training a Fundus-Reading MLLM with Knowledge-Aware Reasoning on Public Data",
+          "source": "arxiv",
+          "date": "2026-04-09T14:55:22Z",
+          "page_url": "https://arxiv.org/abs/2604.08322v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.08322v1",
+          "saved_at": "2026-04-13",
+          "files": {
+            "pdf": "data/news/2026-04-13/fundus_r1_training_a_fundus_reading_mllm_with_knowledge_aware_reasoning_on_publi.pdf"
+          }
+        },
+        {
+          "title": "TSUBASA: Improving Long-Horizon Personalization via Evolving Memory and Self-Learning with Context Distillation",
+          "source": "arxiv",
+          "date": "2026-04-09T07:04:19Z",
+          "page_url": "https://arxiv.org/abs/2604.07894v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.07894v1",
+          "saved_at": "2026-04-13",
+          "files": {
+            "pdf": "data/news/2026-04-13/tsubasa_improving_long_horizon_personalization_via_evolving_memory_and_self_lear.pdf"
           }
         }
       ]
