@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T13:32:32.357216Z",
+  "generated_at": "2026-04-20T13:33:21.802595Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -3477,6 +3477,122 @@
           "saved_at": "2026-04-13",
           "files": {
             "pdf": "data/news/2026-04-13/tsubasa_improving_long_horizon_personalization_via_evolving_memory_and_self_lear.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-04-20",
+      "count": 10,
+      "items": [
+        {
+          "title": "Yttrium ion as a platform for quantum information processing",
+          "source": "arxiv",
+          "date": "2026-04-17T17:33:03Z",
+          "page_url": "https://arxiv.org/abs/2604.16274v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.16274v1",
+          "saved_at": "2026-04-20",
+          "files": {
+            "pdf": "data/news/2026-04-20/yttrium_ion_as_a_platform_for_quantum_information_processing.pdf"
+          }
+        },
+        {
+          "title": "Hero-Mamba: Mamba-based Dual Domain Learning for Underwater Image Enhancement",
+          "source": "arxiv",
+          "date": "2026-04-17T17:24:11Z",
+          "page_url": "https://arxiv.org/abs/2604.16266v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.16266v1",
+          "saved_at": "2026-04-20",
+          "files": {
+            "pdf": "data/news/2026-04-20/hero_mamba_mamba_based_dual_domain_learning_for_underwater_image_enhancement.pdf"
+          }
+        },
+        {
+          "title": "Detecting and Suppressing Reward Hacking with Gradient Fingerprints",
+          "source": "arxiv",
+          "date": "2026-04-17T17:01:24Z",
+          "page_url": "https://arxiv.org/abs/2604.16242v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.16242v1",
+          "saved_at": "2026-04-20",
+          "files": {
+            "pdf": "data/news/2026-04-20/detecting_and_suppressing_reward_hacking_with_gradient_fingerprints.pdf"
+          }
+        },
+        {
+          "title": "EvoRAG: Making Knowledge Graph-based RAG Automatically Evolve through Feedback-driven Backpropagation",
+          "source": "arxiv",
+          "date": "2026-04-17T03:54:32Z",
+          "page_url": "https://arxiv.org/abs/2604.15676v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.15676v1",
+          "saved_at": "2026-04-20",
+          "files": {
+            "pdf": "data/news/2026-04-20/evorag_making_knowledge_graph_based_rag_automatically_evolve_through_feedback_dr.pdf"
+          }
+        },
+        {
+          "title": "Retrieval as Generation: A Unified Framework with Self-Triggered Information Planning",
+          "source": "arxiv",
+          "date": "2026-04-13T12:53:17Z",
+          "page_url": "https://arxiv.org/abs/2604.11407v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.11407v1",
+          "saved_at": "2026-04-20",
+          "files": {
+            "pdf": "data/news/2026-04-20/retrieval_as_generation_a_unified_framework_with_self_triggered_information_plan.pdf"
+          }
+        },
+        {
+          "title": "Self-Correcting RAG: Enhancing Faithfulness via MMKP Context Selection and NLI-Guided MCTS",
+          "source": "arxiv",
+          "date": "2026-04-12T17:14:36Z",
+          "page_url": "https://arxiv.org/abs/2604.10734v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.10734v1",
+          "saved_at": "2026-04-20",
+          "files": {
+            "pdf": "data/news/2026-04-20/self_correcting_rag_enhancing_faithfulness_via_mmkp_context_selection_and_nli_gu.pdf"
+          }
+        },
+        {
+          "title": "Reasoning Graphs: Self-Improving, Deterministic RAG through Evidence-Centric Feedback",
+          "source": "arxiv",
+          "date": "2026-04-13T18:38:49Z",
+          "page_url": "https://arxiv.org/abs/2604.07595v2",
+          "pdf_url": "https://arxiv.org/pdf/2604.07595v2",
+          "saved_at": "2026-04-20",
+          "files": {
+            "pdf": "data/news/2026-04-20/reasoning_graphs_self_improving_deterministic_rag_through_evidence_centric_feedb.pdf"
+          }
+        },
+        {
+          "title": "MA-IDS: Multi-Agent RAG Framework for IoT Network Intrusion Detection with an Experience Library",
+          "source": "arxiv",
+          "date": "2026-04-07T05:41:10Z",
+          "page_url": "https://arxiv.org/abs/2604.05458v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.05458v1",
+          "saved_at": "2026-04-20",
+          "files": {
+            "pdf": "data/news/2026-04-20/ma_ids_multi_agent_rag_framework_for_iot_network_intrusion_detection_with_an_exp.pdf"
+          }
+        },
+        {
+          "title": "Unmasking Hallucinations: A Causal Graph-Attention Perspective on Factual Reliability in Large Language Models",
+          "source": "arxiv",
+          "date": "2026-04-05T08:37:36Z",
+          "page_url": "https://arxiv.org/abs/2604.04020v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.04020v1",
+          "saved_at": "2026-04-20",
+          "files": {
+            "pdf": "data/news/2026-04-20/unmasking_hallucinations_a_causal_graph_attention_perspective_on_factual_reliabi.pdf"
+          }
+        },
+        {
+          "title": "Reimagining RAN Automation in 6G: An Agentic AI Framework with Hierarchical Online Decision Transformer",
+          "source": "arxiv",
+          "date": "2026-04-05T00:32:55Z",
+          "page_url": "https://arxiv.org/abs/2604.03908v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.03908v1",
+          "saved_at": "2026-04-20",
+          "files": {
+            "pdf": "data/news/2026-04-20/reimagining_ran_automation_in_6g_an_agentic_ai_framework_with_hierarchical_onlin.pdf"
           }
         }
       ]
