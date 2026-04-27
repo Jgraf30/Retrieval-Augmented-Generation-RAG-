@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T13:33:21.802595Z",
+  "generated_at": "2026-04-27T13:33:23.924908Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -3593,6 +3593,122 @@
           "saved_at": "2026-04-20",
           "files": {
             "pdf": "data/news/2026-04-20/reimagining_ran_automation_in_6g_an_agentic_ai_framework_with_hierarchical_onlin.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-04-27",
+      "count": 10,
+      "items": [
+        {
+          "title": "Correlated Quantum Dephasometry: Symmetry-Resolved Noise Spectroscopy of Two-Dimensional Superconductors and Altermagnets",
+          "source": "arxiv",
+          "date": "2026-04-24T17:57:24Z",
+          "page_url": "https://arxiv.org/abs/2604.22751v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.22751v1",
+          "saved_at": "2026-04-27",
+          "files": {
+            "pdf": "data/news/2026-04-27/correlated_quantum_dephasometry_symmetry_resolved_noise_spectroscopy_of_two_dime.pdf"
+          }
+        },
+        {
+          "title": "Aligning Dense Retrievers with LLM Utility via DistillationAligning Dense Retrievers with LLM Utility via Distillation",
+          "source": "arxiv",
+          "date": "2026-04-24T17:18:56Z",
+          "page_url": "https://arxiv.org/abs/2604.22722v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.22722v1",
+          "saved_at": "2026-04-27",
+          "files": {
+            "pdf": "data/news/2026-04-27/aligning_dense_retrievers_with_llm_utility_via_distillationaligning_dense_retrie.pdf"
+          }
+        },
+        {
+          "title": "ATRS: Adaptive Trajectory Re-splitting via a Shared Neural Policy for Parallel Optimization",
+          "source": "arxiv",
+          "date": "2026-04-24T16:58:14Z",
+          "page_url": "https://arxiv.org/abs/2604.22715v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.22715v1",
+          "saved_at": "2026-04-27",
+          "files": {
+            "pdf": "data/news/2026-04-27/atrs_adaptive_trajectory_re_splitting_via_a_shared_neural_policy_for_parallel_op.pdf"
+          }
+        },
+        {
+          "title": "Evaluation of the effects of 3GPP-specific beamforming and channel estimation on the 3D EIRP profile of a 5G gNB",
+          "source": "arxiv",
+          "date": "2026-04-24T16:46:41Z",
+          "page_url": "https://arxiv.org/abs/2604.22710v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.22710v1",
+          "saved_at": "2026-04-27",
+          "files": {
+            "pdf": "data/news/2026-04-27/evaluation_of_the_effects_of_3gpp_specific_beamforming_and_channel_estimation_on.pdf"
+          }
+        },
+        {
+          "title": "Thinking Without Words: Efficient Latent Reasoning with Abstract Chain-of-Thought",
+          "source": "arxiv",
+          "date": "2026-04-24T16:45:51Z",
+          "page_url": "https://arxiv.org/abs/2604.22709v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.22709v1",
+          "saved_at": "2026-04-27",
+          "files": {
+            "pdf": "data/news/2026-04-27/thinking_without_words_efficient_latent_reasoning_with_abstract_chain_of_thought.pdf"
+          }
+        },
+        {
+          "title": "RFID-Based Non-Biometric Classroom Attendance System: Proxy Attendance Detection via Weight Sensor Integration",
+          "source": "arxiv",
+          "date": "2026-04-24T16:30:32Z",
+          "page_url": "https://arxiv.org/abs/2604.22697v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.22697v1",
+          "saved_at": "2026-04-27",
+          "files": {
+            "pdf": "data/news/2026-04-27/rfid_based_non_biometric_classroom_attendance_system_proxy_attendance_detection.pdf"
+          }
+        },
+        {
+          "title": "RAG-Reflect: Agentic Retrieval-Augmented Generation with Reflections for Comment-Driven Code Maintenance on Stack Overflow",
+          "source": "arxiv",
+          "date": "2026-04-24T04:49:58Z",
+          "page_url": "https://arxiv.org/abs/2604.22217v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.22217v1",
+          "saved_at": "2026-04-27",
+          "files": {
+            "pdf": "data/news/2026-04-27/rag_reflect_agentic_retrieval_augmented_generation_with_reflections_for_comment.pdf"
+          }
+        },
+        {
+          "title": "AutoSearch: Adaptive Search Depth for Efficient Agentic RAG via Reinforcement Learning",
+          "source": "arxiv",
+          "date": "2026-04-19T09:05:48Z",
+          "page_url": "https://arxiv.org/abs/2604.17337v1",
+          "pdf_url": "https://arxiv.org/pdf/2604.17337v1",
+          "saved_at": "2026-04-27",
+          "files": {
+            "pdf": "data/news/2026-04-27/autosearch_adaptive_search_depth_for_efficient_agentic_rag_via_reinforcement_lea.pdf"
+          }
+        },
+        {
+          "title": "Retrieval as Generation: A Unified Framework with Self-Triggered Information Planning",
+          "source": "arxiv",
+          "date": "2026-04-19T03:48:59Z",
+          "page_url": "https://arxiv.org/abs/2604.11407v2",
+          "pdf_url": "https://arxiv.org/pdf/2604.11407v2",
+          "saved_at": "2026-04-27",
+          "files": {
+            "pdf": "data/news/2026-04-27/retrieval_as_generation_a_unified_framework_with_self_triggered_information_plan.pdf"
+          }
+        },
+        {
+          "title": "Procedural Knowledge at Scale Improves Reasoning",
+          "source": "arxiv",
+          "date": "2026-04-20T16:16:04Z",
+          "page_url": "https://arxiv.org/abs/2604.01348v2",
+          "pdf_url": "https://arxiv.org/pdf/2604.01348v2",
+          "saved_at": "2026-04-27",
+          "files": {
+            "pdf": "data/news/2026-04-27/procedural_knowledge_at_scale_improves_reasoning.pdf"
           }
         }
       ]
