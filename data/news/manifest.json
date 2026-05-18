@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T13:33:23.924908Z",
+  "generated_at": "2026-05-18T14:11:48.377718Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -3709,6 +3709,122 @@
           "saved_at": "2026-04-27",
           "files": {
             "pdf": "data/news/2026-04-27/procedural_knowledge_at_scale_improves_reasoning.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-05-18",
+      "count": 10,
+      "items": [
+        {
+          "title": "Designing Datacenter Power Delivery Hierarchies for the AI Era",
+          "source": "arxiv",
+          "date": "2026-05-15T17:58:58Z",
+          "page_url": "https://arxiv.org/abs/2605.16255v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.16255v1",
+          "saved_at": "2026-05-18",
+          "files": {
+            "pdf": "data/news/2026-05-18/designing_datacenter_power_delivery_hierarchies_for_the_ai_era.pdf"
+          }
+        },
+        {
+          "title": "TTP: A Hardware-Efficient Design for Precise Prefetching in Ray Tracing",
+          "source": "arxiv",
+          "date": "2026-05-15T17:57:31Z",
+          "page_url": "https://arxiv.org/abs/2605.16253v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.16253v1",
+          "saved_at": "2026-05-18",
+          "files": {
+            "pdf": "data/news/2026-05-18/ttp_a_hardware_efficient_design_for_precise_prefetching_in_ray_tracing.pdf"
+          }
+        },
+        {
+          "title": "Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation",
+          "source": "arxiv",
+          "date": "2026-05-15T17:48:25Z",
+          "page_url": "https://arxiv.org/abs/2605.16241v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.16241v1",
+          "saved_at": "2026-05-18",
+          "files": {
+            "pdf": "data/news/2026-05-18/offline_semantic_guidance_for_efficient_vision_language_action_policy_distillati.pdf"
+          }
+        },
+        {
+          "title": "Prospective multi-pathogen disease forecasting using autonomous LLM-guided tree search",
+          "source": "arxiv",
+          "date": "2026-05-15T17:45:17Z",
+          "page_url": "https://arxiv.org/abs/2605.16238v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.16238v1",
+          "saved_at": "2026-05-18",
+          "files": {
+            "pdf": "data/news/2026-05-18/prospective_multi_pathogen_disease_forecasting_using_autonomous_llm_guided_tree.pdf"
+          }
+        },
+        {
+          "title": "FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast",
+          "source": "arxiv",
+          "date": "2026-05-15T17:42:49Z",
+          "page_url": "https://arxiv.org/abs/2605.16233v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.16233v1",
+          "saved_at": "2026-05-18",
+          "files": {
+            "pdf": "data/news/2026-05-18/forge_self_evolving_agent_memory_with_no_weight_updates_via_population_broadcast.pdf"
+          }
+        },
+        {
+          "title": "Evaluating Design Video Generation: Metrics for Compositional Fidelity",
+          "source": "arxiv",
+          "date": "2026-05-15T17:34:05Z",
+          "page_url": "https://arxiv.org/abs/2605.16223v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.16223v1",
+          "saved_at": "2026-05-18",
+          "files": {
+            "pdf": "data/news/2026-05-18/evaluating_design_video_generation_metrics_for_compositional_fidelity.pdf"
+          }
+        },
+        {
+          "title": "Argus: Evidence Assembly for Scalable Deep Research Agents",
+          "source": "arxiv",
+          "date": "2026-05-15T17:29:27Z",
+          "page_url": "https://arxiv.org/abs/2605.16217v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.16217v1",
+          "saved_at": "2026-05-18",
+          "files": {
+            "pdf": "data/news/2026-05-18/argus_evidence_assembly_for_scalable_deep_research_agents.pdf"
+          }
+        },
+        {
+          "title": "Fully Open Meditron: An Auditable Pipeline for Clinical LLMs",
+          "source": "arxiv",
+          "date": "2026-05-15T17:29:08Z",
+          "page_url": "https://arxiv.org/abs/2605.16215v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.16215v1",
+          "saved_at": "2026-05-18",
+          "files": {
+            "pdf": "data/news/2026-05-18/fully_open_meditron_an_auditable_pipeline_for_clinical_llms.pdf"
+          }
+        },
+        {
+          "title": "DebiasRAG: A Tuning-Free Path to Fair Generation in Large Language Models through Retrieval-Augmented Generation",
+          "source": "arxiv",
+          "date": "2026-05-15T15:58:10Z",
+          "page_url": "https://arxiv.org/abs/2605.16113v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.16113v1",
+          "saved_at": "2026-05-18",
+          "files": {
+            "pdf": "data/news/2026-05-18/debiasrag_a_tuning_free_path_to_fair_generation_in_large_language_models_through.pdf"
+          }
+        },
+        {
+          "title": "Towards Generalization of Block Attention via Automatic Segmentation and Block Distillation",
+          "source": "arxiv",
+          "date": "2026-05-15T12:51:32Z",
+          "page_url": "https://arxiv.org/abs/2605.15913v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.15913v1",
+          "saved_at": "2026-05-18",
+          "files": {
+            "pdf": "data/news/2026-05-18/towards_generalization_of_block_attention_via_automatic_segmentation_and_block_d.pdf"
           }
         }
       ]
