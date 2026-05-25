@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T14:11:48.377718Z",
+  "generated_at": "2026-05-25T14:01:44.010842Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -3825,6 +3825,122 @@
           "saved_at": "2026-05-18",
           "files": {
             "pdf": "data/news/2026-05-18/towards_generalization_of_block_attention_via_automatic_segmentation_and_block_d.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "count": 10,
+      "items": [
+        {
+          "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
+          "source": "arxiv",
+          "date": "2026-05-22T17:59:50Z",
+          "page_url": "https://arxiv.org/abs/2605.23904v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.23904v1",
+          "saved_at": "2026-05-25",
+          "files": {
+            "pdf": "data/news/2026-05-25/skillopt_executive_strategy_for_self_evolving_agent_skills.pdf"
+          }
+        },
+        {
+          "title": "Geo-Align: Video Generation Alignment via Metric Geometry Reward",
+          "source": "arxiv",
+          "date": "2026-05-22T17:59:43Z",
+          "page_url": "https://arxiv.org/abs/2605.23903v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.23903v1",
+          "saved_at": "2026-05-25",
+          "files": {
+            "pdf": "data/news/2026-05-25/geo_align_video_generation_alignment_via_metric_geometry_reward.pdf"
+          }
+        },
+        {
+          "title": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
+          "source": "arxiv",
+          "date": "2026-05-22T17:59:42Z",
+          "page_url": "https://arxiv.org/abs/2605.23902v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.23902v1",
+          "saved_at": "2026-05-25",
+          "files": {
+            "pdf": "data/news/2026-05-25/pid_fast_and_high_resolution_latent_decoding_with_pixel_diffusion.pdf"
+          }
+        },
+        {
+          "title": "From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated Agent Skills",
+          "source": "arxiv",
+          "date": "2026-05-22T17:59:12Z",
+          "page_url": "https://arxiv.org/abs/2605.23899v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.23899v1",
+          "saved_at": "2026-05-25",
+          "files": {
+            "pdf": "data/news/2026-05-25/from_raw_experience_to_skill_consumption_a_systematic_study_of_model_generated_a.pdf"
+          }
+        },
+        {
+          "title": "ETCHR: Editing To Clarify and Harness Reasoning",
+          "source": "arxiv",
+          "date": "2026-05-22T17:58:28Z",
+          "page_url": "https://arxiv.org/abs/2605.23897v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.23897v1",
+          "saved_at": "2026-05-25",
+          "files": {
+            "pdf": "data/news/2026-05-25/etchr_editing_to_clarify_and_harness_reasoning.pdf"
+          }
+        },
+        {
+          "title": "Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers",
+          "source": "arxiv",
+          "date": "2026-05-22T17:55:13Z",
+          "page_url": "https://arxiv.org/abs/2605.23892v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.23892v1",
+          "saved_at": "2026-05-25",
+          "files": {
+            "pdf": "data/news/2026-05-25/good_token_hunting_a_hitchhiker_s_guide_to_token_selection_for_visual_geometry_t.pdf"
+          }
+        },
+        {
+          "title": "Smart-Insertion-V: Photorealistic Video Insertion via a Closed-Loop Feedback Dual-Stream Framework",
+          "source": "arxiv",
+          "date": "2026-05-22T17:54:54Z",
+          "page_url": "https://arxiv.org/abs/2605.23891v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.23891v1",
+          "saved_at": "2026-05-25",
+          "files": {
+            "pdf": "data/news/2026-05-25/smart_insertion_v_photorealistic_video_insertion_via_a_closed_loop_feedback_dual.pdf"
+          }
+        },
+        {
+          "title": "GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction",
+          "source": "arxiv",
+          "date": "2026-05-22T17:49:59Z",
+          "page_url": "https://arxiv.org/abs/2605.23888v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.23888v1",
+          "saved_at": "2026-05-25",
+          "files": {
+            "pdf": "data/news/2026-05-25/genrecon_bridging_generative_priors_for_multi_view_3d_scene_reconstruction.pdf"
+          }
+        },
+        {
+          "title": "LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation",
+          "source": "arxiv",
+          "date": "2026-05-22T17:34:42Z",
+          "page_url": "https://arxiv.org/abs/2605.23878v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.23878v1",
+          "saved_at": "2026-05-25",
+          "files": {
+            "pdf": "data/news/2026-05-25/lamo_self_supervised_latent_motion_priors_for_physical_realism_in_video_generati.pdf"
+          }
+        },
+        {
+          "title": "Soft Mobility Theory",
+          "source": "arxiv",
+          "date": "2026-05-22T17:26:41Z",
+          "page_url": "https://arxiv.org/abs/2605.23869v1",
+          "pdf_url": "https://arxiv.org/pdf/2605.23869v1",
+          "saved_at": "2026-05-25",
+          "files": {
+            "pdf": "data/news/2026-05-25/soft_mobility_theory.pdf"
           }
         }
       ]
