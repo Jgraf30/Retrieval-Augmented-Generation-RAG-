@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T14:01:44.010842Z",
+  "generated_at": "2026-06-08T14:25:57.238489Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -3941,6 +3941,122 @@
           "saved_at": "2026-05-25",
           "files": {
             "pdf": "data/news/2026-05-25/soft_mobility_theory.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "count": 10,
+      "items": [
+        {
+          "title": "Agentopia: Long-Term Life Simulation and Learning in Agent Societies",
+          "source": "arxiv",
+          "date": "2026-06-05T17:59:31Z",
+          "page_url": "https://arxiv.org/abs/2606.07513v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.07513v1",
+          "saved_at": "2026-06-08",
+          "files": {
+            "pdf": "data/news/2026-06-08/agentopia_long_term_life_simulation_and_learning_in_agent_societies.pdf"
+          }
+        },
+        {
+          "title": "Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings",
+          "source": "arxiv",
+          "date": "2026-06-05T17:54:32Z",
+          "page_url": "https://arxiv.org/abs/2606.07502v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.07502v1",
+          "saved_at": "2026-06-08",
+          "files": {
+            "pdf": "data/news/2026-06-08/your_unembedding_matrix_is_secretly_a_feature_lens_for_text_embeddings.pdf"
+          }
+        },
+        {
+          "title": "The Roasting Marshmallows Program with IGRINS on Gemini South V: Atmosphere of MASCARA-1b is Enriched in Refractory Elements",
+          "source": "arxiv",
+          "date": "2026-06-05T17:52:08Z",
+          "page_url": "https://arxiv.org/abs/2606.07497v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.07497v1",
+          "saved_at": "2026-06-08",
+          "files": {
+            "pdf": "data/news/2026-06-08/the_roasting_marshmallows_program_with_igrins_on_gemini_south_v_atmosphere_of_ma.pdf"
+          }
+        },
+        {
+          "title": "Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies",
+          "source": "arxiv",
+          "date": "2026-06-05T17:46:36Z",
+          "page_url": "https://arxiv.org/abs/2606.07492v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.07492v1",
+          "saved_at": "2026-06-08",
+          "files": {
+            "pdf": "data/news/2026-06-08/bradley_terry_rankings_for_recommender_systems_across_dataset_taxonomies.pdf"
+          }
+        },
+        {
+          "title": "CoMetaPNS: Continually Meta-learning Personalized Neural Surrogates for Cardiac Electrophysiology Simulations",
+          "source": "arxiv",
+          "date": "2026-06-05T17:44:42Z",
+          "page_url": "https://arxiv.org/abs/2606.07488v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.07488v1",
+          "saved_at": "2026-06-08",
+          "files": {
+            "pdf": "data/news/2026-06-08/cometapns_continually_meta_learning_personalized_neural_surrogates_for_cardiac_e.pdf"
+          }
+        },
+        {
+          "title": "Drifting Models for Surrogate Flow Modeling",
+          "source": "arxiv",
+          "date": "2026-06-05T17:35:09Z",
+          "page_url": "https://arxiv.org/abs/2606.07481v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.07481v1",
+          "saved_at": "2026-06-08",
+          "files": {
+            "pdf": "data/news/2026-06-08/drifting_models_for_surrogate_flow_modeling.pdf"
+          }
+        },
+        {
+          "title": "Graph Neural Network leveraging Higher-order Class Label Connectivity for Heterophilous Graphs",
+          "source": "arxiv",
+          "date": "2026-06-05T17:28:19Z",
+          "page_url": "https://arxiv.org/abs/2606.07475v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.07475v1",
+          "saved_at": "2026-06-08",
+          "files": {
+            "pdf": "data/news/2026-06-08/graph_neural_network_leveraging_higher_order_class_label_connectivity_for_hetero.pdf"
+          }
+        },
+        {
+          "title": "Driving Exchange Interaction in Spin Qubits with Quasi-Zero Pulses",
+          "source": "arxiv",
+          "date": "2026-06-05T17:24:29Z",
+          "page_url": "https://arxiv.org/abs/2606.07472v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.07472v1",
+          "saved_at": "2026-06-08",
+          "files": {
+            "pdf": "data/news/2026-06-08/driving_exchange_interaction_in_spin_qubits_with_quasi_zero_pulses.pdf"
+          }
+        },
+        {
+          "title": "Stochastic scalar-tensor inflation and beyond",
+          "source": "arxiv",
+          "date": "2026-06-05T17:20:22Z",
+          "page_url": "https://arxiv.org/abs/2606.07467v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.07467v1",
+          "saved_at": "2026-06-08",
+          "files": {
+            "pdf": "data/news/2026-06-08/stochastic_scalar_tensor_inflation_and_beyond.pdf"
+          }
+        },
+        {
+          "title": "Covariance-Adaptive Residualization and Stagewise Calibration for Dependent Multiple Testing",
+          "source": "arxiv",
+          "date": "2026-06-05T17:18:13Z",
+          "page_url": "https://arxiv.org/abs/2606.07466v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.07466v1",
+          "saved_at": "2026-06-08",
+          "files": {
+            "pdf": "data/news/2026-06-08/covariance_adaptive_residualization_and_stagewise_calibration_for_dependent_mult.pdf"
           }
         }
       ]
