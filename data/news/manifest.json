@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T14:25:57.238489Z",
+  "generated_at": "2026-06-15T15:02:53.870787Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -4057,6 +4057,122 @@
           "saved_at": "2026-06-08",
           "files": {
             "pdf": "data/news/2026-06-08/covariance_adaptive_residualization_and_stagewise_calibration_for_dependent_mult.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-06-15",
+      "count": 10,
+      "items": [
+        {
+          "title": "OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains",
+          "source": "arxiv",
+          "date": "2026-06-12T17:59:55Z",
+          "page_url": "https://arxiv.org/abs/2606.14702v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.14702v1",
+          "saved_at": "2026-06-15",
+          "files": {
+            "pdf": "data/news/2026-06-15/omnivideo_100k_a_dataset_for_audio_visual_reasoning_through_structured_scripts_a.pdf"
+          }
+        },
+        {
+          "title": "RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space",
+          "source": "arxiv",
+          "date": "2026-06-12T17:59:51Z",
+          "page_url": "https://arxiv.org/abs/2606.14700v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.14700v1",
+          "saved_at": "2026-06-15",
+          "files": {
+            "pdf": "data/news/2026-06-15/repfusion_leveraging_multimodal_priors_for_denoising_in_representation_space.pdf"
+          }
+        },
+        {
+          "title": "Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit",
+          "source": "arxiv",
+          "date": "2026-06-12T17:52:24Z",
+          "page_url": "https://arxiv.org/abs/2606.14688v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.14688v1",
+          "saved_at": "2026-06-15",
+          "files": {
+            "pdf": "data/news/2026-06-15/flood_and_harvest_the_provable_necessity_of_trivia_for_generating_valuable_mathe.pdf"
+          }
+        },
+        {
+          "title": "Graph Structured Combinatorial Semi-Bandit with Nonlinear Reward Associations through Separable Signals",
+          "source": "arxiv",
+          "date": "2026-06-12T17:11:56Z",
+          "page_url": "https://arxiv.org/abs/2606.14650v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.14650v1",
+          "saved_at": "2026-06-15",
+          "files": {
+            "pdf": "data/news/2026-06-15/graph_structured_combinatorial_semi_bandit_with_nonlinear_reward_associations_th.pdf"
+          }
+        },
+        {
+          "title": "CQC-RAG: Robust Retrieval-Augmented Generation via Cross-Query Consistency",
+          "source": "arxiv",
+          "date": "2026-06-11T15:01:49Z",
+          "page_url": "https://arxiv.org/abs/2606.13438v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.13438v1",
+          "saved_at": "2026-06-15",
+          "files": {
+            "pdf": "data/news/2026-06-15/cqc_rag_robust_retrieval_augmented_generation_via_cross_query_consistency.pdf"
+          }
+        },
+        {
+          "title": "When Poison Fails After Retrieval: Revisiting Corpus Poisoning under Chunking and Reranking Pipelines",
+          "source": "arxiv",
+          "date": "2026-06-09T04:45:28Z",
+          "page_url": "https://arxiv.org/abs/2606.11265v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.11265v1",
+          "saved_at": "2026-06-15",
+          "files": {
+            "pdf": "data/news/2026-06-15/when_poison_fails_after_retrieval_revisiting_corpus_poisoning_under_chunking_and.pdf"
+          }
+        },
+        {
+          "title": "AgentTrust: A Self-Improving Trust Layer for AI-Agent Actions",
+          "source": "arxiv",
+          "date": "2026-06-07T09:39:20Z",
+          "page_url": "https://arxiv.org/abs/2606.08539v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.08539v1",
+          "saved_at": "2026-06-15",
+          "files": {
+            "pdf": "data/news/2026-06-15/agenttrust_a_self_improving_trust_layer_for_ai_agent_actions.pdf"
+          }
+        },
+        {
+          "title": "Self-Augmenting Retrieval for Diffusion Language Models",
+          "source": "arxiv",
+          "date": "2026-06-04T17:56:27Z",
+          "page_url": "https://arxiv.org/abs/2606.06474v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.06474v1",
+          "saved_at": "2026-06-15",
+          "files": {
+            "pdf": "data/news/2026-06-15/self_augmenting_retrieval_for_diffusion_language_models.pdf"
+          }
+        },
+        {
+          "title": "Agent-Orchestrated Adaptive RAG: A Comparative Study on Structured and Multi-Hop Retrieval",
+          "source": "arxiv",
+          "date": "2026-06-04T03:38:46Z",
+          "page_url": "https://arxiv.org/abs/2606.05658v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.05658v1",
+          "saved_at": "2026-06-15",
+          "files": {
+            "pdf": "data/news/2026-06-15/agent_orchestrated_adaptive_rag_a_comparative_study_on_structured_and_multi_hop.pdf"
+          }
+        },
+        {
+          "title": "MemoryDocDataSet: A Benchmark for Joint Conversational Memory and Long Document Reasoning",
+          "source": "arxiv",
+          "date": "2026-06-03T04:44:50Z",
+          "page_url": "https://arxiv.org/abs/2606.04442v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.04442v1",
+          "saved_at": "2026-06-15",
+          "files": {
+            "pdf": "data/news/2026-06-15/memorydocdataset_a_benchmark_for_joint_conversational_memory_and_long_document_r.pdf"
           }
         }
       ]
