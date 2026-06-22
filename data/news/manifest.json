@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T15:02:53.870787Z",
+  "generated_at": "2026-06-22T14:53:42.157244Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -4173,6 +4173,122 @@
           "saved_at": "2026-06-15",
           "files": {
             "pdf": "data/news/2026-06-15/memorydocdataset_a_benchmark_for_joint_conversational_memory_and_long_document_r.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-06-22",
+      "count": 10,
+      "items": [
+        {
+          "title": "UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning",
+          "source": "arxiv",
+          "date": "2026-06-18T17:59:45Z",
+          "page_url": "https://arxiv.org/abs/2606.20559v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.20559v1",
+          "saved_at": "2026-06-22",
+          "files": {
+            "pdf": "data/news/2026-06-22/uniego_proxies_as_mediators_for_unified_egocentric_video_representation_learning.pdf"
+          }
+        },
+        {
+          "title": "From Efficiency to Leakage -- Privacy Backdoor in Federated Language Model Fine-Tuning",
+          "source": "arxiv",
+          "date": "2026-06-18T17:58:25Z",
+          "page_url": "https://arxiv.org/abs/2606.20553v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.20553v1",
+          "saved_at": "2026-06-22",
+          "files": {
+            "pdf": "data/news/2026-06-22/from_efficiency_to_leakage_privacy_backdoor_in_federated_language_model_fine_tun.pdf"
+          }
+        },
+        {
+          "title": "Current World Models Lack a Persistent State Core",
+          "source": "arxiv",
+          "date": "2026-06-18T17:55:15Z",
+          "page_url": "https://arxiv.org/abs/2606.20545v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.20545v1",
+          "saved_at": "2026-06-22",
+          "files": {
+            "pdf": "data/news/2026-06-22/current_world_models_lack_a_persistent_state_core.pdf"
+          }
+        },
+        {
+          "title": "SSD: Spatially Speculative Decoding Accelerates Autoregressive Image Generation",
+          "source": "arxiv",
+          "date": "2026-06-18T17:52:30Z",
+          "page_url": "https://arxiv.org/abs/2606.20543v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.20543v1",
+          "saved_at": "2026-06-22",
+          "files": {
+            "pdf": "data/news/2026-06-22/ssd_spatially_speculative_decoding_accelerates_autoregressive_image_generation.pdf"
+          }
+        },
+        {
+          "title": "Caching for Dollars, Not Hits: An Exact Offline Reference for Cloud-Egress Caching and the Crossover That Decides When It Pays",
+          "source": "arxiv",
+          "date": "2026-06-18T17:51:45Z",
+          "page_url": "https://arxiv.org/abs/2606.20539v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.20539v1",
+          "saved_at": "2026-06-22",
+          "files": {
+            "pdf": "data/news/2026-06-22/caching_for_dollars_not_hits_an_exact_offline_reference_for_cloud_egress_caching.pdf"
+          }
+        },
+        {
+          "title": "The FID Lottery: Quantifying Hidden Randomness in Generative-Model Evaluation",
+          "source": "arxiv",
+          "date": "2026-06-18T17:49:32Z",
+          "page_url": "https://arxiv.org/abs/2606.20536v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.20536v1",
+          "saved_at": "2026-06-22",
+          "files": {
+            "pdf": "data/news/2026-06-22/the_fid_lottery_quantifying_hidden_randomness_in_generative_model_evaluation.pdf"
+          }
+        },
+        {
+          "title": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
+          "source": "arxiv",
+          "date": "2026-06-18T17:41:56Z",
+          "page_url": "https://arxiv.org/abs/2606.20529v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.20529v1",
+          "saved_at": "2026-06-22",
+          "files": {
+            "pdf": "data/news/2026-06-22/ledgeragent_structured_state_for_policy_adherent_tool_calling_agents.pdf"
+          }
+        },
+        {
+          "title": "Probe-and-Refine Tuning of Repository Guidance for Coding Agents",
+          "source": "arxiv",
+          "date": "2026-06-18T17:30:15Z",
+          "page_url": "https://arxiv.org/abs/2606.20512v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.20512v1",
+          "saved_at": "2026-06-22",
+          "files": {
+            "pdf": "data/news/2026-06-22/probe_and_refine_tuning_of_repository_guidance_for_coding_agents.pdf"
+          }
+        },
+        {
+          "title": "State estimation of Rayleigh-B\u00e9nard convection with reduced-order models",
+          "source": "arxiv",
+          "date": "2026-06-18T17:28:57Z",
+          "page_url": "https://arxiv.org/abs/2606.20511v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.20511v1",
+          "saved_at": "2026-06-22",
+          "files": {
+            "pdf": "data/news/2026-06-22/state_estimation_of_rayleigh_b_nard_convection_with_reduced_order_models.pdf"
+          }
+        },
+        {
+          "title": "Train, Retrieve, or Both? A Four-Arm Head-to-Head for Correct Statutory Citation on the Ontario Residential Tenancies Act",
+          "source": "arxiv",
+          "date": "2026-06-18T15:21:53Z",
+          "page_url": "https://arxiv.org/abs/2606.20359v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.20359v1",
+          "saved_at": "2026-06-22",
+          "files": {
+            "pdf": "data/news/2026-06-22/train_retrieve_or_both_a_four_arm_head_to_head_for_correct_statutory_citation_on.pdf"
           }
         }
       ]
