@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T14:53:42.157244Z",
+  "generated_at": "2026-06-29T14:24:04.952527Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -4289,6 +4289,122 @@
           "saved_at": "2026-06-22",
           "files": {
             "pdf": "data/news/2026-06-22/train_retrieve_or_both_a_four_arm_head_to_head_for_correct_statutory_citation_on.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "count": 10,
+      "items": [
+        {
+          "title": "The multiply iterated law of the iterated logarithm: game-theoretic foundations of sequential detection boundaries",
+          "source": "arxiv",
+          "date": "2026-06-26T17:59:58Z",
+          "page_url": "https://arxiv.org/abs/2606.28324v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.28324v1",
+          "saved_at": "2026-06-29",
+          "files": {
+            "pdf": "data/news/2026-06-29/the_multiply_iterated_law_of_the_iterated_logarithm_game_theoretic_foundations_o.pdf"
+          }
+        },
+        {
+          "title": "PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception",
+          "source": "arxiv",
+          "date": "2026-06-26T17:59:15Z",
+          "page_url": "https://arxiv.org/abs/2606.28322v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.28322v1",
+          "saved_at": "2026-06-29",
+          "files": {
+            "pdf": "data/news/2026-06-29/perceptionrubrics_calibrating_multimodal_evaluation_to_human_perception.pdf"
+          }
+        },
+        {
+          "title": "StructSplat: Generalizable 3D Gaussian Splatting from Uncalibrated Sparse Views",
+          "source": "arxiv",
+          "date": "2026-06-26T17:59:06Z",
+          "page_url": "https://arxiv.org/abs/2606.28321v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.28321v1",
+          "saved_at": "2026-06-29",
+          "files": {
+            "pdf": "data/news/2026-06-29/structsplat_generalizable_3d_gaussian_splatting_from_uncalibrated_sparse_views.pdf"
+          }
+        },
+        {
+          "title": "WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation",
+          "source": "arxiv",
+          "date": "2026-06-26T17:58:06Z",
+          "page_url": "https://arxiv.org/abs/2606.28320v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.28320v1",
+          "saved_at": "2026-06-29",
+          "files": {
+            "pdf": "data/news/2026-06-29/warp_rm_a_warp_augmented_relative_progress_reward_model_for_data_curation.pdf"
+          }
+        },
+        {
+          "title": "Generalizing the interacting dilatonic ghost condensate as a dark energy model",
+          "source": "arxiv",
+          "date": "2026-06-26T17:33:53Z",
+          "page_url": "https://arxiv.org/abs/2606.28288v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.28288v1",
+          "saved_at": "2026-06-29",
+          "files": {
+            "pdf": "data/news/2026-06-29/generalizing_the_interacting_dilatonic_ghost_condensate_as_a_dark_energy_model.pdf"
+          }
+        },
+        {
+          "title": "V-TSN: A Software-Defined TSN Overlay for General-Purpose Networks",
+          "source": "arxiv",
+          "date": "2026-06-26T17:29:57Z",
+          "page_url": "https://arxiv.org/abs/2606.28285v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.28285v1",
+          "saved_at": "2026-06-29",
+          "files": {
+            "pdf": "data/news/2026-06-29/v_tsn_a_software_defined_tsn_overlay_for_general_purpose_networks.pdf"
+          }
+        },
+        {
+          "title": "SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation",
+          "source": "arxiv",
+          "date": "2026-06-26T17:18:43Z",
+          "page_url": "https://arxiv.org/abs/2606.28276v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.28276v1",
+          "saved_at": "2026-06-29",
+          "files": {
+            "pdf": "data/news/2026-06-29/simfoundry_modular_and_automated_scene_generation_for_policy_learning_and_evalua.pdf"
+          }
+        },
+        {
+          "title": "Semantics-Enhanced Retrieval-Augmented Time Series Forecasting",
+          "source": "arxiv",
+          "date": "2026-06-12T20:32:10Z",
+          "page_url": "https://arxiv.org/abs/2606.14941v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.14941v1",
+          "saved_at": "2026-06-29",
+          "files": {
+            "pdf": "data/news/2026-06-29/semantics_enhanced_retrieval_augmented_time_series_forecasting.pdf"
+          }
+        },
+        {
+          "title": "Closing the Prior-Posterior Loop: Self-Reflective Molecular Design with Analysis-Driven LLM Iteration",
+          "source": "arxiv",
+          "date": "2026-06-18T20:24:58Z",
+          "page_url": "https://arxiv.org/abs/2606.09520v2",
+          "pdf_url": "https://arxiv.org/pdf/2606.09520v2",
+          "saved_at": "2026-06-29",
+          "files": {
+            "pdf": "data/news/2026-06-29/closing_the_prior_posterior_loop_self_reflective_molecular_design_with_analysis.pdf"
+          }
+        },
+        {
+          "title": "LongLive-RAG: A General Retrieval-Augmented Framework for Long Video Generation",
+          "source": "arxiv",
+          "date": "2026-06-01T17:50:49Z",
+          "page_url": "https://arxiv.org/abs/2606.02553v1",
+          "pdf_url": "https://arxiv.org/pdf/2606.02553v1",
+          "saved_at": "2026-06-29",
+          "files": {
+            "pdf": "data/news/2026-06-29/longlive_rag_a_general_retrieval_augmented_framework_for_long_video_generation.pdf"
           }
         }
       ]
