@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T14:24:04.952527Z",
+  "generated_at": "2026-07-06T14:11:55.510697Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -4405,6 +4405,122 @@
           "saved_at": "2026-06-29",
           "files": {
             "pdf": "data/news/2026-06-29/longlive_rag_a_general_retrieval_augmented_framework_for_long_video_generation.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "count": 10,
+      "items": [
+        {
+          "title": "WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory",
+          "source": "arxiv",
+          "date": "2026-07-02T17:59:59Z",
+          "page_url": "https://arxiv.org/abs/2607.02517v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.02517v1",
+          "saved_at": "2026-07-06",
+          "files": {
+            "pdf": "data/news/2026-07-06/worlddirector_building_controllable_world_simulators_with_persistent_dynamic_mem.pdf"
+          }
+        },
+        {
+          "title": "Alignment Is All You Need For X-to-4D Generation",
+          "source": "arxiv",
+          "date": "2026-07-02T17:59:57Z",
+          "page_url": "https://arxiv.org/abs/2607.02516v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.02516v1",
+          "saved_at": "2026-07-06",
+          "files": {
+            "pdf": "data/news/2026-07-06/alignment_is_all_you_need_for_x_to_4d_generation.pdf"
+          }
+        },
+        {
+          "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+          "source": "arxiv",
+          "date": "2026-07-02T17:59:26Z",
+          "page_url": "https://arxiv.org/abs/2607.02509v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.02509v1",
+          "saved_at": "2026-07-06",
+          "files": {
+            "pdf": "data/news/2026-07-06/recontext_recursive_evidence_replay_as_llm_harness_for_long_context_reasoning.pdf"
+          }
+        },
+        {
+          "title": "VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation",
+          "source": "arxiv",
+          "date": "2026-07-02T17:58:36Z",
+          "page_url": "https://arxiv.org/abs/2607.02503v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.02503v1",
+          "saved_at": "2026-07-06",
+          "files": {
+            "pdf": "data/news/2026-07-06/vt_wam_visual_tactile_world_action_model_for_contact_rich_manipulation.pdf"
+          }
+        },
+        {
+          "title": "Visually Grounded Self-Reflection for Vision-Language Models via Reinforcement Learning",
+          "source": "arxiv",
+          "date": "2026-07-02T17:53:15Z",
+          "page_url": "https://arxiv.org/abs/2607.02490v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.02490v1",
+          "saved_at": "2026-07-06",
+          "files": {
+            "pdf": "data/news/2026-07-06/visually_grounded_self_reflection_for_vision_language_models_via_reinforcement_l.pdf"
+          }
+        },
+        {
+          "title": "GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training",
+          "source": "arxiv",
+          "date": "2026-07-02T17:52:41Z",
+          "page_url": "https://arxiv.org/abs/2607.02486v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.02486v1",
+          "saved_at": "2026-07-06",
+          "files": {
+            "pdf": "data/news/2026-07-06/geomix_descriptor_free_visual_localization_via_global_context_and_multi_detector.pdf"
+          }
+        },
+        {
+          "title": "Robustness and hyperstability for the Erd\u0151s-Gallai theorem",
+          "source": "arxiv",
+          "date": "2026-07-02T17:50:56Z",
+          "page_url": "https://arxiv.org/abs/2607.02483v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.02483v1",
+          "saved_at": "2026-07-06",
+          "files": {
+            "pdf": "data/news/2026-07-06/robustness_and_hyperstability_for_the_erd_s_gallai_theorem.pdf"
+          }
+        },
+        {
+          "title": "TestEvo-Bench: An Executable and Live Benchmark for Test and Code Co-Evolution",
+          "source": "arxiv",
+          "date": "2026-07-02T17:35:20Z",
+          "page_url": "https://arxiv.org/abs/2607.02469v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.02469v1",
+          "saved_at": "2026-07-06",
+          "files": {
+            "pdf": "data/news/2026-07-06/testevo_bench_an_executable_and_live_benchmark_for_test_and_code_co_evolution.pdf"
+          }
+        },
+        {
+          "title": "Will Scaling Improve Social Simulation with LLMs?",
+          "source": "arxiv",
+          "date": "2026-07-02T17:30:38Z",
+          "page_url": "https://arxiv.org/abs/2607.02464v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.02464v1",
+          "saved_at": "2026-07-06",
+          "files": {
+            "pdf": "data/news/2026-07-06/will_scaling_improve_social_simulation_with_llms.pdf"
+          }
+        },
+        {
+          "title": "Quantum mutual information as a robust probe of integrability in open quantum systems",
+          "source": "arxiv",
+          "date": "2026-07-02T17:28:38Z",
+          "page_url": "https://arxiv.org/abs/2607.02462v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.02462v1",
+          "saved_at": "2026-07-06",
+          "files": {
+            "pdf": "data/news/2026-07-06/quantum_mutual_information_as_a_robust_probe_of_integrability_in_open_quantum_sy.pdf"
           }
         }
       ]
