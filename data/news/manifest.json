@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T14:11:55.510697Z",
+  "generated_at": "2026-07-13T15:40:04.471652Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -4521,6 +4521,122 @@
           "saved_at": "2026-07-06",
           "files": {
             "pdf": "data/news/2026-07-06/quantum_mutual_information_as_a_robust_probe_of_integrability_in_open_quantum_sy.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-07-13",
+      "count": 10,
+      "items": [
+        {
+          "title": "PanoWorld: Real-World Panoramic Generation",
+          "source": "arxiv",
+          "date": "2026-07-10T17:59:32Z",
+          "page_url": "https://arxiv.org/abs/2607.09661v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.09661v1",
+          "saved_at": "2026-07-13",
+          "files": {
+            "pdf": "data/news/2026-07-13/panoworld_real_world_panoramic_generation.pdf"
+          }
+        },
+        {
+          "title": "OpenLongTail: Generative Scaling of Long-Tail Driving Data",
+          "source": "arxiv",
+          "date": "2026-07-10T17:54:14Z",
+          "page_url": "https://arxiv.org/abs/2607.09655v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.09655v1",
+          "saved_at": "2026-07-13",
+          "files": {
+            "pdf": "data/news/2026-07-13/openlongtail_generative_scaling_of_long_tail_driving_data.pdf"
+          }
+        },
+        {
+          "title": "Indirect and Direct AI Scaffolding for Computational Problem Posing: A Pilot Experience Report",
+          "source": "arxiv",
+          "date": "2026-07-10T17:25:34Z",
+          "page_url": "https://arxiv.org/abs/2607.09628v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.09628v1",
+          "saved_at": "2026-07-13",
+          "files": {
+            "pdf": "data/news/2026-07-13/indirect_and_direct_ai_scaffolding_for_computational_problem_posing_a_pilot_expe.pdf"
+          }
+        },
+        {
+          "title": "Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incremental Reasoning for QANTA 2026",
+          "source": "arxiv",
+          "date": "2026-07-10T17:22:49Z",
+          "page_url": "https://arxiv.org/abs/2607.09623v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.09623v1",
+          "saved_at": "2026-07-13",
+          "files": {
+            "pdf": "data/news/2026-07-13/task_specific_multimodal_question_answering_agents_via_confidence_calibration_an.pdf"
+          }
+        },
+        {
+          "title": "Non-Equilibrium Economics: A Physicist's Point of View",
+          "source": "arxiv",
+          "date": "2026-07-10T17:19:36Z",
+          "page_url": "https://arxiv.org/abs/2607.09620v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.09620v1",
+          "saved_at": "2026-07-13",
+          "files": {
+            "pdf": "data/news/2026-07-13/non_equilibrium_economics_a_physicist_s_point_of_view.pdf"
+          }
+        },
+        {
+          "title": "LLM for EDA in Front-End Design: Challenges and Opportunities",
+          "source": "arxiv",
+          "date": "2026-07-10T17:15:54Z",
+          "page_url": "https://arxiv.org/abs/2607.09616v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.09616v1",
+          "saved_at": "2026-07-13",
+          "files": {
+            "pdf": "data/news/2026-07-13/llm_for_eda_in_front_end_design_challenges_and_opportunities.pdf"
+          }
+        },
+        {
+          "title": "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE",
+          "source": "arxiv",
+          "date": "2026-07-10T03:53:58Z",
+          "page_url": "https://arxiv.org/abs/2607.07740v2",
+          "pdf_url": "https://arxiv.org/pdf/2607.07740v2",
+          "saved_at": "2026-07-13",
+          "files": {
+            "pdf": "data/news/2026-07-13/jet_long_efficient_long_context_extension_with_dynamic_bifocal_rope.pdf"
+          }
+        },
+        {
+          "title": "Code-Level Cost Function Generation for Spatial Image Steganography Using RAG-Enhanced Large Language Models",
+          "source": "arxiv",
+          "date": "2026-07-07T05:58:33Z",
+          "page_url": "https://arxiv.org/abs/2607.05868v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.05868v1",
+          "saved_at": "2026-07-13",
+          "files": {
+            "pdf": "data/news/2026-07-13/code_level_cost_function_generation_for_spatial_image_steganography_using_rag_en.pdf"
+          }
+        },
+        {
+          "title": "Detecting Hallucinations in Retrieval-Augmented Generation through Grounding-Aware Sensitivity by Perturbation (GASP)",
+          "source": "arxiv",
+          "date": "2026-07-05T10:35:30Z",
+          "page_url": "https://arxiv.org/abs/2607.04223v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.04223v1",
+          "saved_at": "2026-07-13",
+          "files": {
+            "pdf": "data/news/2026-07-13/detecting_hallucinations_in_retrieval_augmented_generation_through_grounding_awa.pdf"
+          }
+        },
+        {
+          "title": "Candidate-Constrained Retrieval-Augmented Generation for LongEval-RAG: System Design and Empirical Analysis",
+          "source": "arxiv",
+          "date": "2026-07-04T20:07:57Z",
+          "page_url": "https://arxiv.org/abs/2607.04008v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.04008v1",
+          "saved_at": "2026-07-13",
+          "files": {
+            "pdf": "data/news/2026-07-13/candidate_constrained_retrieval_augmented_generation_for_longeval_rag_system_des.pdf"
           }
         }
       ]
