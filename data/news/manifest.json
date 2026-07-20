@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T15:40:04.471652Z",
+  "generated_at": "2026-07-20T15:03:38.640902Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -4637,6 +4637,122 @@
           "saved_at": "2026-07-13",
           "files": {
             "pdf": "data/news/2026-07-13/candidate_constrained_retrieval_augmented_generation_for_longeval_rag_system_des.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-07-20",
+      "count": 10,
+      "items": [
+        {
+          "title": "MotionForesight: Re-purposing Video Models for Future 3D Scene-Flow Prediction",
+          "source": "arxiv",
+          "date": "2026-07-17T17:59:38Z",
+          "page_url": "https://arxiv.org/abs/2607.16192v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.16192v1",
+          "saved_at": "2026-07-20",
+          "files": {
+            "pdf": "data/news/2026-07-20/motionforesight_re_purposing_video_models_for_future_3d_scene_flow_prediction.pdf"
+          }
+        },
+        {
+          "title": "FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation",
+          "source": "arxiv",
+          "date": "2026-07-17T17:59:32Z",
+          "page_url": "https://arxiv.org/abs/2607.16190v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.16190v1",
+          "saved_at": "2026-07-20",
+          "files": {
+            "pdf": "data/news/2026-07-20/fvattn_adaptive_sparse_attention_with_runtime_load_balancing_for_video_generatio.pdf"
+          }
+        },
+        {
+          "title": "A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynamic Computing",
+          "source": "arxiv",
+          "date": "2026-07-17T17:57:49Z",
+          "page_url": "https://arxiv.org/abs/2607.16183v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.16183v1",
+          "saved_at": "2026-07-20",
+          "files": {
+            "pdf": "data/news/2026-07-20/a_blueprint_for_equilibrium_based_differentiable_continuous_variable_thermodynam.pdf"
+          }
+        },
+        {
+          "title": "Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems",
+          "source": "arxiv",
+          "date": "2026-07-17T17:56:05Z",
+          "page_url": "https://arxiv.org/abs/2607.16177v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.16177v1",
+          "saved_at": "2026-07-20",
+          "files": {
+            "pdf": "data/news/2026-07-20/physics_enhanced_reinforcement_learning_for_real_time_optimal_control_of_dynamic.pdf"
+          }
+        },
+        {
+          "title": "The Internet of Things for Smart Manufacturing: A Review",
+          "source": "arxiv",
+          "date": "2026-07-17T17:52:26Z",
+          "page_url": "https://arxiv.org/abs/2607.16172v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.16172v1",
+          "saved_at": "2026-07-20",
+          "files": {
+            "pdf": "data/news/2026-07-20/the_internet_of_things_for_smart_manufacturing_a_review.pdf"
+          }
+        },
+        {
+          "title": "Adaptive Fault Injection Planning for Multi-Layer Self-Healing AI Infrastructure",
+          "source": "arxiv",
+          "date": "2026-07-17T17:40:46Z",
+          "page_url": "https://arxiv.org/abs/2607.16161v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.16161v1",
+          "saved_at": "2026-07-20",
+          "files": {
+            "pdf": "data/news/2026-07-20/adaptive_fault_injection_planning_for_multi_layer_self_healing_ai_infrastructure.pdf"
+          }
+        },
+        {
+          "title": "Eccentricity as a Magnifying Glass: Precision Population Inference Enabled by Eccentric Neutron Star--Black Hole Mergers",
+          "source": "arxiv",
+          "date": "2026-07-17T17:16:49Z",
+          "page_url": "https://arxiv.org/abs/2607.16136v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.16136v1",
+          "saved_at": "2026-07-20",
+          "files": {
+            "pdf": "data/news/2026-07-20/eccentricity_as_a_magnifying_glass_precision_population_inference_enabled_by_ecc.pdf"
+          }
+        },
+        {
+          "title": "Global kilometer-scale climate simulations: new opportunities for climate services",
+          "source": "arxiv",
+          "date": "2026-07-17T17:03:45Z",
+          "page_url": "https://arxiv.org/abs/2607.16125v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.16125v1",
+          "saved_at": "2026-07-20",
+          "files": {
+            "pdf": "data/news/2026-07-20/global_kilometer_scale_climate_simulations_new_opportunities_for_climate_service.pdf"
+          }
+        },
+        {
+          "title": "CRAFT: Clustering Rubrics to Diagnose Weak LLM Capabilities and Generate Targeted Fine-Tuning Data",
+          "source": "arxiv",
+          "date": "2026-07-17T17:00:38Z",
+          "page_url": "https://arxiv.org/abs/2607.16122v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.16122v1",
+          "saved_at": "2026-07-20",
+          "files": {
+            "pdf": "data/news/2026-07-20/craft_clustering_rubrics_to_diagnose_weak_llm_capabilities_and_generate_targeted.pdf"
+          }
+        },
+        {
+          "title": "EduGuard: A Safe RAG-Based LLM Tutor for Programming Education",
+          "source": "arxiv",
+          "date": "2026-07-17T08:18:18Z",
+          "page_url": "https://arxiv.org/abs/2607.15738v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.15738v1",
+          "saved_at": "2026-07-20",
+          "files": {
+            "pdf": "data/news/2026-07-20/eduguard_a_safe_rag_based_llm_tutor_for_programming_education.pdf"
           }
         }
       ]
