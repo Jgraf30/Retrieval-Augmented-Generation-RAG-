@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T15:03:38.640902Z",
+  "generated_at": "2026-07-27T15:49:29.210529Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -4753,6 +4753,122 @@
           "saved_at": "2026-07-20",
           "files": {
             "pdf": "data/news/2026-07-20/eduguard_a_safe_rag_based_llm_tutor_for_programming_education.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-07-27",
+      "count": 10,
+      "items": [
+        {
+          "title": "Twins: Learn to Predict Unified Representations with Focal Loss",
+          "source": "arxiv",
+          "date": "2026-07-24T17:59:39Z",
+          "page_url": "https://arxiv.org/abs/2607.22531v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.22531v1",
+          "saved_at": "2026-07-27",
+          "files": {
+            "pdf": "data/news/2026-07-27/twins_learn_to_predict_unified_representations_with_focal_loss.pdf"
+          }
+        },
+        {
+          "title": "ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation",
+          "source": "arxiv",
+          "date": "2026-07-24T17:59:33Z",
+          "page_url": "https://arxiv.org/abs/2607.22530v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.22530v1",
+          "saved_at": "2026-07-27",
+          "files": {
+            "pdf": "data/news/2026-07-27/vitacworld_scaling_visuo_tactile_world_models_for_contact_rich_robot_manipulatio.pdf"
+          }
+        },
+        {
+          "title": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills",
+          "source": "arxiv",
+          "date": "2026-07-24T17:59:22Z",
+          "page_url": "https://arxiv.org/abs/2607.22529v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.22529v1",
+          "saved_at": "2026-07-27",
+          "files": {
+            "pdf": "data/news/2026-07-27/skill_self_play_pushing_the_frontier_of_llm_capability_with_co_evolving_skills.pdf"
+          }
+        },
+        {
+          "title": "Correlated Coherent Errors in Stabilizer Codes: A General Cumulant Framework and Interference-Based Error Suppression",
+          "source": "arxiv",
+          "date": "2026-07-24T17:16:19Z",
+          "page_url": "https://arxiv.org/abs/2607.22503v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.22503v1",
+          "saved_at": "2026-07-27",
+          "files": {
+            "pdf": "data/news/2026-07-27/correlated_coherent_errors_in_stabilizer_codes_a_general_cumulant_framework_and.pdf"
+          }
+        },
+        {
+          "title": "The V-fold jackknife for semiparametric inference: variance estimation, confidence intervals, and simultaneous confidence bands",
+          "source": "arxiv",
+          "date": "2026-07-24T17:05:54Z",
+          "page_url": "https://arxiv.org/abs/2607.22493v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.22493v1",
+          "saved_at": "2026-07-27",
+          "files": {
+            "pdf": "data/news/2026-07-27/the_v_fold_jackknife_for_semiparametric_inference_variance_estimation_confidence.pdf"
+          }
+        },
+        {
+          "title": "Learning on the Job: Continual Learning from Deployment Feedback for Frozen-Weights Agents",
+          "source": "arxiv",
+          "date": "2026-07-24T10:01:00Z",
+          "page_url": "https://arxiv.org/abs/2607.22157v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.22157v1",
+          "saved_at": "2026-07-27",
+          "files": {
+            "pdf": "data/news/2026-07-27/learning_on_the_job_continual_learning_from_deployment_feedback_for_frozen_weigh.pdf"
+          }
+        },
+        {
+          "title": "Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Primary School Earthquake Education",
+          "source": "arxiv",
+          "date": "2026-07-15T17:15:16Z",
+          "page_url": "https://arxiv.org/abs/2607.14046v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.14046v1",
+          "saved_at": "2026-07-27",
+          "files": {
+            "pdf": "data/news/2026-07-27/earthquaker_ai_a_retrieval_augmented_generation_framework_with_rubric_based_asse.pdf"
+          }
+        },
+        {
+          "title": "RAGthoven at SemEval-2026 Task 1: A Multi-Stage Pipeline Walks Into a Benchmark and Barely Clears the Bar",
+          "source": "arxiv",
+          "date": "2026-07-14T18:39:33Z",
+          "page_url": "https://arxiv.org/abs/2607.13189v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.13189v1",
+          "saved_at": "2026-07-27",
+          "files": {
+            "pdf": "data/news/2026-07-27/ragthoven_at_semeval_2026_task_1_a_multi_stage_pipeline_walks_into_a_benchmark_a.pdf"
+          }
+        },
+        {
+          "title": "EvoGraph-R1: Self-Evolving Multimodal Knowledge Hypergraphs for Agentic Retrieval",
+          "source": "arxiv",
+          "date": "2026-07-14T13:34:07Z",
+          "page_url": "https://arxiv.org/abs/2607.12764v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.12764v1",
+          "saved_at": "2026-07-27",
+          "files": {
+            "pdf": "data/news/2026-07-27/evograph_r1_self_evolving_multimodal_knowledge_hypergraphs_for_agentic_retrieval.pdf"
+          }
+        },
+        {
+          "title": "Enhancing LLMs through human feedback: a journey towards self-improvement",
+          "source": "arxiv",
+          "date": "2026-07-13T08:51:08Z",
+          "page_url": "https://arxiv.org/abs/2607.11267v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.11267v1",
+          "saved_at": "2026-07-27",
+          "files": {
+            "pdf": "data/news/2026-07-27/enhancing_llms_through_human_feedback_a_journey_towards_self_improvement.pdf"
           }
         }
       ]
