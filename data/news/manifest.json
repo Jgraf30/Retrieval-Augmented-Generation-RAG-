@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T15:49:29.210529Z",
+  "generated_at": "2026-08-03T15:39:25.822398Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -4869,6 +4869,122 @@
           "saved_at": "2026-07-27",
           "files": {
             "pdf": "data/news/2026-07-27/enhancing_llms_through_human_feedback_a_journey_towards_self_improvement.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "count": 10,
+      "items": [
+        {
+          "title": "Diagnosing Compositional Generalization in Sequential Robot Tasks",
+          "source": "arxiv",
+          "date": "2026-07-31T17:59:59Z",
+          "page_url": "https://arxiv.org/abs/2607.29687v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.29687v1",
+          "saved_at": "2026-08-03",
+          "files": {
+            "pdf": "data/news/2026-08-03/diagnosing_compositional_generalization_in_sequential_robot_tasks.pdf"
+          }
+        },
+        {
+          "title": "Distribution and Transport of Fragmenting Microplastics in a 3D Global Eulerian Model",
+          "source": "arxiv",
+          "date": "2026-07-31T17:19:22Z",
+          "page_url": "https://arxiv.org/abs/2607.29643v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.29643v1",
+          "saved_at": "2026-08-03",
+          "files": {
+            "pdf": "data/news/2026-08-03/distribution_and_transport_of_fragmenting_microplastics_in_a_3d_global_eulerian.pdf"
+          }
+        },
+        {
+          "title": "OASIS: Occlusion-aware Single-image Hand Avatar Reconstruction via 3D Gaussian Splatting",
+          "source": "arxiv",
+          "date": "2026-07-31T17:09:46Z",
+          "page_url": "https://arxiv.org/abs/2607.29633v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.29633v1",
+          "saved_at": "2026-08-03",
+          "files": {
+            "pdf": "data/news/2026-08-03/oasis_occlusion_aware_single_image_hand_avatar_reconstruction_via_3d_gaussian_sp.pdf"
+          }
+        },
+        {
+          "title": "FlexComposer: Unified Video Compositing from Images to Dynamic Footage with Flexible Trajectory Control",
+          "source": "arxiv",
+          "date": "2026-07-31T16:59:46Z",
+          "page_url": "https://arxiv.org/abs/2607.29627v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.29627v1",
+          "saved_at": "2026-08-03",
+          "files": {
+            "pdf": "data/news/2026-08-03/flexcomposer_unified_video_compositing_from_images_to_dynamic_footage_with_flexi.pdf"
+          }
+        },
+        {
+          "title": "From Single- to Cross-Document: Benchmarking Multi-Granularity Event Analysis of Large Language Models",
+          "source": "arxiv",
+          "date": "2026-07-30T04:06:55Z",
+          "page_url": "https://arxiv.org/abs/2607.27654v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.27654v1",
+          "saved_at": "2026-08-03",
+          "files": {
+            "pdf": "data/news/2026-08-03/from_single_to_cross_document_benchmarking_multi_granularity_event_analysis_of_l.pdf"
+          }
+        },
+        {
+          "title": "Agent-UCT: Upper Confidence Bounds Applied to Trees for Agentic Workflow Optimization with Cost-Awareness",
+          "source": "arxiv",
+          "date": "2026-07-28T18:08:04Z",
+          "page_url": "https://arxiv.org/abs/2607.24162v2",
+          "pdf_url": "https://arxiv.org/pdf/2607.24162v2",
+          "saved_at": "2026-08-03",
+          "files": {
+            "pdf": "data/news/2026-08-03/agent_uct_upper_confidence_bounds_applied_to_trees_for_agentic_workflow_optimiza.pdf"
+          }
+        },
+        {
+          "title": "When Should Active RAG Retrieve? A Budget-Aware Evaluation of Utility, Calibration, and Cost",
+          "source": "arxiv",
+          "date": "2026-07-27T05:17:06Z",
+          "page_url": "https://arxiv.org/abs/2607.24010v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.24010v1",
+          "saved_at": "2026-08-03",
+          "files": {
+            "pdf": "data/news/2026-08-03/when_should_active_rag_retrieve_a_budget_aware_evaluation_of_utility_calibration.pdf"
+          }
+        },
+        {
+          "title": "Retrieval-Augmented Generation in LLMs for Mental Health: Quantifying the Incremental Contribution of Retrieval Within a Layered Safety Architecture",
+          "source": "arxiv",
+          "date": "2026-07-17T06:32:12Z",
+          "page_url": "https://arxiv.org/abs/2607.24817v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.24817v1",
+          "saved_at": "2026-08-03",
+          "files": {
+            "pdf": "data/news/2026-08-03/retrieval_augmented_generation_in_llms_for_mental_health_quantifying_the_increme.pdf"
+          }
+        },
+        {
+          "title": "Eval-Pair Matrix: Answer-Paired Meta-Evaluation of LLM Judges for Grounded RAG",
+          "source": "arxiv",
+          "date": "2026-07-12T07:39:45Z",
+          "page_url": "https://arxiv.org/abs/2607.10626v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.10626v1",
+          "saved_at": "2026-08-03",
+          "files": {
+            "pdf": "data/news/2026-08-03/eval_pair_matrix_answer_paired_meta_evaluation_of_llm_judges_for_grounded_rag.pdf"
+          }
+        },
+        {
+          "title": "HETERQA: Benchmarking Record Retrieval over Multiple Heterogeneous Sources",
+          "source": "arxiv",
+          "date": "2026-07-03T07:18:33Z",
+          "page_url": "https://arxiv.org/abs/2607.03028v1",
+          "pdf_url": "https://arxiv.org/pdf/2607.03028v1",
+          "saved_at": "2026-08-03",
+          "files": {
+            "pdf": "data/news/2026-08-03/heterqa_benchmarking_record_retrieval_over_multiple_heterogeneous_sources.pdf"
           }
         }
       ]
