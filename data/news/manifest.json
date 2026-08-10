@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T15:39:25.822398Z",
+  "generated_at": "2026-08-10T14:14:54.719927Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -4985,6 +4985,122 @@
           "saved_at": "2026-08-03",
           "files": {
             "pdf": "data/news/2026-08-03/heterqa_benchmarking_record_retrieval_over_multiple_heterogeneous_sources.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "count": 10,
+      "items": [
+        {
+          "title": "MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation",
+          "source": "arxiv",
+          "date": "2026-08-07T17:58:10Z",
+          "page_url": "https://arxiv.org/abs/2608.07463v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.07463v1",
+          "saved_at": "2026-08-10",
+          "files": {
+            "pdf": "data/news/2026-08-10/mirrorworld_taming_video_diffusion_models_for_mirror_reflection_generation.pdf"
+          }
+        },
+        {
+          "title": "SemBridge: Semantic Token Anchoring for Continuous-Latent Autoregressive Speech Generation",
+          "source": "arxiv",
+          "date": "2026-08-07T17:57:45Z",
+          "page_url": "https://arxiv.org/abs/2608.07462v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.07462v1",
+          "saved_at": "2026-08-10",
+          "files": {
+            "pdf": "data/news/2026-08-10/sembridge_semantic_token_anchoring_for_continuous_latent_autoregressive_speech_g.pdf"
+          }
+        },
+        {
+          "title": "CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG",
+          "source": "arxiv",
+          "date": "2026-08-07T17:51:49Z",
+          "page_url": "https://arxiv.org/abs/2608.07458v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.07458v1",
+          "saved_at": "2026-08-10",
+          "files": {
+            "pdf": "data/news/2026-08-10/coinrag_contextualized_information_nugget_kv_cache_reuse_for_long_context_rag.pdf"
+          }
+        },
+        {
+          "title": "SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent",
+          "source": "arxiv",
+          "date": "2026-08-07T17:40:33Z",
+          "page_url": "https://arxiv.org/abs/2608.07449v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.07449v1",
+          "saved_at": "2026-08-10",
+          "files": {
+            "pdf": "data/news/2026-08-10/skillprox_self_evolving_agent_skills_via_proximal_textual_gradient_descent.pdf"
+          }
+        },
+        {
+          "title": "Active movement of foraging sea turtles generates anomalous looping",
+          "source": "arxiv",
+          "date": "2026-08-07T17:37:28Z",
+          "page_url": "https://arxiv.org/abs/2608.07448v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.07448v1",
+          "saved_at": "2026-08-10",
+          "files": {
+            "pdf": "data/news/2026-08-10/active_movement_of_foraging_sea_turtles_generates_anomalous_looping.pdf"
+          }
+        },
+        {
+          "title": "Taxonomy-Driven Analysis of Open-Source AI Risk Mitigation Tools",
+          "source": "arxiv",
+          "date": "2026-08-07T17:33:09Z",
+          "page_url": "https://arxiv.org/abs/2608.07446v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.07446v1",
+          "saved_at": "2026-08-10",
+          "files": {
+            "pdf": "data/news/2026-08-10/taxonomy_driven_analysis_of_open_source_ai_risk_mitigation_tools.pdf"
+          }
+        },
+        {
+          "title": "Active Control of Extreme Ultraviolet Photon Flux and Resolution with a Plane Ruled Reflection Grating Spectrometer that Measures Diverging High-Harmonics",
+          "source": "arxiv",
+          "date": "2026-08-07T17:24:58Z",
+          "page_url": "https://arxiv.org/abs/2608.07441v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.07441v1",
+          "saved_at": "2026-08-10",
+          "files": {
+            "pdf": "data/news/2026-08-10/active_control_of_extreme_ultraviolet_photon_flux_and_resolution_with_a_plane_ru.pdf"
+          }
+        },
+        {
+          "title": "PsychoAgent: An Affect-Sensitive Cognitive Architecture for Conflict-Aware Memory in LLM Agents",
+          "source": "arxiv",
+          "date": "2026-08-07T17:22:29Z",
+          "page_url": "https://arxiv.org/abs/2608.07438v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.07438v1",
+          "saved_at": "2026-08-10",
+          "files": {
+            "pdf": "data/news/2026-08-10/psychoagent_an_affect_sensitive_cognitive_architecture_for_conflict_aware_memory.pdf"
+          }
+        },
+        {
+          "title": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
+          "source": "arxiv",
+          "date": "2026-08-07T17:22:00Z",
+          "page_url": "https://arxiv.org/abs/2608.07437v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.07437v1",
+          "saved_at": "2026-08-10",
+          "files": {
+            "pdf": "data/news/2026-08-10/fisher_r1_training_llm_agents_for_reliable_hypothesis_testing.pdf"
+          }
+        },
+        {
+          "title": "SABRE: Scalable and Automated Benchmarking of VLMs under Stress",
+          "source": "arxiv",
+          "date": "2026-08-07T17:21:04Z",
+          "page_url": "https://arxiv.org/abs/2608.07435v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.07435v1",
+          "saved_at": "2026-08-10",
+          "files": {
+            "pdf": "data/news/2026-08-10/sabre_scalable_and_automated_benchmarking_of_vlms_under_stress.pdf"
           }
         }
       ]
