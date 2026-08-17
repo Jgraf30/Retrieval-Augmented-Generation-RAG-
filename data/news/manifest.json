@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T14:14:54.719927Z",
+  "generated_at": "2026-08-17T13:36:13.404767Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -5101,6 +5101,122 @@
           "saved_at": "2026-08-10",
           "files": {
             "pdf": "data/news/2026-08-10/sabre_scalable_and_automated_benchmarking_of_vlms_under_stress.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "count": 10,
+      "items": [
+        {
+          "title": "CPI-Bench: A Comprehensive,Practical and Intelligent Benchmark for Real-World Image Editing",
+          "source": "arxiv",
+          "date": "2026-08-14T17:59:01Z",
+          "page_url": "https://arxiv.org/abs/2608.14546v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.14546v1",
+          "saved_at": "2026-08-17",
+          "files": {
+            "pdf": "data/news/2026-08-17/cpi_bench_a_comprehensive_practical_and_intelligent_benchmark_for_real_world_ima.pdf"
+          }
+        },
+        {
+          "title": "Generation-Powered Inference for Distribution-Valued Outcomes",
+          "source": "arxiv",
+          "date": "2026-08-14T17:55:48Z",
+          "page_url": "https://arxiv.org/abs/2608.14542v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.14542v1",
+          "saved_at": "2026-08-17",
+          "files": {
+            "pdf": "data/news/2026-08-17/generation_powered_inference_for_distribution_valued_outcomes.pdf"
+          }
+        },
+        {
+          "title": "Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils",
+          "source": "arxiv",
+          "date": "2026-08-14T17:51:30Z",
+          "page_url": "https://arxiv.org/abs/2608.14539v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.14539v1",
+          "saved_at": "2026-08-17",
+          "files": {
+            "pdf": "data/news/2026-08-17/decoding_the_past_an_uncertainty_aware_deep_learning_framework_for_sex_attributi.pdf"
+          }
+        },
+        {
+          "title": "Joint Estimation of Sparse Multilayer Networks via Graph Limits",
+          "source": "arxiv",
+          "date": "2026-08-14T17:50:12Z",
+          "page_url": "https://arxiv.org/abs/2608.14536v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.14536v1",
+          "saved_at": "2026-08-17",
+          "files": {
+            "pdf": "data/news/2026-08-17/joint_estimation_of_sparse_multilayer_networks_via_graph_limits.pdf"
+          }
+        },
+        {
+          "title": "Marionette: Predicting World States, Rendering Geometry, Painting Appearance",
+          "source": "arxiv",
+          "date": "2026-08-14T17:48:16Z",
+          "page_url": "https://arxiv.org/abs/2608.14530v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.14530v1",
+          "saved_at": "2026-08-17",
+          "files": {
+            "pdf": "data/news/2026-08-17/marionette_predicting_world_states_rendering_geometry_painting_appearance.pdf"
+          }
+        },
+        {
+          "title": "Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training",
+          "source": "arxiv",
+          "date": "2026-08-14T17:13:34Z",
+          "page_url": "https://arxiv.org/abs/2608.14498v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.14498v1",
+          "saved_at": "2026-08-17",
+          "files": {
+            "pdf": "data/news/2026-08-17/rollplex_cross_phase_gpu_spatial_sharing_for_vision_language_model_post_training.pdf"
+          }
+        },
+        {
+          "title": "Generating Benchmark Health Data Using a Tabular Diffusion Transformer",
+          "source": "arxiv",
+          "date": "2026-08-14T17:10:44Z",
+          "page_url": "https://arxiv.org/abs/2608.14496v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.14496v1",
+          "saved_at": "2026-08-17",
+          "files": {
+            "pdf": "data/news/2026-08-17/generating_benchmark_health_data_using_a_tabular_diffusion_transformer.pdf"
+          }
+        },
+        {
+          "title": "Building AI-Intensive Software with AI: Early Results and a Cautionary Tale on Measuring Development Cost",
+          "source": "arxiv",
+          "date": "2026-08-13T19:44:41Z",
+          "page_url": "https://arxiv.org/abs/2608.13730v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.13730v1",
+          "saved_at": "2026-08-17",
+          "files": {
+            "pdf": "data/news/2026-08-17/building_ai_intensive_software_with_ai_early_results_and_a_cautionary_tale_on_me.pdf"
+          }
+        },
+        {
+          "title": "Does Fixing Break Security? An Empirical Study of Security Degradation in Iterative LLM-Driven Infrastructure-as-Code Repair",
+          "source": "arxiv",
+          "date": "2026-08-14T16:41:22Z",
+          "page_url": "https://arxiv.org/abs/2608.13404v2",
+          "pdf_url": "https://arxiv.org/pdf/2608.13404v2",
+          "saved_at": "2026-08-17",
+          "files": {
+            "pdf": "data/news/2026-08-17/does_fixing_break_security_an_empirical_study_of_security_degradation_in_iterati.pdf"
+          }
+        },
+        {
+          "title": "Reconcile Once, Write Anytime: A Trust-Tiered Librarian and a Multi-Agent Writer for Drift-Free, Point-in-Time Research",
+          "source": "arxiv",
+          "date": "2026-08-13T09:09:28Z",
+          "page_url": "https://arxiv.org/abs/2608.12984v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.12984v1",
+          "saved_at": "2026-08-17",
+          "files": {
+            "pdf": "data/news/2026-08-17/reconcile_once_write_anytime_a_trust_tiered_librarian_and_a_multi_agent_writer_f.pdf"
           }
         }
       ]
