@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T13:36:13.404767Z",
+  "generated_at": "2026-08-24T13:43:38.343203Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -5217,6 +5217,122 @@
           "saved_at": "2026-08-17",
           "files": {
             "pdf": "data/news/2026-08-17/reconcile_once_write_anytime_a_trust_tiered_librarian_and_a_multi_agent_writer_f.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-24",
+      "count": 10,
+      "items": [
+        {
+          "title": "ViTacPhys: Physical Property-Aware Grasping from Human Visual-Tactile Demonstrations",
+          "source": "arxiv",
+          "date": "2026-08-21T17:58:10Z",
+          "page_url": "https://arxiv.org/abs/2608.21355v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.21355v1",
+          "saved_at": "2026-08-24",
+          "files": {
+            "pdf": "data/news/2026-08-24/vitacphys_physical_property_aware_grasping_from_human_visual_tactile_demonstrati.pdf"
+          }
+        },
+        {
+          "title": "Magic Velocity Selection in Atom Interferometry",
+          "source": "arxiv",
+          "date": "2026-08-21T17:54:52Z",
+          "page_url": "https://arxiv.org/abs/2608.21350v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.21350v1",
+          "saved_at": "2026-08-24",
+          "files": {
+            "pdf": "data/news/2026-08-24/magic_velocity_selection_in_atom_interferometry.pdf"
+          }
+        },
+        {
+          "title": "Across-Design Uncertainty in Short Pricing Panels: Evidence from Simulated Price Trajectories",
+          "source": "arxiv",
+          "date": "2026-08-21T17:40:31Z",
+          "page_url": "https://arxiv.org/abs/2608.21334v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.21334v1",
+          "saved_at": "2026-08-24",
+          "files": {
+            "pdf": "data/news/2026-08-24/across_design_uncertainty_in_short_pricing_panels_evidence_from_simulated_price.pdf"
+          }
+        },
+        {
+          "title": "Hypothesis testing between quantum ensembles",
+          "source": "arxiv",
+          "date": "2026-08-21T17:29:43Z",
+          "page_url": "https://arxiv.org/abs/2608.21321v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.21321v1",
+          "saved_at": "2026-08-24",
+          "files": {
+            "pdf": "data/news/2026-08-24/hypothesis_testing_between_quantum_ensembles.pdf"
+          }
+        },
+        {
+          "title": "From Regulation to Implementation: A Critical Evaluation of LLM-Assisted Regulatory Compliance in Industry",
+          "source": "arxiv",
+          "date": "2026-08-21T17:27:13Z",
+          "page_url": "https://arxiv.org/abs/2608.21317v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.21317v1",
+          "saved_at": "2026-08-24",
+          "files": {
+            "pdf": "data/news/2026-08-24/from_regulation_to_implementation_a_critical_evaluation_of_llm_assisted_regulato.pdf"
+          }
+        },
+        {
+          "title": "Re$^3$Cap: Retrieval-Guided Refinement for Image Captioning Enhancement via Reinforcement Learning",
+          "source": "arxiv",
+          "date": "2026-08-21T17:07:41Z",
+          "page_url": "https://arxiv.org/abs/2608.21305v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.21305v1",
+          "saved_at": "2026-08-24",
+          "files": {
+            "pdf": "data/news/2026-08-24/re_3_cap_retrieval_guided_refinement_for_image_captioning_enhancement_via_reinfo.pdf"
+          }
+        },
+        {
+          "title": "Random quantum circuits, chaos and quantum thermalization",
+          "source": "arxiv",
+          "date": "2026-08-21T17:06:33Z",
+          "page_url": "https://arxiv.org/abs/2608.21303v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.21303v1",
+          "saved_at": "2026-08-24",
+          "files": {
+            "pdf": "data/news/2026-08-24/random_quantum_circuits_chaos_and_quantum_thermalization.pdf"
+          }
+        },
+        {
+          "title": "AUSO: Action-Level Unified Skill Optimization from Internalization to Utilization",
+          "source": "arxiv",
+          "date": "2026-08-21T16:53:27Z",
+          "page_url": "https://arxiv.org/abs/2608.21292v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.21292v1",
+          "saved_at": "2026-08-24",
+          "files": {
+            "pdf": "data/news/2026-08-24/auso_action_level_unified_skill_optimization_from_internalization_to_utilization.pdf"
+          }
+        },
+        {
+          "title": "SENTRY: Deterministic, Intelligent Risk Assessment for IT Change Management",
+          "source": "arxiv",
+          "date": "2026-08-21T15:18:21Z",
+          "page_url": "https://arxiv.org/abs/2608.21203v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.21203v1",
+          "saved_at": "2026-08-24",
+          "files": {
+            "pdf": "data/news/2026-08-24/sentry_deterministic_intelligent_risk_assessment_for_it_change_management.pdf"
+          }
+        },
+        {
+          "title": "TTSD-FAR: Test-Time Self-Distillation with Fisher-Anchored Restoration for Missing-Modality Emotion Recognition in LVLMs",
+          "source": "arxiv",
+          "date": "2026-08-18T23:40:28Z",
+          "page_url": "https://arxiv.org/abs/2608.18386v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.18386v1",
+          "saved_at": "2026-08-24",
+          "files": {
+            "pdf": "data/news/2026-08-24/ttsd_far_test_time_self_distillation_with_fisher_anchored_restoration_for_missin.pdf"
           }
         }
       ]
