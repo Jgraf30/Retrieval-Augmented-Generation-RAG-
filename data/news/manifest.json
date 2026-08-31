@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T13:43:38.343203Z",
+  "generated_at": "2026-08-31T19:20:22.911810Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -5333,6 +5333,122 @@
           "saved_at": "2026-08-24",
           "files": {
             "pdf": "data/news/2026-08-24/ttsd_far_test_time_self_distillation_with_fisher_anchored_restoration_for_missin.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "count": 10,
+      "items": [
+        {
+          "title": "Modular Functors with Singularities from Vertex Operator Algebras Beyond Rigidity and Finiteness",
+          "source": "arxiv",
+          "date": "2026-08-28T17:55:53Z",
+          "page_url": "https://arxiv.org/abs/2608.28579v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.28579v1",
+          "saved_at": "2026-08-31",
+          "files": {
+            "pdf": "data/news/2026-08-31/modular_functors_with_singularities_from_vertex_operator_algebras_beyond_rigidit.pdf"
+          }
+        },
+        {
+          "title": "Learning a Size-Weight Frontier for Synthetic-Augmented Inference",
+          "source": "arxiv",
+          "date": "2026-08-28T17:52:33Z",
+          "page_url": "https://arxiv.org/abs/2608.28576v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.28576v1",
+          "saved_at": "2026-08-31",
+          "files": {
+            "pdf": "data/news/2026-08-31/learning_a_size_weight_frontier_for_synthetic_augmented_inference.pdf"
+          }
+        },
+        {
+          "title": "PULSAR: Pooled Unified Late-Interaction Search and Retrieval for Enterprise Visual Document RAG",
+          "source": "arxiv",
+          "date": "2026-08-28T17:49:22Z",
+          "page_url": "https://arxiv.org/abs/2608.28572v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.28572v1",
+          "saved_at": "2026-08-31",
+          "files": {
+            "pdf": "data/news/2026-08-31/pulsar_pooled_unified_late_interaction_search_and_retrieval_for_enterprise_visua.pdf"
+          }
+        },
+        {
+          "title": "Video Generative Models as Geometry Learner",
+          "source": "arxiv",
+          "date": "2026-08-28T17:25:31Z",
+          "page_url": "https://arxiv.org/abs/2608.28549v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.28549v1",
+          "saved_at": "2026-08-31",
+          "files": {
+            "pdf": "data/news/2026-08-31/video_generative_models_as_geometry_learner.pdf"
+          }
+        },
+        {
+          "title": "How AI Experiences Art: Emergent Aesthetic Structure in a Self-Supervised Multimodal Embedding Space",
+          "source": "arxiv",
+          "date": "2026-08-27T13:34:18Z",
+          "page_url": "https://arxiv.org/abs/2608.27121v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.27121v1",
+          "saved_at": "2026-08-31",
+          "files": {
+            "pdf": "data/news/2026-08-31/how_ai_experiences_art_emergent_aesthetic_structure_in_a_self_supervised_multimo.pdf"
+          }
+        },
+        {
+          "title": "Towards Expert Financial QA via Self-Improving RAG",
+          "source": "arxiv",
+          "date": "2026-08-27T07:01:41Z",
+          "page_url": "https://arxiv.org/abs/2608.26706v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.26706v1",
+          "saved_at": "2026-08-31",
+          "files": {
+            "pdf": "data/news/2026-08-31/towards_expert_financial_qa_via_self_improving_rag.pdf"
+          }
+        },
+        {
+          "title": "Evaluating Inference-Time Defenses Against Package Hallucination in LLM-Generated Code",
+          "source": "arxiv",
+          "date": "2026-08-23T23:17:56Z",
+          "page_url": "https://arxiv.org/abs/2608.22652v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.22652v1",
+          "saved_at": "2026-08-31",
+          "files": {
+            "pdf": "data/news/2026-08-31/evaluating_inference_time_defenses_against_package_hallucination_in_llm_generate.pdf"
+          }
+        },
+        {
+          "title": "RAG Collapse: LLM Responses Collapse When Retrieved Documents Are Self-Authored",
+          "source": "arxiv",
+          "date": "2026-08-22T22:06:44Z",
+          "page_url": "https://arxiv.org/abs/2608.22118v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.22118v1",
+          "saved_at": "2026-08-31",
+          "files": {
+            "pdf": "data/news/2026-08-31/rag_collapse_llm_responses_collapse_when_retrieved_documents_are_self_authored.pdf"
+          }
+        },
+        {
+          "title": "Preference Is Not Intervention: The Structure and Stability Boundaries of Reader-Specific Evidence Utility",
+          "source": "arxiv",
+          "date": "2026-08-18T13:45:17Z",
+          "page_url": "https://arxiv.org/abs/2608.17781v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.17781v1",
+          "saved_at": "2026-08-31",
+          "files": {
+            "pdf": "data/news/2026-08-31/preference_is_not_intervention_the_structure_and_stability_boundaries_of_reader.pdf"
+          }
+        },
+        {
+          "title": "GADR: Gathering Architecture Decision Records from Meeting Transcriptions",
+          "source": "arxiv",
+          "date": "2026-08-18T12:11:42Z",
+          "page_url": "https://arxiv.org/abs/2608.17694v1",
+          "pdf_url": "https://arxiv.org/pdf/2608.17694v1",
+          "saved_at": "2026-08-31",
+          "files": {
+            "pdf": "data/news/2026-08-31/gadr_gathering_architecture_decision_records_from_meeting_transcriptions.pdf"
           }
         }
       ]
