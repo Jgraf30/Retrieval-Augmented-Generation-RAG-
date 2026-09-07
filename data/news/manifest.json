@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T19:20:22.911810Z",
+  "generated_at": "2026-09-07T18:01:29.048179Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -5449,6 +5449,122 @@
           "saved_at": "2026-08-31",
           "files": {
             "pdf": "data/news/2026-08-31/gadr_gathering_architecture_decision_records_from_meeting_transcriptions.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "count": 10,
+      "items": [
+        {
+          "title": "A Deep Generative Model for Synthesizing Labeled Wireless Signals",
+          "source": "arxiv",
+          "date": "2026-09-04T17:44:54Z",
+          "page_url": "https://arxiv.org/abs/2609.05396v1",
+          "pdf_url": "https://arxiv.org/pdf/2609.05396v1",
+          "saved_at": "2026-09-07",
+          "files": {
+            "pdf": "data/news/2026-09-07/a_deep_generative_model_for_synthesizing_labeled_wireless_signals.pdf"
+          }
+        },
+        {
+          "title": "Non-reciprocally interacting Ornstein-Uhlenbeck processes: Exceptional points, Anomalous relaxation, Pseudo-equilibrium and Boundary refrigeration",
+          "source": "arxiv",
+          "date": "2026-09-04T17:41:56Z",
+          "page_url": "https://arxiv.org/abs/2609.05391v1",
+          "pdf_url": "https://arxiv.org/pdf/2609.05391v1",
+          "saved_at": "2026-09-07",
+          "files": {
+            "pdf": "data/news/2026-09-07/non_reciprocally_interacting_ornstein_uhlenbeck_processes_exceptional_points_ano.pdf"
+          }
+        },
+        {
+          "title": "Customized spin spirals in ferromagnetic thin films",
+          "source": "arxiv",
+          "date": "2026-09-04T17:34:27Z",
+          "page_url": "https://arxiv.org/abs/2609.05383v1",
+          "pdf_url": "https://arxiv.org/pdf/2609.05383v1",
+          "saved_at": "2026-09-07",
+          "files": {
+            "pdf": "data/news/2026-09-07/customized_spin_spirals_in_ferromagnetic_thin_films.pdf"
+          }
+        },
+        {
+          "title": "Reflection-aware Generative Novel View Synthesis",
+          "source": "arxiv",
+          "date": "2026-09-04T17:33:45Z",
+          "page_url": "https://arxiv.org/abs/2609.05382v1",
+          "pdf_url": "https://arxiv.org/pdf/2609.05382v1",
+          "saved_at": "2026-09-07",
+          "files": {
+            "pdf": "data/news/2026-09-07/reflection_aware_generative_novel_view_synthesis.pdf"
+          }
+        },
+        {
+          "title": "Integrality Gap Bounds for the Goemans-Linial SDP on Finite Abelian Cayley Graphs",
+          "source": "arxiv",
+          "date": "2026-09-04T17:12:50Z",
+          "page_url": "https://arxiv.org/abs/2609.05368v1",
+          "pdf_url": "https://arxiv.org/pdf/2609.05368v1",
+          "saved_at": "2026-09-07",
+          "files": {
+            "pdf": "data/news/2026-09-07/integrality_gap_bounds_for_the_goemans_linial_sdp_on_finite_abelian_cayley_graph.pdf"
+          }
+        },
+        {
+          "title": "Distill Globally, Adapt Locally: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation",
+          "source": "arxiv",
+          "date": "2026-09-04T17:08:50Z",
+          "page_url": "https://arxiv.org/abs/2609.05363v1",
+          "pdf_url": "https://arxiv.org/pdf/2609.05363v1",
+          "saved_at": "2026-09-07",
+          "files": {
+            "pdf": "data/news/2026-09-07/distill_globally_adapt_locally_reasoning_distillation_and_product_type_test_time.pdf"
+          }
+        },
+        {
+          "title": "Data-Driven Generator Transient Prediction for Digital Twin Decision Support",
+          "source": "arxiv",
+          "date": "2026-09-04T17:02:26Z",
+          "page_url": "https://arxiv.org/abs/2609.05356v1",
+          "pdf_url": "https://arxiv.org/pdf/2609.05356v1",
+          "saved_at": "2026-09-07",
+          "files": {
+            "pdf": "data/news/2026-09-07/data_driven_generator_transient_prediction_for_digital_twin_decision_support.pdf"
+          }
+        },
+        {
+          "title": "Electromagnetic alignment and jet precession around supermassive black holes: Quasi-periodic oscillations in tidal disruption events",
+          "source": "arxiv",
+          "date": "2026-09-04T16:58:18Z",
+          "page_url": "https://arxiv.org/abs/2609.05350v1",
+          "pdf_url": "https://arxiv.org/pdf/2609.05350v1",
+          "saved_at": "2026-09-07",
+          "files": {
+            "pdf": "data/news/2026-09-07/electromagnetic_alignment_and_jet_precession_around_supermassive_black_holes_qua.pdf"
+          }
+        },
+        {
+          "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
+          "source": "arxiv",
+          "date": "2026-09-03T06:01:47Z",
+          "page_url": "https://arxiv.org/abs/2609.03402v1",
+          "pdf_url": "https://arxiv.org/pdf/2609.03402v1",
+          "saved_at": "2026-09-07",
+          "files": {
+            "pdf": "data/news/2026-09-07/a_prompt_engineering_approach_to_develop_scalable_flexible_and_real_time_hybrid.pdf"
+          }
+        },
+        {
+          "title": "MemoryWalker: Stop Training Agents on Contexts They Never Saw",
+          "source": "arxiv",
+          "date": "2026-09-01T08:01:27Z",
+          "page_url": "https://arxiv.org/abs/2609.00865v1",
+          "pdf_url": "https://arxiv.org/pdf/2609.00865v1",
+          "saved_at": "2026-09-07",
+          "files": {
+            "pdf": "data/news/2026-09-07/memorywalker_stop_training_agents_on_contexts_they_never_saw.pdf"
           }
         }
       ]
