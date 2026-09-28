@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T18:01:29.048179Z",
+  "generated_at": "2026-09-28T19:56:01.263657Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -5565,6 +5565,122 @@
           "saved_at": "2026-09-07",
           "files": {
             "pdf": "data/news/2026-09-07/memorywalker_stop_training_agents_on_contexts_they_never_saw.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "count": 10,
+      "items": [
+        {
+          "title": "FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders",
+          "source": "arxiv",
+          "date": "2026-09-25T17:59:59Z",
+          "page_url": "https://arxiv.org/abs/2609.31620v1",
+          "pdf_url": "https://arxiv.org/pdf/2609.31620v1",
+          "saved_at": "2026-09-28",
+          "files": {
+            "pdf": "data/news/2026-09-28/fusereg_regularizing_layer_fusion_mitigates_the_reconstruction_generation_gap_in.pdf"
+          }
+        },
+        {
+          "title": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency",
+          "source": "arxiv",
+          "date": "2026-09-25T17:59:52Z",
+          "page_url": "https://arxiv.org/abs/2609.31619v1",
+          "pdf_url": "https://arxiv.org/pdf/2609.31619v1",
+          "saved_at": "2026-09-28",
+          "files": {
+            "pdf": "data/news/2026-09-28/learning_to_stop_without_learning_to_stop_self_supervised_confidence_training_im.pdf"
+          }
+        },
+        {
+          "title": "A Multidimensional General-Relativistic Boltzmann Solver for Neutrino Transport: Implementation, Discretization and Optimization",
+          "source": "arxiv",
+          "date": "2026-09-25T17:57:00Z",
+          "page_url": "https://arxiv.org/abs/2609.31611v1",
+          "pdf_url": "https://arxiv.org/pdf/2609.31611v1",
+          "saved_at": "2026-09-28",
+          "files": {
+            "pdf": "data/news/2026-09-28/a_multidimensional_general_relativistic_boltzmann_solver_for_neutrino_transport.pdf"
+          }
+        },
+        {
+          "title": "GraphWrit3R: End-to-End 3D Scene Graph Writing",
+          "source": "arxiv",
+          "date": "2026-09-25T17:52:39Z",
+          "page_url": "https://arxiv.org/abs/2609.31595v1",
+          "pdf_url": "https://arxiv.org/pdf/2609.31595v1",
+          "saved_at": "2026-09-28",
+          "files": {
+            "pdf": "data/news/2026-09-28/graphwrit3r_end_to_end_3d_scene_graph_writing.pdf"
+          }
+        },
+        {
+          "title": "Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer",
+          "source": "arxiv",
+          "date": "2026-09-25T17:42:22Z",
+          "page_url": "https://arxiv.org/abs/2609.31587v1",
+          "pdf_url": "https://arxiv.org/pdf/2609.31587v1",
+          "saved_at": "2026-09-28",
+          "files": {
+            "pdf": "data/news/2026-09-28/compact_documentation_for_coding_agents_a_benchmark_an_optimizer_and_why_it_does.pdf"
+          }
+        },
+        {
+          "title": "How Far Can INRs Go? Cross-Domain Parameter-efficient INR-Based Semantic Segmentation for Brain MRI",
+          "source": "arxiv",
+          "date": "2026-09-25T17:35:07Z",
+          "page_url": "https://arxiv.org/abs/2609.31573v1",
+          "pdf_url": "https://arxiv.org/pdf/2609.31573v1",
+          "saved_at": "2026-09-28",
+          "files": {
+            "pdf": "data/news/2026-09-28/how_far_can_inrs_go_cross_domain_parameter_efficient_inr_based_semantic_segmenta.pdf"
+          }
+        },
+        {
+          "title": "A Comprehensive Study of the Magnetic White Dwarfs in DESI DR1",
+          "source": "arxiv",
+          "date": "2026-09-25T17:29:53Z",
+          "page_url": "https://arxiv.org/abs/2609.31565v1",
+          "pdf_url": "https://arxiv.org/pdf/2609.31565v1",
+          "saved_at": "2026-09-28",
+          "files": {
+            "pdf": "data/news/2026-09-28/a_comprehensive_study_of_the_magnetic_white_dwarfs_in_desi_dr1.pdf"
+          }
+        },
+        {
+          "title": "Knowledge-as-Skill: A Structural Design for Autonomous Knowledge-Base Use by LLM Agents",
+          "source": "arxiv",
+          "date": "2026-09-22T10:44:10Z",
+          "page_url": "https://arxiv.org/abs/2609.25991v1",
+          "pdf_url": "https://arxiv.org/pdf/2609.25991v1",
+          "saved_at": "2026-09-28",
+          "files": {
+            "pdf": "data/news/2026-09-28/knowledge_as_skill_a_structural_design_for_autonomous_knowledge_base_use_by_llm.pdf"
+          }
+        },
+        {
+          "title": "Document Retrieval-Aware Chunking (D-RAC): Universal Retrieval-Aware Ingestion of Enterprise Documents via PDF Normalization and Multimodal Markdown Conversion",
+          "source": "arxiv",
+          "date": "2026-09-21T07:38:12Z",
+          "page_url": "https://arxiv.org/abs/2609.24220v1",
+          "pdf_url": "https://arxiv.org/pdf/2609.24220v1",
+          "saved_at": "2026-09-28",
+          "files": {
+            "pdf": "data/news/2026-09-28/document_retrieval_aware_chunking_d_rac_universal_retrieval_aware_ingestion_of_e.pdf"
+          }
+        },
+        {
+          "title": "An Interpretable Memory Decision Controller for LLM Agents Based on Three-Signal Complementarity: Decoupling Confidence and Consistency",
+          "source": "arxiv",
+          "date": "2026-09-18T17:34:13Z",
+          "page_url": "https://arxiv.org/abs/2609.22043v1",
+          "pdf_url": "https://arxiv.org/pdf/2609.22043v1",
+          "saved_at": "2026-09-28",
+          "files": {
+            "pdf": "data/news/2026-09-28/an_interpretable_memory_decision_controller_for_llm_agents_based_on_three_signal.pdf"
           }
         }
       ]
