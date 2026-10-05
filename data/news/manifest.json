@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:56:01.263657Z",
+  "generated_at": "2026-10-05T20:54:23.661097Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -5681,6 +5681,122 @@
           "saved_at": "2026-09-28",
           "files": {
             "pdf": "data/news/2026-09-28/an_interpretable_memory_decision_controller_for_llm_agents_based_on_three_signal.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "count": 10,
+      "items": [
+        {
+          "title": "MoSE3: Learning World-Space SE(3) at Every Pixel",
+          "source": "arxiv",
+          "date": "2026-10-02T17:58:52Z",
+          "page_url": "https://arxiv.org/abs/2610.03716v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.03716v1",
+          "saved_at": "2026-10-05",
+          "files": {
+            "pdf": "data/news/2026-10-05/mose3_learning_world_space_se_3_at_every_pixel.pdf"
+          }
+        },
+        {
+          "title": "SpiderCSS: Scalable Fault-Tolerant CSS State Preparation",
+          "source": "arxiv",
+          "date": "2026-10-02T17:58:44Z",
+          "page_url": "https://arxiv.org/abs/2610.03714v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.03714v1",
+          "saved_at": "2026-10-05",
+          "files": {
+            "pdf": "data/news/2026-10-05/spidercss_scalable_fault_tolerant_css_state_preparation.pdf"
+          }
+        },
+        {
+          "title": "FlowHMR: Physically Plausible Motion Capture from Video",
+          "source": "arxiv",
+          "date": "2026-10-02T17:52:48Z",
+          "page_url": "https://arxiv.org/abs/2610.03691v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.03691v1",
+          "saved_at": "2026-10-05",
+          "files": {
+            "pdf": "data/news/2026-10-05/flowhmr_physically_plausible_motion_capture_from_video.pdf"
+          }
+        },
+        {
+          "title": "Single-Shot Error Correction at Optimal Spacetime Cost",
+          "source": "arxiv",
+          "date": "2026-10-02T17:50:12Z",
+          "page_url": "https://arxiv.org/abs/2610.03684v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.03684v1",
+          "saved_at": "2026-10-05",
+          "files": {
+            "pdf": "data/news/2026-10-05/single_shot_error_correction_at_optimal_spacetime_cost.pdf"
+          }
+        },
+        {
+          "title": "ProAR: Learning Prospective Reasoning with Autoregressive Video Models",
+          "source": "arxiv",
+          "date": "2026-10-02T17:37:47Z",
+          "page_url": "https://arxiv.org/abs/2610.03664v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.03664v1",
+          "saved_at": "2026-10-05",
+          "files": {
+            "pdf": "data/news/2026-10-05/proar_learning_prospective_reasoning_with_autoregressive_video_models.pdf"
+          }
+        },
+        {
+          "title": "BARC codes: general polynomial framework for coherent-state superposition codes",
+          "source": "arxiv",
+          "date": "2026-10-02T17:37:43Z",
+          "page_url": "https://arxiv.org/abs/2610.03663v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.03663v1",
+          "saved_at": "2026-10-05",
+          "files": {
+            "pdf": "data/news/2026-10-05/barc_codes_general_polynomial_framework_for_coherent_state_superposition_codes.pdf"
+          }
+        },
+        {
+          "title": "Forecasting from Counterfactual Simulator Rollouts: A Sim2Real Evaluation",
+          "source": "arxiv",
+          "date": "2026-10-02T17:37:14Z",
+          "page_url": "https://arxiv.org/abs/2610.03662v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.03662v1",
+          "saved_at": "2026-10-05",
+          "files": {
+            "pdf": "data/news/2026-10-05/forecasting_from_counterfactual_simulator_rollouts_a_sim2real_evaluation.pdf"
+          }
+        },
+        {
+          "title": "Revisiting Input Time-frequency Representations in Multi-pitch Estimation for Vocal Ensembles",
+          "source": "arxiv",
+          "date": "2026-10-02T17:35:06Z",
+          "page_url": "https://arxiv.org/abs/2610.03656v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.03656v1",
+          "saved_at": "2026-10-05",
+          "files": {
+            "pdf": "data/news/2026-10-05/revisiting_input_time_frequency_representations_in_multi_pitch_estimation_for_vo.pdf"
+          }
+        },
+        {
+          "title": "From Knowledge Access to Source Learning: Developing Source-Specific Competence",
+          "source": "arxiv",
+          "date": "2026-10-01T17:50:16Z",
+          "page_url": "https://arxiv.org/abs/2610.02150v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.02150v1",
+          "saved_at": "2026-10-05",
+          "files": {
+            "pdf": "data/news/2026-10-05/from_knowledge_access_to_source_learning_developing_source_specific_competence.pdf"
+          }
+        },
+        {
+          "title": "AdaTutoRank: Learning to Rerank Document Sets via Adaptive Tutoring Optimization for RAG and Deep Research",
+          "source": "arxiv",
+          "date": "2026-09-29T03:10:15Z",
+          "page_url": "https://arxiv.org/abs/2609.32472v2",
+          "pdf_url": "https://arxiv.org/pdf/2609.32472v2",
+          "saved_at": "2026-10-05",
+          "files": {
+            "pdf": "data/news/2026-10-05/adatutorank_learning_to_rerank_document_sets_via_adaptive_tutoring_optimization.pdf"
           }
         }
       ]
