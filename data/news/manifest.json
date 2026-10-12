@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T20:54:23.661097Z",
+  "generated_at": "2026-10-12T21:29:54.036755Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -5797,6 +5797,122 @@
           "saved_at": "2026-10-05",
           "files": {
             "pdf": "data/news/2026-10-05/adatutorank_learning_to_rerank_document_sets_via_adaptive_tutoring_optimization.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "count": 10,
+      "items": [
+        {
+          "title": "Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
+          "source": "arxiv",
+          "date": "2026-10-09T17:59:41Z",
+          "page_url": "https://arxiv.org/abs/2610.13947v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.13947v1",
+          "saved_at": "2026-10-12",
+          "files": {
+            "pdf": "data/news/2026-10-12/towards_physically_grounded_articulated_3d_assets_a_multi_agent_pipeline_and_ben.pdf"
+          }
+        },
+        {
+          "title": "KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling",
+          "source": "arxiv",
+          "date": "2026-10-09T17:54:16Z",
+          "page_url": "https://arxiv.org/abs/2610.13924v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.13924v1",
+          "saved_at": "2026-10-12",
+          "files": {
+            "pdf": "data/news/2026-10-12/kl_before_and_after_mixing_a_round_complexity_separation_in_parallel_sampling.pdf"
+          }
+        },
+        {
+          "title": "Designing Protein Structures from Natural Language",
+          "source": "arxiv",
+          "date": "2026-10-09T17:51:55Z",
+          "page_url": "https://arxiv.org/abs/2610.13917v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.13917v1",
+          "saved_at": "2026-10-12",
+          "files": {
+            "pdf": "data/news/2026-10-12/designing_protein_structures_from_natural_language.pdf"
+          }
+        },
+        {
+          "title": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
+          "source": "arxiv",
+          "date": "2026-10-09T17:50:30Z",
+          "page_url": "https://arxiv.org/abs/2610.13912v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.13912v1",
+          "saved_at": "2026-10-12",
+          "files": {
+            "pdf": "data/news/2026-10-12/rsi_anything_unlocking_recursive_self_improvement_with_world_models.pdf"
+          }
+        },
+        {
+          "title": "X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems",
+          "source": "arxiv",
+          "date": "2026-10-09T17:34:44Z",
+          "page_url": "https://arxiv.org/abs/2610.13886v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.13886v1",
+          "saved_at": "2026-10-12",
+          "files": {
+            "pdf": "data/news/2026-10-12/x_agentred_red_teaming_personal_agents_in_evolving_multi_service_ecosystems.pdf"
+          }
+        },
+        {
+          "title": "PRIME: Pre-Retrieval Index Modeling Enhancement for Structured Document Retrieval-Real",
+          "source": "arxiv",
+          "date": "2026-10-09T09:44:47Z",
+          "page_url": "https://arxiv.org/abs/2610.13296v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.13296v1",
+          "saved_at": "2026-10-12",
+          "files": {
+            "pdf": "data/news/2026-10-12/prime_pre_retrieval_index_modeling_enhancement_for_structured_document_retrieval.pdf"
+          }
+        },
+        {
+          "title": "Locate, Judge, Read: Role-Specialized Tool Agents over a Knowledge-Point Index for Open-Domain Multimodal Document QA",
+          "source": "arxiv",
+          "date": "2026-10-09T07:21:36Z",
+          "page_url": "https://arxiv.org/abs/2610.13128v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.13128v1",
+          "saved_at": "2026-10-12",
+          "files": {
+            "pdf": "data/news/2026-10-12/locate_judge_read_role_specialized_tool_agents_over_a_knowledge_point_index_for.pdf"
+          }
+        },
+        {
+          "title": "CARET: Training-Free Test-Time Scaling for Repository-Level Code Completion",
+          "source": "arxiv",
+          "date": "2026-10-04T00:45:13Z",
+          "page_url": "https://arxiv.org/abs/2610.04837v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.04837v1",
+          "saved_at": "2026-10-12",
+          "files": {
+            "pdf": "data/news/2026-10-12/caret_training_free_test_time_scaling_for_repository_level_code_completion.pdf"
+          }
+        },
+        {
+          "title": "Contiguity, Not Importance: Budgeted Repair of Stale KV Caches After Document Edits",
+          "source": "arxiv",
+          "date": "2026-09-16T01:13:04Z",
+          "page_url": "https://arxiv.org/abs/2609.17983v1",
+          "pdf_url": "https://arxiv.org/pdf/2609.17983v1",
+          "saved_at": "2026-10-12",
+          "files": {
+            "pdf": "data/news/2026-10-12/contiguity_not_importance_budgeted_repair_of_stale_kv_caches_after_document_edit.pdf"
+          }
+        },
+        {
+          "title": "InceptionRAG: Stealthy Poisoning Attack Against Retrieval-Augmented Generation",
+          "source": "arxiv",
+          "date": "2026-09-15T08:22:10Z",
+          "page_url": "https://arxiv.org/abs/2609.16818v1",
+          "pdf_url": "https://arxiv.org/pdf/2609.16818v1",
+          "saved_at": "2026-10-12",
+          "files": {
+            "pdf": "data/news/2026-10-12/inceptionrag_stealthy_poisoning_attack_against_retrieval_augmented_generation.pdf"
           }
         }
       ]
