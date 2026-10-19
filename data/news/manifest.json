@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:29:54.036755Z",
+  "generated_at": "2026-10-19T18:55:59.069673Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -5913,6 +5913,122 @@
           "saved_at": "2026-10-12",
           "files": {
             "pdf": "data/news/2026-10-12/inceptionrag_stealthy_poisoning_attack_against_retrieval_augmented_generation.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "count": 10,
+      "items": [
+        {
+          "title": "Rethinking the design space of Vanilla Pixel Diffusion Transformers",
+          "source": "arxiv",
+          "date": "2026-10-16T17:59:30Z",
+          "page_url": "https://arxiv.org/abs/2610.23854v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.23854v1",
+          "saved_at": "2026-10-19",
+          "files": {
+            "pdf": "data/news/2026-10-19/rethinking_the_design_space_of_vanilla_pixel_diffusion_transformers.pdf"
+          }
+        },
+        {
+          "title": "Flashing with colours: Photometric indicators of an early interaction in type II supernovae",
+          "source": "arxiv",
+          "date": "2026-10-16T17:58:52Z",
+          "page_url": "https://arxiv.org/abs/2610.23852v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.23852v1",
+          "saved_at": "2026-10-19",
+          "files": {
+            "pdf": "data/news/2026-10-19/flashing_with_colours_photometric_indicators_of_an_early_interaction_in_type_ii.pdf"
+          }
+        },
+        {
+          "title": "Bad Diagnosis: Analyzing Consent and Data Collection Practices of Mobile Medical Apps",
+          "source": "arxiv",
+          "date": "2026-10-16T17:58:51Z",
+          "page_url": "https://arxiv.org/abs/2610.23851v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.23851v1",
+          "saved_at": "2026-10-19",
+          "files": {
+            "pdf": "data/news/2026-10-19/bad_diagnosis_analyzing_consent_and_data_collection_practices_of_mobile_medical.pdf"
+          }
+        },
+        {
+          "title": "Ionic switching between supermagnetic states",
+          "source": "arxiv",
+          "date": "2026-10-16T17:52:12Z",
+          "page_url": "https://arxiv.org/abs/2610.23829v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.23829v1",
+          "saved_at": "2026-10-19",
+          "files": {
+            "pdf": "data/news/2026-10-19/ionic_switching_between_supermagnetic_states.pdf"
+          }
+        },
+        {
+          "title": "Quality-of-Transmission Estimation in Quantum Networks: Compute, Simulate, or Learn?",
+          "source": "arxiv",
+          "date": "2026-10-16T17:49:43Z",
+          "page_url": "https://arxiv.org/abs/2610.23827v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.23827v1",
+          "saved_at": "2026-10-19",
+          "files": {
+            "pdf": "data/news/2026-10-19/quality_of_transmission_estimation_in_quantum_networks_compute_simulate_or_learn.pdf"
+          }
+        },
+        {
+          "title": "ENFR: Evidence Networks with Flow-Matched References for Amortized Simulation-Based Model Inference",
+          "source": "arxiv",
+          "date": "2026-10-16T17:48:26Z",
+          "page_url": "https://arxiv.org/abs/2610.23825v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.23825v1",
+          "saved_at": "2026-10-19",
+          "files": {
+            "pdf": "data/news/2026-10-19/enfr_evidence_networks_with_flow_matched_references_for_amortized_simulation_bas.pdf"
+          }
+        },
+        {
+          "title": "Learning without relearning physical symmetry: an SO(3)-equivariant convolutional network (CNN) on the sphere",
+          "source": "arxiv",
+          "date": "2026-10-16T17:45:43Z",
+          "page_url": "https://arxiv.org/abs/2610.23821v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.23821v1",
+          "saved_at": "2026-10-19",
+          "files": {
+            "pdf": "data/news/2026-10-19/learning_without_relearning_physical_symmetry_an_so_3_equivariant_convolutional.pdf"
+          }
+        },
+        {
+          "title": "Experimental Demonstration of a Balanced Travelling Wave Parametric Amplifier",
+          "source": "arxiv",
+          "date": "2026-10-16T17:33:48Z",
+          "page_url": "https://arxiv.org/abs/2610.23810v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.23810v1",
+          "saved_at": "2026-10-19",
+          "files": {
+            "pdf": "data/news/2026-10-19/experimental_demonstration_of_a_balanced_travelling_wave_parametric_amplifier.pdf"
+          }
+        },
+        {
+          "title": "Lyapunov Exponents in Power Systems: A Survey of Theory and Applications in Stability, Control, Forecasting, and Protection",
+          "source": "arxiv",
+          "date": "2026-10-16T17:33:01Z",
+          "page_url": "https://arxiv.org/abs/2610.23809v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.23809v1",
+          "saved_at": "2026-10-19",
+          "files": {
+            "pdf": "data/news/2026-10-19/lyapunov_exponents_in_power_systems_a_survey_of_theory_and_applications_in_stabi.pdf"
+          }
+        },
+        {
+          "title": "Deep Learning Reconstruction for Accelerated Radial CEST MR Fingerprinting",
+          "source": "arxiv",
+          "date": "2026-10-16T17:29:56Z",
+          "page_url": "https://arxiv.org/abs/2610.23805v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.23805v1",
+          "saved_at": "2026-10-19",
+          "files": {
+            "pdf": "data/news/2026-10-19/deep_learning_reconstruction_for_accelerated_radial_cest_mr_fingerprinting.pdf"
           }
         }
       ]
