@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:55:59.069673Z",
+  "generated_at": "2026-10-26T18:58:00.346944Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -6029,6 +6029,122 @@
           "saved_at": "2026-10-19",
           "files": {
             "pdf": "data/news/2026-10-19/deep_learning_reconstruction_for_accelerated_radial_cest_mr_fingerprinting.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "count": 10,
+      "items": [
+        {
+          "title": "Fr\u00e9chet Kriging for Metric Space-Valued Spatial Data",
+          "source": "arxiv",
+          "date": "2026-10-23T17:59:23Z",
+          "page_url": "https://arxiv.org/abs/2610.32979v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.32979v1",
+          "saved_at": "2026-10-26",
+          "files": {
+            "pdf": "data/news/2026-10-26/fr_chet_kriging_for_metric_space_valued_spatial_data.pdf"
+          }
+        },
+        {
+          "title": "Distributed Quantum-Centric Supercomputing with Multi-Layered Generative Learning for Intermolecular Interactions",
+          "source": "arxiv",
+          "date": "2026-10-23T17:55:19Z",
+          "page_url": "https://arxiv.org/abs/2610.32968v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.32968v1",
+          "saved_at": "2026-10-26",
+          "files": {
+            "pdf": "data/news/2026-10-26/distributed_quantum_centric_supercomputing_with_multi_layered_generative_learnin.pdf"
+          }
+        },
+        {
+          "title": "Optimal collective investment under regulatory uncertainty",
+          "source": "arxiv",
+          "date": "2026-10-23T17:50:55Z",
+          "page_url": "https://arxiv.org/abs/2610.32959v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.32959v1",
+          "saved_at": "2026-10-26",
+          "files": {
+            "pdf": "data/news/2026-10-26/optimal_collective_investment_under_regulatory_uncertainty.pdf"
+          }
+        },
+        {
+          "title": "Knowledge Distillation across Item and Code Spaces for Parallel Generative Recommendation",
+          "source": "arxiv",
+          "date": "2026-10-23T17:37:55Z",
+          "page_url": "https://arxiv.org/abs/2610.32943v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.32943v1",
+          "saved_at": "2026-10-26",
+          "files": {
+            "pdf": "data/news/2026-10-26/knowledge_distillation_across_item_and_code_spaces_for_parallel_generative_recom.pdf"
+          }
+        },
+        {
+          "title": "Yalda-Embedding: Open Development of a Competitive Persian Retrieval Model",
+          "source": "arxiv",
+          "date": "2026-10-23T17:30:40Z",
+          "page_url": "https://arxiv.org/abs/2610.32933v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.32933v1",
+          "saved_at": "2026-10-26",
+          "files": {
+            "pdf": "data/news/2026-10-26/yalda_embedding_open_development_of_a_competitive_persian_retrieval_model.pdf"
+          }
+        },
+        {
+          "title": "Adaptive Frequency Threshold Byte Pair Encoding for Mixed Natural Language and Structured Symbolic Corpora",
+          "source": "arxiv",
+          "date": "2026-10-23T17:21:18Z",
+          "page_url": "https://arxiv.org/abs/2610.32921v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.32921v1",
+          "saved_at": "2026-10-26",
+          "files": {
+            "pdf": "data/news/2026-10-26/adaptive_frequency_threshold_byte_pair_encoding_for_mixed_natural_language_and_s.pdf"
+          }
+        },
+        {
+          "title": "Before the Ticket: Grounding HPC User Support in Documentation and Resolved Tickets with an Agentic LLM Assistant",
+          "source": "arxiv",
+          "date": "2026-10-21T19:01:41Z",
+          "page_url": "https://arxiv.org/abs/2610.31703v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.31703v1",
+          "saved_at": "2026-10-26",
+          "files": {
+            "pdf": "data/news/2026-10-26/before_the_ticket_grounding_hpc_user_support_in_documentation_and_resolved_ticke.pdf"
+          }
+        },
+        {
+          "title": "DeclineCraft: A RAG Abstention Benchmark for Jointly Measuring Combined Retrieval and Parametric Knowledge",
+          "source": "arxiv",
+          "date": "2026-10-20T15:07:19Z",
+          "page_url": "https://arxiv.org/abs/2610.28340v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.28340v1",
+          "saved_at": "2026-10-26",
+          "files": {
+            "pdf": "data/news/2026-10-26/declinecraft_a_rag_abstention_benchmark_for_jointly_measuring_combined_retrieval.pdf"
+          }
+        },
+        {
+          "title": "CorrectRTL: Boost RTL Generation Quality Through Automated Self-Correction with Instruction Decomposition",
+          "source": "arxiv",
+          "date": "2026-10-18T03:15:20Z",
+          "page_url": "https://arxiv.org/abs/2610.24977v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.24977v1",
+          "saved_at": "2026-10-26",
+          "files": {
+            "pdf": "data/news/2026-10-26/correctrtl_boost_rtl_generation_quality_through_automated_self_correction_with_i.pdf"
+          }
+        },
+        {
+          "title": "A Cross-Domain Evaluation of Prompting Techniques for Large Language Models",
+          "source": "arxiv",
+          "date": "2026-10-17T23:18:46Z",
+          "page_url": "https://arxiv.org/abs/2610.24913v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.24913v1",
+          "saved_at": "2026-10-26",
+          "files": {
+            "pdf": "data/news/2026-10-26/a_cross_domain_evaluation_of_prompting_techniques_for_large_language_models.pdf"
           }
         }
       ]
