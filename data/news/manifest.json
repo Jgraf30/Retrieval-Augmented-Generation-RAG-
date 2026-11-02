@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T18:58:00.346944Z",
+  "generated_at": "2026-11-02T22:02:23.025877Z",
   "batches": [
     {
       "date": "2025-09-22",
@@ -6145,6 +6145,122 @@
           "saved_at": "2026-10-26",
           "files": {
             "pdf": "data/news/2026-10-26/a_cross_domain_evaluation_of_prompting_techniques_for_large_language_models.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "count": 10,
+      "items": [
+        {
+          "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
+          "source": "arxiv",
+          "date": "2026-10-30T17:59:43Z",
+          "page_url": "https://arxiv.org/abs/2610.42149v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.42149v1",
+          "saved_at": "2026-11-02",
+          "files": {
+            "pdf": "data/news/2026-11-02/latent_reasoning_in_continuous_space_for_unified_multimodal_models.pdf"
+          }
+        },
+        {
+          "title": "Hierarchical World Models with Implicit Dynamics",
+          "source": "arxiv",
+          "date": "2026-10-30T17:59:25Z",
+          "page_url": "https://arxiv.org/abs/2610.42146v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.42146v1",
+          "saved_at": "2026-11-02",
+          "files": {
+            "pdf": "data/news/2026-11-02/hierarchical_world_models_with_implicit_dynamics.pdf"
+          }
+        },
+        {
+          "title": "SemEllipsoid: Semantic-aware Shape Abstraction with Ellipsoid",
+          "source": "arxiv",
+          "date": "2026-10-30T17:59:14Z",
+          "page_url": "https://arxiv.org/abs/2610.42145v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.42145v1",
+          "saved_at": "2026-11-02",
+          "files": {
+            "pdf": "data/news/2026-11-02/semellipsoid_semantic_aware_shape_abstraction_with_ellipsoid.pdf"
+          }
+        },
+        {
+          "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+          "source": "arxiv",
+          "date": "2026-10-30T17:58:48Z",
+          "page_url": "https://arxiv.org/abs/2610.42141v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.42141v1",
+          "saved_at": "2026-11-02",
+          "files": {
+            "pdf": "data/news/2026-11-02/roboarchitect_automating_the_design_of_robotic_agents_with_persistent_memory.pdf"
+          }
+        },
+        {
+          "title": "Time-optimal quantum dynamics under fixed-norm generators",
+          "source": "arxiv",
+          "date": "2026-10-30T17:57:26Z",
+          "page_url": "https://arxiv.org/abs/2610.42131v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.42131v1",
+          "saved_at": "2026-11-02",
+          "files": {
+            "pdf": "data/news/2026-11-02/time_optimal_quantum_dynamics_under_fixed_norm_generators.pdf"
+          }
+        },
+        {
+          "title": "From Scalar Games to Unconstrained Network Zero-Sum Games: Transfer Principles for Gradient-Based Learning",
+          "source": "arxiv",
+          "date": "2026-10-30T17:37:41Z",
+          "page_url": "https://arxiv.org/abs/2610.42087v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.42087v1",
+          "saved_at": "2026-11-02",
+          "files": {
+            "pdf": "data/news/2026-11-02/from_scalar_games_to_unconstrained_network_zero_sum_games_transfer_principles_fo.pdf"
+          }
+        },
+        {
+          "title": "Decompose, Estimate, Select: Coverage-Aware Context Construction for Long-Form RAG",
+          "source": "arxiv",
+          "date": "2026-10-29T15:51:46Z",
+          "page_url": "https://arxiv.org/abs/2610.40314v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.40314v1",
+          "saved_at": "2026-11-02",
+          "files": {
+            "pdf": "data/news/2026-11-02/decompose_estimate_select_coverage_aware_context_construction_for_long_form_rag.pdf"
+          }
+        },
+        {
+          "title": "Incentivizing Self-Learning in Large Language Models via Reinforcement Learning",
+          "source": "arxiv",
+          "date": "2026-10-29T09:21:26Z",
+          "page_url": "https://arxiv.org/abs/2610.39671v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.39671v1",
+          "saved_at": "2026-11-02",
+          "files": {
+            "pdf": "data/news/2026-11-02/incentivizing_self_learning_in_large_language_models_via_reinforcement_learning.pdf"
+          }
+        },
+        {
+          "title": "DeFT-RAG: Decomposing Multi-Hop Questions into Self-Contained Sub-Questions with Reusable Answers",
+          "source": "arxiv",
+          "date": "2026-10-30T17:12:48Z",
+          "page_url": "https://arxiv.org/abs/2610.37826v2",
+          "pdf_url": "https://arxiv.org/pdf/2610.37826v2",
+          "saved_at": "2026-11-02",
+          "files": {
+            "pdf": "data/news/2026-11-02/deft_rag_decomposing_multi_hop_questions_into_self_contained_sub_questions_with.pdf"
+          }
+        },
+        {
+          "title": "QESChunker: A Single Objective Unifies Overlapping and Non-Overlapping Chunking for RAG",
+          "source": "arxiv",
+          "date": "2026-10-27T03:05:09Z",
+          "page_url": "https://arxiv.org/abs/2610.36557v1",
+          "pdf_url": "https://arxiv.org/pdf/2610.36557v1",
+          "saved_at": "2026-11-02",
+          "files": {
+            "pdf": "data/news/2026-11-02/qeschunker_a_single_objective_unifies_overlapping_and_non_overlapping_chunking_f.pdf"
           }
         }
       ]
